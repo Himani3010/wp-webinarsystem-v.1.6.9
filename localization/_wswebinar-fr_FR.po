@@ -1,0 +1,2687 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP WebinarSystem v1.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-22 10:22+0530\n"
+"PO-Revision-Date: 2016-10-07 22:51+0200\n"
+"Last-Translator: Thambaru Wijesekara <thambaru@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/js/jquery-ui.min.js:8
+msgid "'"
+msgstr "'"
+
+#: includes/class-webinarsysteem-chatlogs.php:26
+msgid "WP WebinarSystem Chatlogs"
+msgstr "Log Chats WP WebinarSystem"
+
+#: includes/class-webinarsysteem-chatlogs.php:27
+msgid "Select webinar to view chatlogs for active webinars"
+msgstr "Sélectionnez un Webinaire pour visualiser le log du Chat"
+
+#: includes/class-webinarsysteem-chatlogs.php:84
+msgid "Chatlog is empty for this webinar"
+msgstr "Log du Chat vide pour ce webinaire"
+
+#: includes/class-webinarsysteem-chatlogs.php:90
+msgid "Clear all the chat messages for this webinar?"
+msgstr "Purger tous les messages du chat de ce webinaire ?"
+
+#: includes/class-webinarsysteem-chatlogs.php:91
+msgid "Are you sure to delete selected chat messages?"
+msgstr "Êtes-vous sûr de vouloir supprimer les messages sélectionnés ?"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:75
+#, php-format
+msgid ""
+"Invalid Enormail API key. To fix, please visit <a href=\"%s\">WebinarSystem "
+"Settings</a>."
+msgstr ""
+"Clé API Enormail Invalide. Pour régler, veuillez voir les <a href=\"%s"
+"\">Paramètres WebinarSystem</a>."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:144
+#, php-format
+msgid "Invalid %s API KEY and URL."
+msgstr "Clé API %s invalide et URL."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:144
+#, php-format
+msgid "Please visit <a href=\"%s\">WebinarSystem Settings</a> to fix."
+msgstr "Veuillez vous régler les <a href=\"%s\">Paramètres WebinarSystem</a>."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:154
+msgid "Please add both API KEY and URL"
+msgstr "Veuillez ajoutez la clé API ET l'URL"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:160
+msgid "Invalid API credentials."
+msgstr "Références API invalides."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:209
+msgid "Invalid api key!"
+msgstr "Clé API invalide !"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:226
+#, php-format
+msgid ""
+"Invalid MailChimp API key. To fix, please visit <a href=\"%s\">WebinarSystem "
+"Settings</a>."
+msgstr ""
+"Clé API Mailchimp invalide. Pour régler, veuillez voir les <a href=\"%s"
+"\">Paramètres WebinarSystem</a>."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:279
+#, php-format
+msgid ""
+"Now you completed the aWeber authentication. For changes Go to <a href=\"%s"
+"\">WebinarSysteem Settings</a>."
+msgstr ""
+"Vous avez complété l'authentification aWeber. Pour des modifications allez "
+"aux <a href=\"%s\">Paramètres WebinarSystem</a>."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:293
+#, php-format
+msgid ""
+"Unexpectedly aWeber has been disconnected from the server. You are no longer "
+"subscribed to aWeber mailinglist. For Changes go to <a href=\"%s"
+"\">WebinarSysteem Settings</a>."
+msgstr ""
+"aWeber a été déconnecté du serveur de façon inattendue. Vous n'êtes plus "
+"inscrit à une mailinglist aWeber. Pour modifier aller aux <a href=\"%s"
+"\">Paramètres WebinarSysteem</a>."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:350
+#, php-format
+msgid ""
+"Invalid Getresponse API key. To fix, please visit <a href=\"%s"
+"\">WebinarSystem Settings</a>."
+msgstr ""
+"Clé API Getresponse invalide. Pour régler, veuillez voir les <a href=\"%s"
+"\">Paramètres WebinarSystem</a>."
+
+#: includes/class-webinarsysteem-promotional-notices.php:36
+msgid "Yes, download Pro!"
+msgstr "Oui, télécharger la version PRO"
+
+#: includes/class-webinarsysteem-promotional-notices.php:47
+#, php-format
+msgid ""
+"If you like <strong>WP WebinarSystem</strong> please leave us a %s rating. A "
+"huge thank you in advance!"
+msgstr ""
+"Si vous aimez <strong>WP WebinarSystem</strong>, merci de nous donner une "
+"évaluation de %s. Un grand merci par avance !"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-questions.php:26
+msgid "WP WebinarSystem Questions"
+msgstr "WP WebinarSystem Questions"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-questions.php:27
+msgid "Select webinar to view questions for active webinars"
+msgstr "Sélectionner le Webinaire pour voir les questions Webinaires actifs ."
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-questions.php:56
+#: includes/class-webinarsysteemattendees.php:77
+#: includes/class-webinarsysteemattendees.php:119
+#: includes/class-webinarsysteemoptions.php:1027
+msgid "Name"
+msgstr "Nom"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-questions.php:56
+msgid "Question"
+msgstr "Question"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-questions.php:56 includes/tmp-post.php:193
+#: includes/tmp-registration.php:158
+msgid "Time"
+msgstr "Heure"
+
+#: includes/class-webinarsysteem-questions.php:110
+msgid "Are you sure you want to clear selected questions?"
+msgstr "Êtes-vous sûr de vouloir supprimer les questions sélectionnés ?"
+
+#: includes/class-webinarsysteem-shortcodes.php:25
+#: includes/class-webinarsysteem-shortcodes.php:183
+msgid "Error: "
+msgstr "Erreur :"
+
+#: includes/class-webinarsysteem-shortcodes.php:25
+#: includes/class-webinarsysteem-shortcodes.php:183
+msgid "Invalid webinar id."
+msgstr "ID webinaire invalide."
+
+#: includes/class-webinarsysteem-shortcodes.php:40
+#, php-format
+msgid ""
+"You need to buy a ticket to register for this webinar. <a href=\"%s\">Click "
+"here</a> to buy a ticket."
+msgstr ""
+"Vous devez acheter un ticket pour vous inscrire à ce webinaire. <a href=\"%s"
+"\">Cliquez ici</a> pour acheter un ticket."
+
+#: includes/class-webinarsysteem-shortcodes.php:47
+#, php-format
+msgid "You've successfully registered for %s"
+msgstr "Vous êtes bien inscrit à %s"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-shortcodes.php:55
+#, php-format
+msgid "You're already registered for %s"
+msgstr "Vous êtes déjà incrit(e) pour %s"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-shortcodes.php:66
+#: includes/tmp-registration.php:286
+msgid "Registration is closed for this webinar."
+msgstr "Les inscriptions sont fermées pour ce Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-shortcodes.php:81
+#: includes/tmp-registration.php:244
+msgid "Your Name"
+msgstr "Votre nom"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-shortcodes.php:83
+#: includes/tmp-registration.php:246
+msgid "Please enter your name."
+msgstr "S'il vous plaît entrez votre nom."
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-shortcodes.php:85
+#: includes/class-webinarsysteem-shortcodes.php:197
+#: includes/tmp-registration.php:248 includes/tmp-registration.php:274
+msgid "Your Email Address"
+msgstr "Votre adresse émail"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-shortcodes.php:87
+#: includes/class-webinarsysteem-shortcodes.php:199
+#: includes/tmp-registration.php:250 includes/tmp-registration.php:276
+msgid "Please enter your email."
+msgstr "S'il vous plaît entrez votre email"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-shortcodes.php:116
+#: includes/templates/template-recurring-days-times-selects-boxes.php:48
+msgid "Select a day to watch."
+msgstr "Sélectionnez un jour à regarder"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-shortcodes.php:144
+#: includes/templates/template-recurring-days-times-selects-boxes.php:77
+msgid "Select a time to watch."
+msgstr "Sélectionnez un horaire à regarder"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem-shortcodes.php:202
+msgid "Please register before login."
+msgstr "Veuillez vous enregistrer avant de vous connecter."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:48
+#: includes/templates/template-metabox-ticket.php:6
+#, php-format
+msgid ""
+"Please install/activate WooCommerce first to integrate with WebinarSystem. "
+"You can find WooCommerce <a href=\"%s\" class=\"thickbox\" aria-label="
+"\"Download WooCommerce for WebinarSystem\" data-title=\"WooCommerce\">here</"
+"a>."
+msgstr ""
+"Veuiller installer / activer WooCommerce avant l'intégration avec "
+"WebinarSystem. Vous pouvez trouver WooCommerce <a href=\"%s\" class="
+"\"thickbox\" aria-label=\"Download WooCommerce for WebinarSystem\" data-"
+"title=\"WooCommerce\">ici</a>."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:218
+msgid "Your webinar ticket"
+msgstr "Votre ticket de webinaire"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:219
+msgid ""
+"You will receive your webinar ticket as soon as the payment for your order "
+"completes."
+msgstr ""
+"Vous recevrez votre ticket de wébinaire dès que votre paiement pour votre "
+"commande sera effectif."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:237
+msgid "My Webinar Tickets"
+msgstr "Mes tickets de wébinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:456 includes/class-webinarsysteem.php:477
+msgid "WP WebinarSystem"
+msgstr "WP WebinarSystem"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:456 includes/class-webinarsysteem.php:477
+msgid "WebinarSystem"
+msgstr "WebinarSystem"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:457 includes/class-webinarsysteem.php:601
+msgid "Webinars"
+msgstr "Webinaires"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:459
+msgid "New webinar"
+msgstr "Nouveau Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:460
+msgid "Attendee Lists"
+msgstr "Liste des participants"
+
+#: includes/class-webinarsysteem.php:461
+msgid "Private Questions"
+msgstr "Questions Privées"
+
+#: includes/class-webinarsysteem.php:463
+msgid "Chatlogs"
+msgstr "Log Chat"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:466 includes/class-webinarsysteem.php:478
+msgid "Settings"
+msgstr "Paramètres"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:520 includes/class-webinarsysteem.php:546
+msgid "Questions"
+msgstr "Questions"
+
+# @ default
+#: includes/class-webinarsysteem.php:525
+msgid "Duplicate this Webinar"
+msgstr "Dupliquer ce Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:525
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:544
+msgid "Views"
+msgstr "Vues"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:545
+msgid "Registrations"
+msgstr "Inscriptions"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:547
+msgid "Status"
+msgstr "Statut"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:602 includes/class-webinarsysteem.php:603
+#: includes/tmp-post.php:189
+msgid "Webinar"
+msgstr "Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:604 includes/class-webinarsysteem.php:605
+msgid "Add New Webinar"
+msgstr "Ajouter un nouveau Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:606
+msgid "New Webinar"
+msgstr "Nouveau Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:607
+msgid "Edit Webinar"
+msgstr "Editer Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:608
+msgid "View Webinar"
+msgstr "Voir Webinaire"
+
+#: includes/class-webinarsysteem.php:943
+msgid ""
+"Your license for WebinarSystem is seems to be Invalid. Please contact "
+"support desk!"
+msgstr ""
+"Votre license pour WebinarSystem semble être invalide. Veuillez contacter le "
+"service clients !"
+
+#: includes/class-webinarsysteem.php:946
+msgid ""
+"Your WebinarSystem license key has suspended! Please contact the support."
+msgstr ""
+"Votre clé de licence WebinarSystem a été suspendue ! Veuillez contacter le "
+"support."
+
+#: includes/class-webinarsysteem.php:949
+msgid ""
+"Your WebinarSystem license key has expired! Please renew it again before "
+"using the plugin."
+msgstr ""
+"Votre clé de licence WebinarSystem a expirée ! Veuillez la renouveler avant "
+"d'utiliser le plugin.."
+
+#: includes/class-webinarsysteem.php:952
+#, php-format
+msgid "Please %senter your license key%s to activate WebinarSystem plugin!"
+msgstr ""
+"Veuiller %s saisir votre clé de licence %s pour activer le plugin "
+"WebinarSystem !"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1189
+#: includes/class-webinarsysteem.php:1191
+#: includes/class-webinarsysteem.php:1196
+#: includes/templates/template-email-attendee-replay.php:21
+#: includes/templates/template-email-attendee1hr.php:26
+#: includes/templates/template-email-attendee24hr.php:26
+#: includes/templates/template-email-reader.php:24
+#: includes/templates/template-email-reader.php:45
+msgid "Hi"
+msgstr "Bonjour"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1189
+#: includes/templates/template-email-attendee1hr.php:28
+msgid ""
+"The webinar you signed up for starts in one hour. Below you will find the "
+"link to attend the webinar."
+msgstr ""
+"Le Webinaire auquel vous êtes inscrit commence dans une heure. Ci-dessous , "
+"vous trouverez le lien pour accéder au Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1189
+#: includes/class-webinarsysteem.php:1191
+#: includes/templates/template-email-attendee1hr.php:29
+#: includes/templates/template-email-attendee24hr.php:28
+#: includes/templates/template-email-reader.php:26
+#: includes/templates/template-email-reader.php:47
+msgid "Webinar name:"
+msgstr "Nom du Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1189
+#: includes/class-webinarsysteem.php:1191
+#: includes/templates/template-email-attendee1hr.php:30
+#: includes/templates/template-email-attendee24hr.php:29
+#: includes/templates/template-email-reader.php:27
+#: includes/templates/template-email-reader.php:48
+msgid "Date:"
+msgstr "Date :"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1189
+#: includes/class-webinarsysteem.php:1191
+#: includes/templates/template-email-attendee1hr.php:31
+#: includes/templates/template-email-attendee24hr.php:30
+#: includes/templates/template-email-reader.php:28
+#: includes/templates/template-email-reader.php:49
+msgid "Time:"
+msgstr "Heure :"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1189
+#: includes/class-webinarsysteem.php:1191
+#: includes/templates/template-email-attendee1hr.php:33
+#: includes/templates/template-email-attendee24hr.php:32
+#: includes/templates/template-email-reader.php:30
+#: includes/templates/template-email-reader.php:52
+msgid "See you then!"
+msgstr "A plus tard !"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1189
+#: includes/class-webinarsysteem.php:1191
+#: includes/class-webinarsysteem.php:1193
+#: includes/class-webinarsysteem.php:1196
+#: includes/templates/template-email-admin-email.php:9
+#: includes/templates/template-email-attendee-replay.php:25
+#: includes/templates/template-email-attendee-wbstarted.php:26
+#: includes/templates/template-email-attendee1hr.php:34
+#: includes/templates/template-email-attendee24hr.php:33
+#: includes/templates/template-email-reader.php:31
+#: includes/templates/template-email-reader.php:53
+msgid "Regards"
+msgstr "Cordialement"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1191
+#: includes/templates/template-email-attendee24hr.php:27
+msgid ""
+"This is a reminder for your upcoming webinar tomorrow. Below you will find "
+"the details of the webinar."
+msgstr ""
+"Ceci est un rappel pour le Webinaire de demain. Ci-dessous, vous trouverez "
+"les détails du Webinaire."
+
+#: includes/class-webinarsysteem.php:1193
+msgid ""
+"We are starting the webinar [receiver-name]! Click on the link below to join "
+"us."
+msgstr ""
+"Nous commençons le webinaire  [receiver-name]! Cliquez sur le lien ci-"
+"dessous pour nous rejoindre."
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1193
+#: includes/class-webinarsysteem.php:1196
+#: includes/templates/template-email-attendee-replay.php:24
+#: includes/templates/template-email-attendee-wbstarted.php:25
+msgid "See you later!"
+msgstr "A bientôt !"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1196
+#: includes/templates/template-email-attendee-replay.php:22
+#: includes/templates/template-email-attendee-wbstarted.php:23
+msgid "Make sure to join the webinar via this link:"
+msgstr "Soyez sur de rejoindre le Webinaire au travers de ce lien:"
+
+#: includes/class-webinarsysteem.php:1429
+msgid "Host and Description Box"
+msgstr "Zone Hôte et Description"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1432
+#: includes/class-webinarsysteemmetabox.php:968
+#: includes/templates/template-metabox-livepage.php:163
+msgid "Question Box"
+msgstr "Zone Question"
+
+#: includes/class-webinarsysteem.php:1435
+msgid "Message Center"
+msgstr "Centre message"
+
+#: includes/class-webinarsysteem.php:1439
+msgid "Live Chatbox"
+msgstr "Zone Chat en direct"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1442
+#: includes/class-webinarsysteemmetabox.php:1145
+#: includes/templates/template-metabox-livepage.php:346
+msgid "Incentive Box"
+msgstr "Zone de Motivation"
+
+# @ _wswebinar
+#: includes/class-webinarsysteem.php:1445
+#: includes/class-webinarsysteemmetabox.php:1202
+#: includes/templates/template-metabox-livepage.php:403
+msgid "Action Box"
+msgstr "Zone Action"
+
+#: includes/class-webinarsysteem.php:1448
+msgid "Clear all Raised Hands"
+msgstr "Purger les Mains levées"
+
+#: includes/class-webinarsysteem.php:1454
+#: includes/templates/template-metabox-livepage.php:440
+#: includes/templates/template-metabox-replaypage.php:87
+msgid "Call to action"
+msgstr ""
+
+# @ _wswebinar
+#: includes/class-webinarsysteemattendees.php:12
+msgid "WP WebinarSystem Attendees"
+msgstr "WP WebinarSystem participants"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemattendees.php:13
+msgid "Select webinar to view attendees for active webinars"
+msgstr ""
+"Sélectionnez un Webinaire pour visualiser les participants des Webinaires "
+"actifs"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemattendees.php:46
+#: includes/class-webinarsysteemattendees.php:164
+msgid "Please add webinars to listup."
+msgstr "Ajoutez s'il vous plait des Webinaires à la liste"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemattendees.php:78
+#: includes/class-webinarsysteemattendees.php:120
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: includes/class-webinarsysteemattendees.php:79
+#: includes/class-webinarsysteemattendees.php:121
+msgid "Registered On"
+msgstr "Inscrit le"
+
+#: includes/class-webinarsysteemattendees.php:80
+#: includes/class-webinarsysteemattendees.php:122
+msgid "Registered For"
+msgstr "Inscrit pour"
+
+#: includes/class-webinarsysteemattendees.php:81
+#: includes/class-webinarsysteemattendees.php:123
+msgid "Attended"
+msgstr "Présent"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemattendees.php:112
+msgid "No Attendees :("
+msgstr "Pas de participants :("
+
+#: includes/class-webinarsysteemattendees.php:140
+msgid "Please enter valid name and email to add new attendee."
+msgstr ""
+"Veuillez saisir un nom et un email valides pour ajouter un nouveau "
+"participant."
+
+#: includes/class-webinarsysteemattendees.php:174
+msgid "Send webinar confirmation e-mail to attendee?"
+msgstr "Envoyer un email de confirmation de webinaire aux participants ?"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmessages.php:63
+#: includes/class-webinarsysteemmessages.php:69
+#: includes/class-webinarsysteemoptions.php:99
+msgid "New Registration"
+msgstr "Nouvelle inscription"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmessages.php:77
+#: includes/class-webinarsysteemmessages.php:168
+msgid "Reminder"
+msgstr "Rappel"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmessages.php:84
+msgid "You are registered for the webinar!"
+msgstr "Vous êtes incrit(e) pour le Webinaire !"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmessages.php:99
+msgid "Your webinar link"
+msgstr "Votre lien du webinaire"
+
+#: includes/class-webinarsysteemmessages.php:119
+msgid "New message"
+msgstr "Nouveau Message"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmessages.php:126
+msgid "Question from"
+msgstr "Question de"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmessages.php:233
+msgid "We are live in one hour!"
+msgstr "Nous sommes en direct dans une heure !"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmessages.php:284
+msgid "We are starting the webinar!"
+msgstr "Nous commençons le Webinaire !"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmessages.php:337
+msgid "Webinar Replay Link"
+msgstr "Lien pour rejouer le Webinaire"
+
+# @ default
+#: includes/class-webinarsysteemmessages.php:438
+msgid "Once a minute"
+msgstr "Une fois par minute"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:22
+msgid "Webinar Settings"
+msgstr "Paramètres du Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:26
+msgid "Host Names"
+msgstr "Noms des hôtes"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:27
+msgid "Your Webinar URL"
+msgstr "Votre URL du Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:105
+#: includes/class-webinarsysteemoptions.php:86
+msgid "General Options"
+msgstr "Options générales"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:106
+msgid "Registration Page"
+msgstr "Page d'inscription"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:107
+msgid "Thank You Page"
+msgstr "Page de remerciement"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:108
+msgid "Countdown Page"
+msgstr "Page du compte à rebours"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:109
+msgid "Live Page"
+msgstr "Page du direct"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:110
+msgid "Replay Page"
+msgstr "Page du Replay"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:111
+#: includes/templates/template-metabox-thankyoupage.php:88
+msgid "Ticket"
+msgstr "Ticket"
+
+#: includes/class-webinarsysteemmetabox.php:112
+msgid "Mailinglist"
+msgstr "Mailinglist"
+
+#: includes/class-webinarsysteemmetabox.php:113
+msgid "Access"
+msgstr "Accès"
+
+#: includes/class-webinarsysteemmetabox.php:114
+msgid "Import / Export"
+msgstr "Importer /exporter"
+
+#: includes/class-webinarsysteemmetabox.php:236
+msgid "Default mail provider"
+msgstr "Fournisseur de mail par défaut"
+
+#: includes/class-webinarsysteemmetabox.php:250
+msgid "Mailchimp list"
+msgstr "Liste Mailchimp"
+
+#: includes/class-webinarsysteemmetabox.php:268
+msgid "You've no mailing list(s) on MailChimp."
+msgstr "Vous n'avez pas de mailinglist sur Mailchimp"
+
+#: includes/class-webinarsysteemmetabox.php:288
+msgid "Mailpoet list"
+msgstr "Liste Mailpoet"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:290
+#: includes/class-webinarsysteemmetabox.php:317
+#: includes/class-webinarsysteemmetabox.php:344
+#: includes/class-webinarsysteemmetabox.php:403
+msgid "Select a list.."
+msgstr "Sélectionnez une liste :"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:306
+msgid "Enormail list"
+msgstr "maxi liste Emails "
+
+#: includes/class-webinarsysteemmetabox.php:325
+msgid "You've no mailing list(s) on Enormail."
+msgstr "Vous n'avez pas de mailinglist sur Enormail"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:342
+msgid "AWeber List"
+msgstr "Liste AWeber"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:356
+msgid "Prevent info emails"
+msgstr "Éviter les emails info"
+
+#: includes/class-webinarsysteemmetabox.php:358
+msgid "Prevent users from registering when they use an info email addresses"
+msgstr "Empêcher les utilisateurs de s'inscrire avec une adresse info"
+
+#: includes/class-webinarsysteemmetabox.php:373
+msgid "GetResponse list"
+msgstr "Liste GetResponse"
+
+#: includes/class-webinarsysteemmetabox.php:396
+#, php-format
+msgid "%s list"
+msgstr "Liste %s"
+
+#: includes/class-webinarsysteemmetabox.php:417
+#, php-format
+msgid "You've no mailing list(s) on %s."
+msgstr "Vous n'avez pas de mailinglist sur %s"
+
+#: includes/class-webinarsysteemmetabox.php:495
+msgid ""
+"Click Export to download backup of current webinar settings. Upload your "
+"already exported file to Import section to apply settings from other webinar."
+msgstr ""
+"Cliquez sur Exporter pour télécharger un backup des paramètres du webinaire "
+"courant. Uploader votre fichier précédemment exporté dans la section "
+"importer pour appliquer les paramètres d'un précédent webinaire."
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:500
+msgid "Export"
+msgstr "Exporter"
+
+#: includes/class-webinarsysteemmetabox.php:507
+msgid "Working on it..."
+msgstr "Nous travaillons dessus..."
+
+#: includes/class-webinarsysteemmetabox.php:509
+msgid "Import"
+msgstr "Importer"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:885
+msgid "Webinar will be presented by:"
+msgstr "Le Webinaire sera présenté par :"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:887
+msgid "Separate each by commas"
+msgstr "Séparez chacun par des virgules"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:902
+#: includes/templates/template-metabox-livepage.php:92
+msgid "Host & Description Box"
+msgstr "Zone hôte et description"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:906
+#: includes/class-webinarsysteemmetabox.php:992
+#: includes/class-webinarsysteemmetabox.php:1056
+#: includes/class-webinarsysteemmetabox.php:1156
+#: includes/class-webinarsysteemoptions.php:148
+#: includes/templates/template-metabox-countdownpage.php:14
+#: includes/templates/template-metabox-livepage.php:20
+#: includes/templates/template-metabox-livepage.php:96
+#: includes/templates/template-metabox-livepage.php:183
+#: includes/templates/template-metabox-livepage.php:254
+#: includes/templates/template-metabox-livepage.php:357
+#: includes/templates/template-metabox-livepage.php:533
+#: includes/templates/template-metabox-registerpage.php:99
+#: includes/templates/template-metabox-replaypage.php:20
+#: includes/templates/template-metabox-replaypage.php:179
+#: includes/templates/template-metabox-thankyoupage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:147
+#: includes/templates/template-metabox-thankyoupage.php:162
+#: includes/templates/template-metabox-ticket.php:66
+msgid "Background color"
+msgstr "Couleur de fond"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:914
+#: includes/templates/template-metabox-livepage.php:109
+msgid "Show Host Box"
+msgstr "Montrer la zone hôte"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:921
+#: includes/templates/template-metabox-livepage.php:116
+msgid "Host Title Background color"
+msgstr "Couleur du fond du titre de l'hôte"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:927
+#: includes/templates/template-metabox-livepage.php:122
+msgid "Host Title Text color"
+msgstr "Couleur du texte du titre de l'hôte"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:933
+#: includes/templates/template-metabox-livepage.php:128
+msgid "Host Text color"
+msgstr "Couleur du texte de l'hôte"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:941
+#: includes/templates/template-metabox-livepage.php:136
+msgid "Show Description Box"
+msgstr "Montrer la zone de description"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:948
+#: includes/templates/template-metabox-livepage.php:143
+msgid "Description Title Background color"
+msgstr "Couleur du fond du titre de description"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:954
+#: includes/templates/template-metabox-livepage.php:149
+msgid "Description Title Text color"
+msgstr "Couleur du texte du titre de description"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:960
+#: includes/templates/template-metabox-livepage.php:155
+msgid "Description Text color"
+msgstr "Couleur du texte description"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:972
+#: includes/templates/template-metabox-livepage.php:166
+msgid "Show Question box"
+msgstr "Montrer la zone Question"
+
+#: includes/class-webinarsysteemmetabox.php:979
+#: includes/templates/template-metabox-livepage.php:172
+msgid "Send an email on every question"
+msgstr "Envoyer un email à chaque question"
+
+#: includes/class-webinarsysteemmetabox.php:986
+#: includes/templates/template-metabox-livepage.php:178
+msgid "If then email to"
+msgstr "dans ce cas email à"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:998
+#: includes/class-webinarsysteemmetabox.php:1061
+#: includes/class-webinarsysteemmetabox.php:1163
+#: includes/templates/template-metabox-livepage.php:101
+#: includes/templates/template-metabox-livepage.php:189
+#: includes/templates/template-metabox-livepage.php:259
+#: includes/templates/template-metabox-livepage.php:363
+#: includes/templates/template-metabox-livepage.php:539
+#: includes/templates/template-metabox-registerpage.php:104
+#: includes/templates/template-metabox-replaypage.php:185
+#: includes/templates/template-metabox-thankyoupage.php:142
+#: includes/templates/template-metabox-thankyoupage.php:156
+#: includes/templates/template-metabox-ticket.php:71
+msgid "Border color"
+msgstr "Couleur de bordure"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1004
+#: includes/templates/template-metabox-livepage.php:195
+msgid "Title Text Color"
+msgstr "Couleur du texte du titre"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1009
+#: includes/templates/template-metabox-livepage.php:201
+#: includes/templates/template-metabox-livepage.php:511
+#: includes/templates/template-metabox-replaypage.php:158
+msgid "Border Radius"
+msgstr "Rayon de bordure"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1014
+#: includes/templates/template-metabox-livepage.php:207
+msgid "Button Background Color"
+msgstr "Couleur du fond de bouton"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1019
+#: includes/templates/template-metabox-livepage.php:213
+msgid "Button Hover Background Color"
+msgstr "Couleur du fond au passage sur le bouton"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1024
+#: includes/templates/template-metabox-livepage.php:219
+msgid "Button Border Color"
+msgstr "Couleur du bord du bouton"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1029
+#: includes/templates/template-metabox-livepage.php:225
+msgid "Button Hover Border Color"
+msgstr "Couleur de la bordure du bouton lors du passage "
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1034
+#: includes/templates/template-metabox-livepage.php:231
+#: includes/templates/template-metabox-registerpage.php:167
+#: includes/templates/template-metabox-registerpage.php:206
+#: includes/templates/template-metabox-thankyoupage.php:133
+#: includes/templates/template-metabox-thankyoupage.php:173
+msgid "Button Text color"
+msgstr "Couleur du texte du bouton"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1040
+#: includes/templates/template-metabox-livepage.php:237
+msgid "Button Hover Text color"
+msgstr "Couleur du texte du bouton lors du passage"
+
+#: includes/class-webinarsysteemmetabox.php:1046
+#: includes/templates/template-metabox-livepage.php:244
+msgid "Live chatbox"
+msgstr "Zone de Chat en direct"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1050
+#: includes/templates/template-metabox-livepage.php:248
+msgid "Show Chatbox"
+msgstr "Montrer la zone de Chat"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1066
+#: includes/class-webinarsysteemmetabox.php:1175
+#: includes/templates/template-metabox-livepage.php:264
+#: includes/templates/template-metabox-livepage.php:375
+msgid "Title Text color"
+msgstr "Couleur du texte du titre"
+
+#: includes/class-webinarsysteemmetabox.php:1071
+#: includes/templates/template-metabox-livepage.php:269
+msgid "Show Timestamps"
+msgstr "Montrer heuro-datage"
+
+#: includes/class-webinarsysteemmetabox.php:1077
+#: includes/templates/template-metabox-livepage.php:276
+msgid "Background Color of Button"
+msgstr "Couleur de fond du bouton"
+
+#: includes/class-webinarsysteemmetabox.php:1083
+#: includes/templates/template-metabox-livepage.php:283
+msgid "Text Color of Button"
+msgstr "Couleur du texte du bouton"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1091
+#: includes/templates/template-metabox-livepage.php:292
+msgid "Tab Layout"
+msgstr "Onglet Tableau"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1093
+#: includes/templates/template-metabox-livepage.php:294
+msgid "Questionbox tab"
+msgstr "Tableau Zone Question"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1096
+#: includes/class-webinarsysteemmetabox.php:1121
+#: includes/templates/template-metabox-livepage.php:297
+#: includes/templates/template-metabox-livepage.php:322
+msgid "Title"
+msgstr "Titre"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1104
+#: includes/class-webinarsysteemmetabox.php:1129
+#: includes/templates/template-metabox-livepage.php:305
+#: includes/templates/template-metabox-livepage.php:330
+msgid "Tab Title Text color"
+msgstr "Couleur du texte du titre du tableau"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1109
+#: includes/class-webinarsysteemmetabox.php:1134
+#: includes/templates/template-metabox-livepage.php:310
+#: includes/templates/template-metabox-livepage.php:335
+#: includes/templates/template-metabox-registerpage.php:116
+msgid "Tab Background color"
+msgstr "Couleur du fond du tableau"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1114
+#: includes/class-webinarsysteemmetabox.php:1139
+#: includes/templates/template-metabox-livepage.php:315
+#: includes/templates/template-metabox-livepage.php:340
+msgid "Tab Border color"
+msgstr "Couleur de bordure du tableau"
+
+#: includes/class-webinarsysteemmetabox.php:1118
+#: includes/templates/template-metabox-livepage.php:319
+msgid "Chatbox tab"
+msgstr "Tableau Zone de chat"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1149
+#: includes/templates/template-metabox-livepage.php:350
+msgid "Show Incentive Box"
+msgstr "Montrer la zone de motivation"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1169
+#: includes/templates/template-metabox-livepage.php:369
+msgid "Incentive Title"
+msgstr "Titre de la motivation"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1181
+#: includes/templates/template-metabox-livepage.php:381
+msgid "Title Background color"
+msgstr "Couleur du fond du titre"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1186
+#: includes/templates/template-metabox-livepage.php:387
+#: includes/templates/template-metabox-livepage.php:545
+#: includes/templates/template-metabox-replaypage.php:191
+msgid "Content text color"
+msgstr "Couleur du texte du contenu"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1192
+#: includes/templates/template-metabox-livepage.php:393
+msgid "Incentive box content"
+msgstr "Contenu de la zone de motivation"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1207
+#: includes/templates/template-metabox-livepage.php:406
+msgid "Show Action Box"
+msgstr "Montrer la zone d’action"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1214
+#: includes/templates/template-metabox-livepage.php:412
+msgid "Hand button color "
+msgstr "Couleur du bouton Main"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1219
+#: includes/templates/template-metabox-livepage.php:417
+msgid "Hand button hover color "
+msgstr "Couleur du bouton Main au survol"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1224
+#: includes/templates/template-metabox-livepage.php:422
+msgid "Hand button Active color "
+msgstr "Couleur du bouton Main actif"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1230
+#: includes/templates/template-metabox-livepage.php:427
+msgid "Background Color "
+msgstr "Couleur de fond"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1235
+#: includes/templates/template-metabox-livepage.php:432
+msgid "Border Color  "
+msgstr "Couleur de bordure"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1246
+msgid "Preview Page"
+msgstr "Aperçu de la page"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemmetabox.php:1247
+msgid "Only use this generated link for test purposes"
+msgstr "Utilisez uniquement ce lien généré pour vos tests"
+
+#: includes/class-webinarsysteemmetabox.php:1259
+msgid "Monday"
+msgstr "Lundi"
+
+#: includes/class-webinarsysteemmetabox.php:1260
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: includes/class-webinarsysteemmetabox.php:1261
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: includes/class-webinarsysteemmetabox.php:1262
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: includes/class-webinarsysteemmetabox.php:1263
+msgid "Friday"
+msgstr "Vendredi"
+
+#: includes/class-webinarsysteemmetabox.php:1264
+msgid "Saturday"
+msgstr "Samedi"
+
+#: includes/class-webinarsysteemmetabox.php:1265
+msgid "Sunday"
+msgstr "Dimanche"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:39
+#: includes/class-webinarsysteemoptions.php:70
+msgid "WP WebinarSystem Options"
+msgstr "WP WebinarSystem Options"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:74
+#: includes/templates/template-metabox-countdownpage.php:4
+#: includes/templates/template-metabox-livepage.php:4
+#: includes/templates/template-metabox-registerpage.php:4
+#: includes/templates/template-metabox-replaypage.php:4
+#: includes/templates/template-metabox-thankyoupage.php:4
+msgid "General"
+msgstr "Général"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:76
+msgid "Emails"
+msgstr "Emails"
+
+#: includes/class-webinarsysteemoptions.php:77
+#: includes/class-webinarsysteemoptions.php:447
+msgid "Mailinglist providers"
+msgstr "Fournisseur de mailinglist"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:78
+#: includes/class-webinarsysteemoptions.php:556
+msgid "Advanced"
+msgstr "Avancé"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:79
+#: includes/class-webinarsysteemoptions.php:1046
+msgid "Integrations"
+msgstr "Intégrations"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:80
+msgid "System Status"
+msgstr "Etat du système"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:98
+msgid "Email options"
+msgstr "Options des émails"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:100
+msgid "Reminder day before Webinar"
+msgstr "Rappel journalier précédent le Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:101
+msgid "Reminder one hour before Webinar"
+msgstr "Rappel une heure avant le Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:102
+msgid "Reminder Webinar Starting"
+msgstr "Rappel du départ du Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:103
+msgid "Webinar replay"
+msgstr "Rejouer Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:108
+msgid "Email Sender Options"
+msgstr "Options d'expédition des émails"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:111
+msgid "\"From\" Name"
+msgstr "Nom expéditeur"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:111
+msgid "Sender name"
+msgstr "Nom de l'expéditeur"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:114
+msgid "\"From\" Email Address"
+msgstr "Adresse émail"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:114
+msgid "Sender email"
+msgstr "Expéditeur de l'émail"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:118
+msgid "Email Template"
+msgstr "Modèle de l'émail"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:122
+msgid "Header Image"
+msgstr "Image de l'entête"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:126
+msgid "Upload"
+msgstr "Charger"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:132
+msgid "Email Footer Text"
+msgstr "Texte du pied de page de l’email"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:135
+msgid "Footer Text"
+msgstr "Texte du pied de page"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:140
+msgid "Base color"
+msgstr "Couleur de base"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:156
+msgid "Email Body Background color"
+msgstr "Couleur de fond du corps de l'émail"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:164
+msgid "Email Body Text color"
+msgstr "Couleur du texte de l'émail"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:174
+#: includes/class-webinarsysteemoptions.php:248
+#: includes/class-webinarsysteemoptions.php:310
+#: includes/class-webinarsysteemoptions.php:371
+#: includes/class-webinarsysteemoptions.php:432
+msgid "Reset Default Template"
+msgstr "Rétablir le modèle par défaut"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:183
+msgid "New Registration Options"
+msgstr "Options d'une nouvelle inscription"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:186
+msgid "Admin Email Address"
+msgstr "Adresse émail de l'administrateur"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:186
+msgid "Admin email"
+msgstr "Email de l'administrateur"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:192
+msgid "Reminder day before Webinar "
+msgstr "Rappel journalier précédent le Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:196
+#: includes/class-webinarsysteemoptions.php:261
+#: includes/class-webinarsysteemoptions.php:322
+#: includes/class-webinarsysteemoptions.php:383
+msgid "Enable this reminder?"
+msgstr "Activer le rappel ?"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:204
+#: includes/class-webinarsysteemoptions.php:269
+#: includes/class-webinarsysteemoptions.php:330
+#: includes/class-webinarsysteemoptions.php:391
+msgid "Subject"
+msgstr "Sujet"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:207
+#: includes/class-webinarsysteemoptions.php:272
+#: includes/class-webinarsysteemoptions.php:333
+#: includes/class-webinarsysteemoptions.php:394
+msgid "Email Head"
+msgstr "Tête d'émail"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:212
+#: includes/class-webinarsysteemoptions.php:277
+#: includes/class-webinarsysteemoptions.php:338
+#: includes/class-webinarsysteemoptions.php:399
+msgid "Available Shortcodes:"
+msgstr "Shortcodes disponibles:"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:220
+#: includes/class-webinarsysteemoptions.php:285
+#: includes/class-webinarsysteemoptions.php:346
+#: includes/class-webinarsysteemoptions.php:407
+#: includes/templates/template-metabox-thankyoupage.php:74
+msgid "Content"
+msgstr "Contenu"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:237
+#: includes/class-webinarsysteemoptions.php:299
+#: includes/class-webinarsysteemoptions.php:360
+#: includes/class-webinarsysteemoptions.php:421
+msgid "Your email address"
+msgstr "Votre adresse émail"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:238
+#: includes/class-webinarsysteemoptions.php:300
+#: includes/class-webinarsysteemoptions.php:361
+#: includes/class-webinarsysteemoptions.php:422
+msgid "Send Preview"
+msgstr "Envoyer aperçu"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:242
+#: includes/class-webinarsysteemoptions.php:304
+#: includes/class-webinarsysteemoptions.php:365
+#: includes/class-webinarsysteemoptions.php:426
+msgid "Add a Webinar to send a preview email."
+msgstr "Ajouter un Webinaire pour envoyer un émail d'aperçu."
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:256
+msgid "Reminder one hour before Webinar "
+msgstr "Rappel d'une heure avant le Webinaire"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:318
+msgid "Reminder when Webinar starts"
+msgstr "Rappel de quand le Webinaire commence"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:379
+msgid "Send Webinar Replay Link"
+msgstr "Envoi du lien pour rejouer le Webinaire"
+
+#: includes/class-webinarsysteemoptions.php:453
+msgid "MailChimp API Key"
+msgstr "Clé API Mailchimp"
+
+#: includes/class-webinarsysteemoptions.php:459
+msgid "The API key you have received from MailChimp"
+msgstr "La clé API que vous a délivré Mailchimp"
+
+#: includes/class-webinarsysteemoptions.php:465
+msgid "Enormail API Key"
+msgstr "Clé API Enormail"
+
+#: includes/class-webinarsysteemoptions.php:471
+msgid "The API key you have received from Enormail"
+msgstr "La clé API que vous a délivré Enormail"
+
+#: includes/class-webinarsysteemoptions.php:491
+msgid "Reconfigure"
+msgstr "Reconfigurer"
+
+#: includes/class-webinarsysteemoptions.php:491
+msgid "Configure"
+msgstr "Configurer"
+
+#: includes/class-webinarsysteemoptions.php:500
+msgid "Getresponse API Key"
+msgstr "Clé API GetResponse"
+
+#: includes/class-webinarsysteemoptions.php:506
+msgid "The API key you have received from Getresponse"
+msgstr "La clé API que vous a délivré GetResponse"
+
+#: includes/class-webinarsysteemoptions.php:517
+msgid "ActiveCampaign API Key"
+msgstr "Clé API ActiveCampaign"
+
+#: includes/class-webinarsysteemoptions.php:527
+msgid "The API key you have received from ActiveCampaign"
+msgstr "La clé API que vous a délivré ActiveCampaign"
+
+#: includes/class-webinarsysteemoptions.php:532
+msgid "ActiveCampaign API URL"
+msgstr "URL API ActiveCampaign"
+
+#: includes/class-webinarsysteemoptions.php:538
+msgid "eg: "
+msgstr "ex :"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:564
+#: includes/class-webinarsysteemoptions.php:613
+msgid "Roles & Permissions"
+msgstr "Rôles et permissions"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:572
+msgid "Create Webinars"
+msgstr "Créer des Webinaires"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:585
+msgid "Manage Subscribers"
+msgstr "Gérer les abonnés"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:598
+msgid "Change WebinarSystem Settings"
+msgstr "Changer les paramètres de WebinarSystem"
+
+# @ woocommerce
+#: includes/class-webinarsysteemoptions.php:628
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+"S'il vous plaît copier et coller ces informations dans votre ticket lorsque "
+"vous contactez le support :"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:631
+msgid "Copy for Support"
+msgstr "Copiez pour le support"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:632
+msgid "Copied!"
+msgstr "Copié !"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:634
+msgid "Get System Report"
+msgstr "Obtenez le rapport système"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:640
+msgid "WordPress Environment"
+msgstr "Environnement WordPress"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:644
+msgid "Home URL"
+msgstr "URL de l'accueil"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:652
+msgid "Site URL"
+msgstr "URL du site"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:660
+msgid "WP Version"
+msgstr "Version WP"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:667
+msgid "WP Multisite"
+msgstr "Multi-site WP"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:671
+msgid "WP Debug mode"
+msgstr "WP Debug mode"
+
+#: includes/class-webinarsysteemoptions.php:680
+msgid "WP Cron status"
+msgstr "Statut Cron WP"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:692
+msgid "Language"
+msgstr "Langue"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:700
+msgid "Plugin Environment"
+msgstr "Environnement du plugin"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:704
+msgid "Webinar System Version"
+msgstr "Version de Webinar System"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:714
+msgid "Server Environment"
+msgstr "Environnement du serveur"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:718
+msgid "Server Info"
+msgstr "Info du serveur"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:726
+msgid "PHP Version"
+msgstr "Version PHP"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:735
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr ""
+"Impossible de déterminer la version de PHP car phpversion() n'existe pas. "
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:743
+#: includes/class-webinarsysteemoptions.php:809
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:751
+#: includes/class-webinarsysteemoptions.php:817
+msgid "PHP Time Limit"
+msgstr "Limite de Temps PHP"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:759
+#: includes/class-webinarsysteemoptions.php:825
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:767
+#: includes/class-webinarsysteemoptions.php:833
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN Installé"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:775
+#: includes/class-webinarsysteemoptions.php:841
+msgid "MySQL Version"
+msgstr "Version MySQL"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:786
+#: includes/class-webinarsysteemoptions.php:852
+msgid "Max Upload Size"
+msgstr "Max Upload Size"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:794
+#: includes/class-webinarsysteemoptions.php:860
+msgid "Default Timezone"
+msgstr "Fuseau horaire par défaut"
+
+#: includes/class-webinarsysteemoptions.php:871
+msgid "PHP Memory Limit"
+msgstr "Limit mémoire PHP"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:929
+msgid "Server Time"
+msgstr "Heure serveur"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:960
+msgid "Server Timezone"
+msgstr "fuseau horaire du serveur"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:974
+msgid "Server Locale"
+msgstr "Serveur local"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:981
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/class-webinarsysteemoptions.php:995
+msgid "Active Plugins ("
+msgstr "Plugins actifs ("
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:1013
+msgid "by "
+msgstr "par"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:1023
+msgid "Theme"
+msgstr "Thème"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:1031
+msgid "Version"
+msgstr "Version"
+
+# @ _wswebinar
+#: includes/class-webinarsysteemoptions.php:1035
+msgid "Author URL"
+msgstr "URL de l'auteur"
+
+#: includes/class-webinarsysteemupdates.php:172
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+"Il y a une nouvlle version de %1$s disponible. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">Voir détails version %3$s</a>."
+
+#: includes/class-webinarsysteemupdates.php:176
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+"Il y a une nouvlle version de %1$s disponible. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">Voir détails version %3$s</a> ou <a href=\"%4$s"
+"\">mettre à jour maintenant</a>."
+
+#: includes/class-webinarsysteemupdates.php:309
+msgid "You do not have permission to install plugin updates"
+msgstr "Vous n'êtes pas autorisé à installer des mise à jour de plugin"
+
+#: includes/class-webinarsysteemupdates.php:309
+msgid "Error"
+msgstr "Erreur"
+
+#: includes/class-webinarsysteemupdates.php:352
+msgid "Your WPWebinarSystem license has been deactivated!"
+msgstr "Votre licence WPWebinarSystem a été désactivée !"
+
+#: includes/class-webinarsysteemupdates.php:360
+msgid "Your WPWebinarSystem license has been activated!"
+msgstr "Votre licence WPWebinarSystem a été activée !"
+
+#: includes/class-webinarsysteemupdates.php:370
+msgid "The WPWebinarSystem license you entered is invalid."
+msgstr "La licence WPWebinarSystem saisie est invalide."
+
+#: includes/class-webinarsysteemupdates.php:380
+msgid ""
+"Your WPWebinarSystem license is expired. Please renew or the plugin will not "
+"work as expected. Please activate your copy as soon as possible."
+msgstr ""
+"Votre licence WPWebinarSystem est expirée. Veuillez renouveller ou le plugin "
+"ne fonctionnera pas correctement. Veuillez activer votre copie le plus "
+"rapidement possible"
+
+#: includes/templates/template-access-tab.php:3
+msgid "Make Webinar only accessible for : "
+msgstr "Permettre l'accès au webinaire seulement à :"
+
+#: includes/templates/template-access-tab.php:25
+msgid "Only for user roles"
+msgstr "Seulement pour les rôles d'utilisateur"
+
+#: includes/templates/template-access-tab.php:47
+msgid "Member Levels"
+msgstr "Niveaux Membre"
+
+#: includes/templates/template-access-tab.php:51
+msgid "Member Level"
+msgstr "Niveau Membre"
+
+#: includes/templates/template-access-tab.php:53
+msgid "Select"
+msgstr "Choisir"
+
+#: includes/templates/template-access-tab.php:63
+msgid ""
+"Please install and configure the 'WooCommerce Memberships' plugin to use "
+"this functionality."
+msgstr ""
+"Veuillez installer et configurer le plugin 'WooCommerce Memberships' pour "
+"utiliser cette fonctionnalité."
+
+#: includes/templates/template-access-tab.php:72
+#: includes/templates/template-access-tab.php:100
+msgid "User Id's"
+msgstr "ID utilisateur"
+
+#: includes/templates/template-access-tab.php:102
+msgid "Enter user ID. (You can add multiple user ID's. ID separated by comma)."
+msgstr ""
+"Saisir ID utilisateur. (Vous pouvez ajouter plusieurs ID utilisateur en les "
+"séparant par une virgule)."
+
+#: includes/templates/template-access-tab.php:127
+msgid "Redirect"
+msgstr "Redirection"
+
+# @ _wswebinar
+#: includes/templates/template-email-admin-email.php:7
+msgid "Howdy"
+msgstr "Salut"
+
+# @ _wswebinar
+#: includes/templates/template-email-admin-email.php:8
+msgid "just signed up for your webinar"
+msgstr "Vous venez de vous inscrire pour votre Webinaire"
+
+#: includes/templates/template-email-admin-email.php:16
+msgid "asked the following question during"
+msgstr "Poser les questions suivantes durant"
+
+# @ _wswebinar
+#: includes/templates/template-email-attendee-replay.php:23
+#: includes/templates/template-email-attendee-wbstarted.php:24
+#: includes/templates/template-email-attendee1hr.php:32
+#: includes/templates/template-email-attendee24hr.php:31
+#: includes/templates/template-email-reader.php:29
+msgid "Go to Webinar"
+msgstr "Aller au Webinaire"
+
+# @ _wswebinar
+#: includes/templates/template-email-attendee-wbstarted.php:21
+msgid "We are going live now"
+msgstr "Nous au direct maintenant"
+
+# @ _wswebinar
+#: includes/templates/template-email-reader.php:25
+msgid ""
+"Thank you for your registration for the webinar. Below you will find the "
+"details of the webinar."
+msgstr ""
+"Merci pour votre inscription au Webinaire. Vous trouverez ci-dessous les "
+"détails du Webinaire"
+
+#: includes/templates/template-email-reader.php:46
+msgid ""
+"Thank you for purchasing a webinar ticket. Please click on the button below "
+"to register for the webinar. You can use the same link to login again when "
+"the webinar starts."
+msgstr ""
+"Merci pour votre achat d'un ticket de webianire. Veuiller cliquer sur le "
+"bouton ci-desous pour vous inscrire au webinaire. Vous pouvez utiliser le "
+"même lien pour vous connecter quand le webinaire commencera."
+
+# @ _wswebinar
+#: includes/templates/template-email-reader.php:50
+msgid "Register for Webinar"
+msgstr "Inscription au Webinaire"
+
+#: includes/templates/template-email-reader.php:51
+msgid "If you can't see the link, please visit:"
+msgstr "Si vous ne voyez pas le lien, veuillez vous rendre sur :"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-countdownpage.php:8
+#: includes/templates/template-metabox-livepage.php:14
+#: includes/templates/template-metabox-replaypage.php:14
+#: includes/templates/template-metabox-thankyoupage.php:14
+msgid "Title color"
+msgstr "Couleur du titre"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-countdownpage.php:20
+#: includes/templates/template-metabox-livepage.php:26
+#: includes/templates/template-metabox-replaypage.php:26
+#: includes/templates/template-metabox-thankyoupage.php:26
+msgid "Background image"
+msgstr "Image de fond"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-countdownpage.php:22
+msgid "Countdown Page Background Image"
+msgstr "Image de fond de la page de compte à rebours"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-countdownpage.php:22
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-livepage.php:52
+#: includes/templates/template-metabox-registerpage.php:15
+#: includes/templates/template-metabox-registerpage.php:41
+#: includes/templates/template-metabox-replaypage.php:28
+#: includes/templates/template-metabox-replaypage.php:58
+#: includes/templates/template-metabox-thankyoupage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:47
+msgid "Upload Image"
+msgstr "Envoyer une image"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-countdownpage.php:27
+msgid "Show countdown timer"
+msgstr "Montrer le compte à rebours"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-countdownpage.php:33
+msgid "Tagline color"
+msgstr "Couleur de la Tagline"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-countdownpage.php:39
+msgid "Description color"
+msgstr "Couleur de la description"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-generalpage.php:14
+#, fuzzy
+msgid "Webinar Type"
+msgstr "Type de Webinaire"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-generalpage.php:22
+msgid "Webinar Occurance"
+msgstr "Occurrence du Webinaire"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-generalpage.php:32
+msgid "One time registration"
+msgstr "Inscription unique"
+
+#: includes/templates/template-metabox-generalpage.php:40
+msgid "Recurring on every"
+msgstr "Réccurence tous les"
+
+#: includes/templates/template-metabox-generalpage.php:83
+msgid "Recurring Time(s)"
+msgstr "Heure(s) de Récurrence "
+
+#: includes/templates/template-metabox-generalpage.php:91
+#: includes/templates/template-metabox-generalpage.php:222
+msgid "Remove"
+msgstr "Enlever"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-generalpage.php:112
+msgid "Webinar starts at"
+msgstr "Le Webinaire commencera à"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-generalpage.php:113
+#: includes/tmp-post.php:192 includes/tmp-registration.php:157
+msgid "Date"
+msgstr "Date"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-generalpage.php:175
+msgid "Disable registration"
+msgstr "Désactiver l'inscription"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:7
+#: includes/templates/template-metabox-replaypage.php:7
+msgid "Hide Title"
+msgstr "Cacher Titre"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:28
+msgid "Thankyou Page Background Image"
+msgstr "Image de fond de la page Merci"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:36
+#: includes/templates/template-metabox-replaypage.php:42
+msgid "Webinar type"
+msgstr "Type de Webinaire"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:41
+#: includes/templates/template-metabox-registerpage.php:32
+#: includes/templates/template-metabox-replaypage.php:47
+#: includes/templates/template-metabox-thankyoupage.php:38
+msgid "Image"
+msgstr "Image"
+
+#: includes/templates/template-metabox-livepage.php:42
+#: includes/templates/template-metabox-registerpage.php:33
+#: includes/templates/template-metabox-replaypage.php:48
+#: includes/templates/template-metabox-thankyoupage.php:39
+msgid "File"
+msgstr "Fichier"
+
+#: includes/templates/template-metabox-livepage.php:43
+#: includes/templates/template-metabox-replaypage.php:49
+msgid "RTMP Stream"
+msgstr "Flux RTMP"
+
+#: includes/templates/template-metabox-livepage.php:44
+#: includes/templates/template-metabox-replaypage.php:50
+msgid "Inline Frame (iframe)"
+msgstr "Frame inline (iframe)"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:49
+#: includes/templates/template-metabox-registerpage.php:38
+#: includes/templates/template-metabox-replaypage.php:55
+#: includes/templates/template-metabox-thankyoupage.php:44
+msgid "Video or Image URL"
+msgstr "URL de la vidéo ou de l'image"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:52
+#: includes/templates/template-metabox-replaypage.php:58
+msgid "Registration Page Video Image"
+msgstr "Image de la vidéo de la page d'inscription"
+
+#: includes/templates/template-metabox-livepage.php:54
+#, php-format
+msgid "Paste Youtube/Hangouts URL here (Eg: %s OR %s)"
+msgstr "Coller l'URL Youtube/Hangouts ici (Ex: %s OU %s)"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:55
+#: includes/templates/template-metabox-registerpage.php:45
+#: includes/templates/template-metabox-thankyoupage.php:50
+msgid "Paste Vimeo video ID here (Eg: 129673042)"
+msgstr "Collez ici l'ID de la vidéo Vimeo  (Ex: 129673042)"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:56
+#: includes/templates/template-metabox-registerpage.php:46
+#: includes/templates/template-metabox-replaypage.php:64
+#: includes/templates/template-metabox-thankyoupage.php:51
+msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+msgstr "URL de l'image (Ex: https://example.com/images/the_image.jpg)"
+
+#: includes/templates/template-metabox-livepage.php:57
+#: includes/templates/template-metabox-registerpage.php:47
+#: includes/templates/template-metabox-replaypage.php:65
+#: includes/templates/template-metabox-thankyoupage.php:52
+msgid ""
+"It's best to host your video file outside your website to save bandwidth."
+msgstr ""
+"Il est préférable d'héberger votre fichier vidéo en dehors de votre site "
+"pour économiser de la bande passante."
+
+#: includes/templates/template-metabox-livepage.php:61
+msgid "Start a Hangout"
+msgstr "Lancer un Hangout"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:75
+#: includes/templates/template-metabox-registerpage.php:52
+#: includes/templates/template-metabox-replaypage.php:70
+#: includes/templates/template-metabox-thankyoupage.php:57
+msgid "Video autoplay"
+msgstr "Rejouer vidéo"
+
+#: includes/templates/template-metabox-livepage.php:78
+#: includes/templates/template-metabox-registerpage.php:55
+#: includes/templates/template-metabox-replaypage.php:73
+#: includes/templates/template-metabox-thankyoupage.php:60
+msgid "Some browsers will restrict the autoplay functionality"
+msgstr "Certains navigateurs restreindront la fonctionnalité autoplay"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:83
+#: includes/templates/template-metabox-registerpage.php:60
+#: includes/templates/template-metabox-replaypage.php:78
+#: includes/templates/template-metabox-thankyoupage.php:65
+msgid "Show controls"
+msgstr "Montrer les contrôles"
+
+#: includes/templates/template-metabox-livepage.php:87
+#: includes/templates/template-metabox-registerpage.php:64
+#: includes/templates/template-metabox-replaypage.php:82
+#: includes/templates/template-metabox-thankyoupage.php:69
+#, php-format
+msgid "%s only."
+msgstr "%s seulement"
+
+#: includes/templates/template-metabox-livepage.php:445
+#: includes/templates/template-metabox-replaypage.php:92
+msgid "Activate CTA"
+msgstr "Activer CTA"
+
+#: includes/templates/template-metabox-livepage.php:454
+#: includes/templates/template-metabox-replaypage.php:101
+msgid "Show CTA after (minutes)"
+msgstr "Afficher CTA après (minutes)"
+
+#: includes/templates/template-metabox-livepage.php:462
+#: includes/templates/template-metabox-replaypage.php:109
+msgid "Show CTA"
+msgstr "Afficher CTA"
+
+#: includes/templates/template-metabox-livepage.php:471
+#: includes/templates/template-metabox-replaypage.php:118
+msgid "CTA Type"
+msgstr "Type CTA"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:481
+#: includes/templates/template-metabox-replaypage.php:128
+msgid "Background Color"
+msgstr "Couleur de fond"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:487
+#: includes/templates/template-metabox-replaypage.php:134
+msgid "Hover Color"
+msgstr "Couleur au survol"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:493
+#: includes/templates/template-metabox-replaypage.php:140
+msgid "Border Color"
+msgstr "Couleur de bordure"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:499
+#: includes/templates/template-metabox-replaypage.php:146
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:505
+#: includes/templates/template-metabox-replaypage.php:152
+msgid "Hover Text Color"
+msgstr "Couleur du texte au survol"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:517
+#: includes/templates/template-metabox-replaypage.php:164
+msgid "Button URL"
+msgstr "URL du bouton"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:523
+#: includes/templates/template-metabox-replaypage.php:170
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-livepage.php:551
+#: includes/templates/template-metabox-replaypage.php:197
+msgid "CTA Content"
+msgstr "Contenu CTA"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:7
+msgid "Page Background color"
+msgstr "Couleur du fond de page"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:13
+msgid "Page Background image"
+msgstr "Image de fond de page"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:15
+msgid "Registration Page Background Image"
+msgstr "Image de fond "
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:20
+msgid "Show Content Section"
+msgstr "Montrer la section du contenu"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:27
+#: includes/templates/template-metabox-thankyoupage.php:33
+msgid "Content type"
+msgstr "Type de contenu"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:41
+msgid "Registration Page Image"
+msgstr "Image de la page d'inscription"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:44
+#: includes/templates/template-metabox-thankyoupage.php:49
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+msgstr ""
+"Collez ici votre lien Youtube (Ex: https://www.youtube.com/watch?"
+"v=3TkgTEfx9XM)"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:71
+msgid "Title Color"
+msgstr "Couleur du titre"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:76
+msgid "Date/Time Color"
+msgstr "Couleur de la date/heure"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:82
+msgid "Form & Tab Layout"
+msgstr "Formulaire et Tableau"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:90
+msgid "Position"
+msgstr "Position"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:110
+msgid "Font color"
+msgstr "Couleur du texte"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:122
+msgid "Tab Text color"
+msgstr "Couleur du texte du tableau"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:128
+msgid "Register Tab Text"
+msgstr "Texte du tableau d'inscription"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:134
+msgid "Login Tab Text"
+msgstr "Texte du tableu d'identification"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:140
+msgid "Register Tab"
+msgstr "Tableau d'inscription"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:143
+msgid "Register Title"
+msgstr "Titre d'inscription"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:149
+msgid "Register Text"
+msgstr "Texte de l'inscription"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:155
+#: includes/templates/template-metabox-registerpage.php:194
+#: includes/templates/template-metabox-thankyoupage.php:179
+msgid "Button Background color"
+msgstr "Couleur de fond du bouton"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:161
+#: includes/templates/template-metabox-registerpage.php:200
+#: includes/templates/template-metabox-thankyoupage.php:185
+msgid "Button Border color"
+msgstr "Couleur de bordure du bouton"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:173
+msgid "CTA Button Text"
+msgstr "Texte du bouton CTA"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:179
+msgid "Login Tab"
+msgstr "Tableau d'identification"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:182
+msgid "Login Title"
+msgstr "Titre d'identification"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:188
+msgid "Login Text"
+msgstr "Texte d'identification"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:212
+msgid "Login Button Text"
+msgstr "Texte du bouton d'identification"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:219
+msgid "Description"
+msgstr "Description"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:222
+msgid "Show Description Section"
+msgstr "Montrer la zone de description"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:228
+msgid "Description text color"
+msgstr "Couleur du texte de description"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:233
+msgid "Description background color"
+msgstr "Couleur de fond de la description"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-registerpage.php:238
+msgid "Description border color"
+msgstr "Couleur de la bordure de description"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-replaypage.php:28
+msgid "Replay Page Background Image"
+msgstr "Image de fond de la page Rejouer"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-replaypage.php:35
+msgid "Replay available?"
+msgstr "Replay disponible ?"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-replaypage.php:62
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM OR "
+"http://youtu.be/CqlB2SiG-ac)"
+msgstr ""
+"Collez ici votre lien Youtube (Ex: https://www.youtube.com/watch?"
+"v=3TkgTEfx9XM OR http://youtu.be/CqlB2SiG-ac)"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-replaypage.php:63
+msgid "Paste Vimeo video ID here (Eg: 129673042))"
+msgstr "Collez votre ID Vimeo ici (Ex: 129673042)"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:7
+msgid "Title text"
+msgstr "Texte du titre"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:9
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "Bravo ! Vous êtes inscrit(e) pour le Webinaire !"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:47
+msgid "Thank you Page Image"
+msgstr "Image de la page Merci"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:77
+msgid "Link above Text Color"
+msgstr "Couleur au dessus du lien"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:82
+msgid "Link below Text Color"
+msgstr "Couleur au dessous du lien"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:91
+msgid "Border color-1"
+msgstr "Couleur de bordure 1"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:97
+msgid "Border color-2"
+msgstr "Couleur de bordure 2"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:103
+msgid "Body Text color"
+msgstr "Couleur du corps de texte"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:109
+msgid "Body Background color"
+msgstr "Couleur de fond du corps"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:115
+msgid "Header Background color"
+msgstr "Couleur de fond de l'entête"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:121
+msgid "Header Text color"
+msgstr "Couleur du texte d'entête"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:127
+msgid "Button color"
+msgstr "Couleur du bouton"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:139
+msgid "Social Sharing"
+msgstr "Partager sur les réseaux"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:153
+msgid "Calendar"
+msgstr "Calendrier"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-thankyoupage.php:168
+#: includes/templates/template-metabox-ticket.php:76
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: includes/templates/template-metabox-ticket.php:3
+#, php-format
+msgid ""
+"This section is to issue tickets for webinars. Enable WooCommerce "
+"Integration from <a href=\"%s\" target=\"_blank\">WebinarSystem Settings</a> "
+"to use this feature."
+msgstr ""
+"Cette section est pour émettre des tickets pour les webinaires. Activer "
+"l'intégration WooCommerce depuis <a href=\"%s\" target=\"_blank\">Paramètres "
+"WebinarSystem</a> pour utiliser cette fonctionnalité."
+
+# @ _wswebinar
+#: includes/templates/template-metabox-ticket.php:13
+msgid "Ticket details"
+msgstr "Détails Ticket"
+
+# @ _wswebinar
+#: includes/templates/template-metabox-ticket.php:16
+msgid "Paid webinar?"
+msgstr "Webinaire payant ?"
+
+#: includes/templates/template-metabox-ticket.php:22
+msgid "Buying Form Title"
+msgstr "Titre Formulaire Achat"
+
+#: includes/templates/template-metabox-ticket.php:28
+msgid "Buying Form Description"
+msgstr "Description Formulaire Achat"
+
+#: includes/templates/template-metabox-ticket.php:34
+msgid "Price"
+msgstr "Prix"
+
+#: includes/templates/template-metabox-ticket.php:44
+msgid "Required"
+msgstr "requis"
+
+#: includes/templates/template-metabox-ticket.php:49
+msgid "Ticket Title"
+msgstr "Titre Ticket"
+
+#: includes/templates/template-metabox-ticket.php:54
+msgid "Ticket Description"
+msgstr "Description Ticket"
+
+#: includes/templates/template-metabox-ticket.php:63
+msgid "Style"
+msgstr "Style"
+
+#: includes/templates/template-options-license.php:11
+msgid "Activate for"
+msgstr "Activer pour"
+
+#: includes/templates/template-options-license.php:15
+#, php-format
+msgid "This domain (%s)"
+msgstr "Ce domaine (%s)"
+
+#: includes/templates/template-options-license.php:20
+msgid "If you have an Agency license, it will be applied for all websites."
+msgstr ""
+"si vous avez une license Agence, elle sera appliquée pour tous les sites web."
+
+#: includes/templates/template-options-license.php:25
+msgid "License Key"
+msgstr "Clé licence"
+
+#: includes/templates/template-options-license.php:29
+msgid "Flush data (Recheck)"
+msgstr "Purger les données (Revérifier)"
+
+#: includes/templates/template-options-license.php:32
+msgid "Your copy of WebinarSysteem is Active."
+msgstr "Votre copie de WebinarSystem est active"
+
+#: includes/templates/template-options-license.php:34
+msgid ""
+"Your copy of WebinarSysteem is not activated. Plugin will not work as "
+"expected. Please activate your copy."
+msgstr ""
+"Votre copie de WebinarSystem n'est pas active. Le plugin ne fonctionnera pas "
+"correctement. Veuillez activer votre copie."
+
+#: includes/templates/template-options-license.php:40
+msgid "Activated sites"
+msgstr "Sites activés"
+
+#: includes/templates/template-options-license.php:64
+msgid "Deactivate license"
+msgstr "Désactiver licence"
+
+#: includes/templates/template-recurring-days-times-selects-boxes.php:8
+msgid "Right Now"
+msgstr "Tout de suite"
+
+#: includes/templates/template-recurring-days-times-selects-boxes.php:34
+msgid "Select a day"
+msgstr "Choisir un jour"
+
+#: includes/templates/template-recurring-days-times-selects-boxes.php:53
+msgid "Select a time"
+msgstr "Choisir une heure"
+
+# @ _wswebinar
+#: includes/tmp-closed.php:49
+msgid "Unfortunately, this webinar is closed."
+msgstr "Désolé , ce Webinaire est fermé."
+
+# @ _wswebinar
+#: includes/tmp-closed.php:52
+msgid "Click here"
+msgstr "Cliquez ici"
+
+# @ _wswebinar
+#: includes/tmp-closed.php:52
+msgid "to go to our homepage."
+msgstr "pour aller à notre page d'accueil."
+
+# @ _wswebinar
+#: includes/tmp-countdown.php:78
+msgid "will begin in"
+msgstr "commencera dans"
+
+# @ _wswebinar
+#: includes/tmp-countdown.php:79
+msgid "will begin shortly"
+msgstr "Commencera bientôt"
+
+# @ _wswebinar
+#: includes/tmp-countdown.php:84
+msgid "will start"
+msgstr "va commencer"
+
+# @ _wswebinar
+#: includes/tmp-countdown.php:85
+msgid "on"
+msgstr "sur"
+
+# @ _wswebinar
+#: includes/tmp-countdown.php:86
+msgid "at"
+msgstr "à"
+
+# @ _wswebinar
+#: includes/tmp-countdown.php:92
+msgid "Please come back at this time. Thank you for your patience"
+msgstr "Merci de revenir à ce moment . Merci pour votre patience"
+
+# @ _wswebinar
+#: includes/tmp-countdown.php:103
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr ""
+"Juste une seconde, nous commençons la diffusion. Cette page va s'actualiser "
+"automatiquement..."
+
+# @ _wswebinar
+#: includes/tmp-countdown.php:113 includes/tmp-live.php:273
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields "
+"are filled correctly"
+msgstr ""
+"Quelque chose est mal rempli dans le formulaire pour ajouter une question. "
+"Merci de vérifier que tous les champs soient correctement remplis."
+
+# @ _wswebinar
+#: includes/tmp-countdown.php:114 includes/tmp-live.php:274
+msgid "Please wait.."
+msgstr "Merci de patienter..."
+
+# @ _wswebinar
+#: includes/tmp-live.php:162 includes/tmp-post.php:190
+#: includes/tmp-registration.php:162
+msgid "Host"
+msgid_plural "Hosts"
+msgstr[0] "Hôte"
+msgstr[1] "Hôtes"
+
+# @ _wswebinar
+#: includes/tmp-live.php:171
+msgid "Information"
+msgstr "Information"
+
+# @ _wswebinar
+#: includes/tmp-live.php:195
+msgid "Ask your question!"
+msgstr "Posez votre question !"
+
+# @ _wswebinar
+#: includes/tmp-live.php:199
+msgid "Your name"
+msgstr "Votre nom"
+
+# @ _wswebinar
+#: includes/tmp-live.php:202
+msgid "Your email"
+msgstr "Votre émail"
+
+# @ _wswebinar
+#: includes/tmp-live.php:205
+msgid "Type your question here.."
+msgstr "Ecrivez votre question ici."
+
+# @ _wswebinar
+#: includes/tmp-live.php:207
+msgid "Ask Question!"
+msgstr "Posez une question !"
+
+# @ _wswebinar
+#: includes/tmp-live.php:211
+msgid "My Questions"
+msgstr "Mes questions"
+
+# @ _wswebinar
+#: includes/tmp-live.php:218
+msgid "Live Chat"
+msgstr "Chat en direct"
+
+#: includes/tmp-live.php:220
+msgid "Private"
+msgstr "Privé"
+
+#: includes/tmp-live.php:220
+msgid "Public"
+msgstr "Publique"
+
+# @ _wswebinar
+#: includes/tmp-post.php:159
+msgid "Here is the webinar URL..."
+msgstr "Voici le lien du Webinaire"
+
+#: includes/tmp-post.php:167
+msgid "Save and bookmark this URL so you can get access to the webinar..."
+msgstr "Sauvegardez et marquez cette URL pour avoir accès au webinaire..."
+
+# @ _wswebinar
+#: includes/tmp-post.php:177
+msgid "Your Webinar Ticket"
+msgstr "Votre ticket Webinaire"
+
+# @ _wswebinar
+#: includes/tmp-post.php:178
+msgid "The Webinar Event Information..."
+msgstr "L'information de l'événement Webinaire..."
+
+# @ _wswebinar
+#: includes/tmp-post.php:208
+msgid "Join Webinar in Progress..."
+msgstr "Rejoignez le Webinaire en cours..."
+
+# @ _wswebinar
+#: includes/tmp-post.php:216
+msgid "View Webinar Replay"
+msgstr "Revoir le Webinaire"
+
+# @ _wswebinar
+#: includes/tmp-post.php:245
+msgid "Add To Your Calendar"
+msgstr "Ajouter à votre calendrier"
+
+# @ _wswebinar
+#: includes/tmp-post.php:246
+msgid "Remind Yourself Of The Event"
+msgstr "Rappelez-vous de l'événement"
+
+# @ _wswebinar
+#: includes/tmp-post.php:254
+msgid "Google Calendar"
+msgstr "Calendrier google"
+
+# @ _wswebinar
+#: includes/tmp-post.php:256
+msgid "iCal / Outlook"
+msgstr "iCal / Outlook"
+
+# q s@ default
+#: includes/tmp-registration.php:2
+msgid "No script kiddies please!"
+msgstr "Pas de \"script kiddies\" s'il vous plait !"
+
+#: includes/tmp-registration.php:42
+msgid "Register"
+msgstr "S’inscrire"
+
+#: includes/tmp-registration.php:43 includes/tmp-registration.php:59
+msgid "Login"
+msgstr "Connexion"
+
+#: includes/tmp-registration.php:45
+msgid "Free Sign Up:"
+msgstr "Inscription gratuite :"
+
+#: includes/tmp-registration.php:47
+msgid "Sign Up"
+msgstr "Inscription"
+
+#: includes/tmp-registration.php:231
+msgid "Buy a ticket"
+msgstr "Acheter un ticket"
+
+#: includes/tmp-registration.php:252
+msgid ""
+"Unfortunately, you can't use a general info@.. address. Please use a "
+"personal e-mail address"
+msgstr ""
+"Malheureusement vous ne pouvez pas utiliser d’adresse générale de type "
+"info@… Veuillez utiliser une adresse email personnelle"
+
+# @ _wswebinar
+#: includes/tmp-registration.php:257
+msgid "Of course we will handle your data safely."
+msgstr "Bien sûr, vos données restent confidentielles."
+
+# @ _wswebinar
+#~ msgid "Webinar Questions"
+#~ msgstr "Question du Webinaire"
+
+# @ _wswebinar
+#~ msgid "Registered Date"
+#~ msgstr "Date d'inscription"
+
+# @ _wswebinar
+#~ msgid ""
+#~ "Save and bookmark this URL so you can get access the live webinar "
+#~ "replay..."
+#~ msgstr ""
+#~ "Sauvez et ajoutez au favoris ce lien pour rejouer ce Webinaire en "
+#~ "direct..."
+
+# @ _wswebinar
+#, fuzzy
+#~ msgid "Join webinar now"
+#~ msgstr "Rejoignez le Webinaire en cours..."

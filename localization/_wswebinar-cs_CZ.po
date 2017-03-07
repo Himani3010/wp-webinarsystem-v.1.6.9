@@ -1,0 +1,1411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP WebinarSystem Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-12 14:05+0530\n"
+"PO-Revision-Date: 2016-06-02 02:43+0200\n"
+"Last-Translator: Martin Viktora <viktora@poradci-sobe.cz>\n"
+"Language-Team: \n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: cs_CZ\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-webinarsysteemoptions.php:603
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:611
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:619
+msgid "MySQL Version"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:630
+msgid "Max Upload Size"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:638
+msgid "Default Timezone"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:697
+msgid "Server Time"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:709
+msgid "Server Timezone"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:719
+msgid "Server Locale"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:758
+msgid "by "
+msgstr ""
+
+#: includes/tmp-countdown.php:73
+msgid "on"
+msgstr ""
+
+#: includes/tmp-countdown.php:74
+msgid "at"
+msgstr ""
+
+#: includes/templates/template-metabox-countdownpage.php:13
+msgid "Tagline color"
+msgstr ""
+
+#: includes/class-webinarsysteem-promotional-notices.php:36
+msgid "Yes, download Pro!"
+msgstr "Ano, stáhnout Pro verzi"
+
+#: includes/class-webinarsysteem-promotional-notices.php:47
+#, php-format
+msgid ""
+"If you like <strong>WP WebinarSystem</strong> please leave us a %s rating. A "
+"huge thank you in advance!"
+msgstr ""
+"Pokud se vám <strong>WP WebinarSystem</strong> líbí, dejte nám rating %s! "
+"Děkujeme moc!"
+
+#: includes/class-webinarsysteem-questions.php:27
+msgid "WP WebinarSystem Questions"
+msgstr "WP WebinarSystem - Otázky"
+
+#: includes/class-webinarsysteem-questions.php:28
+msgid "Select webinar to view questions for active webinars"
+msgstr "Vyberte webinář pro zobrazení otázek"
+
+#: includes/class-webinarsysteem-questions.php:48
+msgid "Delete Selected"
+msgstr "Vymazat vybrané"
+
+#: includes/class-webinarsysteem-questions.php:49
+msgid "Export CSV"
+msgstr "Exportovat CSV"
+
+#: includes/class-webinarsysteem-questions.php:50
+msgid "Export TEXT"
+msgstr "Exportovat TEXT"
+
+#: includes/class-webinarsysteem-questions.php:56
+#: includes/class-webinarsysteemattendees.php:65
+#: includes/class-webinarsysteemattendees.php:101
+#: includes/class-webinarsysteemoptions.php:772
+msgid "Name"
+msgstr "Jméno"
+
+#: includes/class-webinarsysteem-questions.php:56
+msgid "Question"
+msgstr "Otázka"
+
+#: includes/class-webinarsysteem-questions.php:56 includes/tmp-post.php:189
+#: includes/tmp-registration.php:151
+msgid "Time"
+msgstr "Čas"
+
+#: includes/class-webinarsysteem-shortcodes.php:22
+#: includes/class-webinarsysteem-shortcodes.php:127
+msgid "Error: "
+msgstr "Chyba: "
+
+#: includes/class-webinarsysteem-shortcodes.php:22
+#: includes/class-webinarsysteem-shortcodes.php:127
+msgid "Invalid webinar id."
+msgstr "Neplatné ID webináře"
+
+#: includes/class-webinarsysteem-shortcodes.php:28
+#, php-format
+msgid "You've successfully registered for %s"
+msgstr "Registrace na webinář \"%s\" proběhla úspěšně!"
+
+#: includes/class-webinarsysteem-shortcodes.php:36
+#, php-format
+msgid "You're already registered for %s"
+msgstr "Na webinář \"%s\" jste již registrováni"
+
+#: includes/class-webinarsysteem-shortcodes.php:47
+#: includes/tmp-registration.php:273
+msgid "Registration is closed for this webinar."
+msgstr "Registrace pro tento webinář jsou uzavřeny"
+
+#: includes/class-webinarsysteem-shortcodes.php:59
+#: includes/tmp-registration.php:206
+msgid "Your Name"
+msgstr "Jméno a příjmení"
+
+#: includes/class-webinarsysteem-shortcodes.php:61
+#: includes/tmp-registration.php:208
+msgid "Please enter your name."
+msgstr "Prosím vložte vaše jméno"
+
+#: includes/class-webinarsysteem-shortcodes.php:63
+#: includes/class-webinarsysteem-shortcodes.php:138
+#: includes/tmp-registration.php:210 includes/tmp-registration.php:262
+msgid "Your Email Address"
+msgstr "Vaše emailová adresa"
+
+#: includes/class-webinarsysteem-shortcodes.php:65
+#: includes/class-webinarsysteem-shortcodes.php:140
+#: includes/tmp-registration.php:212 includes/tmp-registration.php:264
+msgid "Please enter your email."
+msgstr "Prosím zadejte Váš email"
+
+#: includes/class-webinarsysteem-shortcodes.php:82
+#: includes/tmp-registration.php:229
+msgid "Select a day to watch."
+msgstr "Zvolte den sledování"
+
+#: includes/class-webinarsysteem-shortcodes.php:104
+#: includes/tmp-registration.php:242
+msgid "Select a time to watch."
+msgstr "Zvolte čas sledování"
+
+#: includes/class-webinarsysteem-shortcodes.php:143
+msgid "Please register before login."
+msgstr "Před přihlášením se prosím registrujte."
+
+#: includes/class-webinarsysteem.php:339
+msgid "WP WebinarSystem"
+msgstr "WP WebinarSystem"
+
+#: includes/class-webinarsysteem.php:339
+msgid "WebinarSystem"
+msgstr "WebinarSystem"
+
+#: includes/class-webinarsysteem.php:340 includes/class-webinarsysteem.php:464
+msgid "Webinars"
+msgstr "Webináře"
+
+#: includes/class-webinarsysteem.php:342
+msgid "New webinar"
+msgstr "Nový webinář"
+
+#: includes/class-webinarsysteem.php:343
+msgid "Attendee Lists"
+msgstr "Seznam účastníků"
+
+#: includes/class-webinarsysteem.php:344
+msgid "Webinar Questions"
+msgstr "Otázky účastníků"
+
+#: includes/class-webinarsysteem.php:346
+msgid "Settings"
+msgstr "Nastavení"
+
+#: includes/class-webinarsysteem.php:347
+msgid "Go Pro"
+msgstr "Přejít na Pro verzi"
+
+#: includes/class-webinarsysteem.php:347
+msgid "More Functionalities"
+msgstr "Další funkcionality"
+
+#: includes/class-webinarsysteem.php:383 includes/class-webinarsysteem.php:409
+msgid "Questions"
+msgstr "Otázky"
+
+#: includes/class-webinarsysteem.php:388
+msgid "Duplicate this Webinar"
+msgstr "Duplikovat tento webinář"
+
+#: includes/class-webinarsysteem.php:388
+msgid "Duplicate"
+msgstr "Duplikovat"
+
+#: includes/class-webinarsysteem.php:407
+msgid "Views"
+msgstr "Zobrazení"
+
+#: includes/class-webinarsysteem.php:408
+msgid "Registrations"
+msgstr "Registrace"
+
+#: includes/class-webinarsysteem.php:410
+msgid "Status"
+msgstr "Stav"
+
+#: includes/class-webinarsysteem.php:465 includes/class-webinarsysteem.php:466
+#: includes/tmp-post.php:185
+msgid "Webinar"
+msgstr "Webinář"
+
+#: includes/class-webinarsysteem.php:467 includes/class-webinarsysteem.php:468
+msgid "Add New Webinar"
+msgstr "Přidat nový webinář"
+
+#: includes/class-webinarsysteem.php:469
+msgid "New Webinar"
+msgstr "Nový webinář"
+
+#: includes/class-webinarsysteem.php:470
+msgid "Edit Webinar"
+msgstr "Editovat webinář"
+
+#: includes/class-webinarsysteem.php:471
+msgid "View Webinar"
+msgstr "Zobrazit webinář"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-attendee-replay.php:10
+#: includes/templates/template-email-attendee1hr.php:14
+#: includes/templates/template-email-attendee24hr.php:14
+#: includes/templates/template-email-reader.php:11
+msgid "Hi"
+msgstr "Dobrý den,"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:951
+#: includes/templates/template-email-attendee1hr.php:16
+msgid ""
+"The webinar you signed up for starts in one hour. Below you will find the link "
+"to attend the webinar."
+msgstr ""
+"Webinář, na který jste přihlášeni, začíná za jednu hodinu. Odkaz na webinář je "
+"zde: "
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:17
+#: includes/templates/template-email-attendee24hr.php:16
+#: includes/templates/template-email-reader.php:13
+msgid "Webinar name:"
+msgstr "Název webináře"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:18
+#: includes/templates/template-email-attendee24hr.php:17
+#: includes/templates/template-email-reader.php:14
+msgid "Date:"
+msgstr "Datum:"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:19
+#: includes/templates/template-email-attendee24hr.php:18
+#: includes/templates/template-email-reader.php:15
+msgid "Time:"
+msgstr "Čas:"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:21
+#: includes/templates/template-email-attendee24hr.php:20
+#: includes/templates/template-email-reader.php:17
+msgid "See you then!"
+msgstr "Na shledanou!"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/class-webinarsysteem.php:951 includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-admin-email.php:9
+#: includes/templates/template-email-attendee-replay.php:14
+#: includes/templates/template-email-attendee-wbstarted.php:14
+#: includes/templates/template-email-attendee1hr.php:22
+#: includes/templates/template-email-attendee24hr.php:21
+#: includes/templates/template-email-reader.php:18
+msgid "Regards"
+msgstr "S pozdravem"
+
+#: includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee24hr.php:15
+msgid ""
+"This is a reminder for your upcoming webinar tomorrow. Below you will find the "
+"details of the webinar."
+msgstr ""
+"Připomenutí: webinář, na který jste si přihlásili, se koná již zítra. Zde jsou "
+"podrobnosti k tomuto webináři:"
+
+#: includes/class-webinarsysteem.php:951
+#: includes/templates/template-email-attendee-wbstarted.php:9
+msgid "We are going live now"
+msgstr "Začínáme vysílat"
+
+#: includes/class-webinarsysteem.php:951 includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-attendee-replay.php:13
+#: includes/templates/template-email-attendee-wbstarted.php:13
+msgid "See you later!"
+msgstr "Na shledanou!"
+
+#: includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-attendee-replay.php:11
+#: includes/templates/template-email-attendee-wbstarted.php:11
+msgid "Make sure to join the webinar via this link:"
+msgstr "Webináře se můžete zúčastnit kliknutím na tento odkaz:"
+
+#: includes/class-webinarsysteemattendees.php:12
+msgid "WP WebinarSystem Attendees"
+msgstr "Účastníci"
+
+#: includes/class-webinarsysteemattendees.php:13
+msgid "Select webinar to view attendees for active webinars"
+msgstr "Zvolte webinář pro zobrazení počtu účastníků"
+
+#: includes/class-webinarsysteemattendees.php:38
+msgid "Please add webinars to listup."
+msgstr "Prosím přidejte webináře do seznam"
+
+#: includes/class-webinarsysteemattendees.php:66
+#: includes/class-webinarsysteemattendees.php:102
+msgid "E-Mail"
+msgstr "Email"
+
+#: includes/class-webinarsysteemattendees.php:67
+#: includes/class-webinarsysteemattendees.php:103
+msgid "Registered Date"
+msgstr "Registrace dne"
+
+#: includes/class-webinarsysteemattendees.php:94
+msgid "No Attendees :("
+msgstr "Žádní účastníci..."
+
+#: includes/class-webinarsysteemmessages.php:63
+#: includes/class-webinarsysteemmessages.php:69
+#: includes/class-webinarsysteemoptions.php:56
+msgid "New Registration"
+msgstr "Nová registrace"
+
+#: includes/class-webinarsysteemmessages.php:77
+#: includes/class-webinarsysteemmessages.php:120
+msgid "Reminder"
+msgstr "Připomenutí"
+
+#: includes/class-webinarsysteemmessages.php:84
+msgid "You are registered for the webinar!"
+msgstr "Jste registrováni na webinář!"
+
+#: includes/class-webinarsysteemmessages.php:169
+msgid "We are live in one hour!"
+msgstr "Začínáme za jednu hodinu!"
+
+#: includes/class-webinarsysteemmessages.php:213
+msgid "We are starting the webinar!"
+msgstr "Webinář právě začíná!"
+
+#: includes/class-webinarsysteemmessages.php:257
+msgid "Webinar Replay Link"
+msgstr "Odkaz na přehrání webináře"
+
+#: includes/class-webinarsysteemmessages.php:350
+msgid "Once a minute"
+msgstr "Každou minutu"
+
+#: includes/class-webinarsysteemmessages.php:372
+msgid "hrs"
+msgstr "hod."
+
+#: includes/class-webinarsysteemmetabox.php:22
+msgid "Webinar Settings"
+msgstr "Nastavení webináře"
+
+#: includes/class-webinarsysteemmetabox.php:26
+msgid "Host Names"
+msgstr "Jména prezentujících"
+
+#: includes/class-webinarsysteemmetabox.php:27
+msgid "Your Webinar URL"
+msgstr "Odkaz na váš webinář"
+
+#: includes/class-webinarsysteemmetabox.php:108
+#: includes/class-webinarsysteemoptions.php:44
+msgid "General Options"
+msgstr "Obecná nastavení"
+
+#: includes/class-webinarsysteemmetabox.php:109
+msgid "Registration Page"
+msgstr "Registrační stránka"
+
+#: includes/class-webinarsysteemmetabox.php:110
+msgid "Thank You Page"
+msgstr "Děkovací stránka"
+
+#: includes/class-webinarsysteemmetabox.php:111
+msgid "Countdown Page"
+msgstr "Stránka s odpočtem"
+
+#: includes/class-webinarsysteemmetabox.php:112
+msgid "Live Page"
+msgstr "Stránka s živým webinářem"
+
+#: includes/class-webinarsysteemmetabox.php:113
+msgid "Replay Page"
+msgstr "Stránka se záznamem webináře"
+
+#: includes/class-webinarsysteemmetabox.php:115
+#: includes/templates/template-metabox-thankyoupage.php:85
+msgid "Ticket"
+msgstr "\"Vstupenka\""
+
+#: includes/class-webinarsysteemmetabox.php:116
+msgid "Mailinglist"
+msgstr "Distribuční seznam"
+
+#: includes/class-webinarsysteemmetabox.php:117
+msgid "Import / Export"
+msgstr "Importovat / Exportovat"
+
+#: includes/class-webinarsysteemmetabox.php:494
+msgid "Webinar will be presented by:"
+msgstr "Host webináře: "
+
+#: includes/class-webinarsysteemmetabox.php:496
+msgid "Separate each by commas"
+msgstr "Oddělujte čárkou"
+
+#: includes/class-webinarsysteemmetabox.php:511
+msgid "Host & Description Box"
+msgstr "Host a popis webináře"
+
+#: includes/class-webinarsysteemmetabox.php:515
+#: includes/class-webinarsysteemmetabox.php:588
+#: includes/class-webinarsysteemmetabox.php:646
+#: includes/class-webinarsysteemoptions.php:105
+#: includes/templates/template-metabox-countdownpage.php:25
+#: includes/templates/template-metabox-livepage.php:20
+#: includes/templates/template-metabox-registerpage.php:96
+#: includes/templates/template-metabox-replaypage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:144
+#: includes/templates/template-metabox-thankyoupage.php:159
+msgid "Background color"
+msgstr "Barva pozadí"
+
+#: includes/class-webinarsysteemmetabox.php:523
+msgid "Show Host Box"
+msgstr "Zobrazit infobox o hostu webináře"
+
+#: includes/class-webinarsysteemmetabox.php:530
+msgid "Host Title Background color"
+msgstr "Barva pozadí u hosta"
+
+#: includes/class-webinarsysteemmetabox.php:536
+msgid "Host Title Text color"
+msgstr "Barva textu nadpisu u hosta"
+
+#: includes/class-webinarsysteemmetabox.php:542
+msgid "Host Text color"
+msgstr "Barva textu u hosta"
+
+#: includes/class-webinarsysteemmetabox.php:550
+msgid "Show Description Box"
+msgstr "Zobrazit box s popisem"
+
+#: includes/class-webinarsysteemmetabox.php:557
+msgid "Description Title Background color"
+msgstr "Barva pozadí nadpisu popisu"
+
+#: includes/class-webinarsysteemmetabox.php:563
+msgid "Description Title Text color"
+msgstr "Barva textu nadpisu popisu"
+
+#: includes/class-webinarsysteemmetabox.php:569
+msgid "Description Text color"
+msgstr "Barva textu popisu"
+
+#: includes/class-webinarsysteemmetabox.php:577
+msgid "Question Box"
+msgstr "Box s otázkami"
+
+#: includes/class-webinarsysteemmetabox.php:581
+msgid "Show Question box"
+msgstr "Zobrazit box s otázkami"
+
+#: includes/class-webinarsysteemmetabox.php:594
+msgid "Title Text Color"
+msgstr "Barva textu nadpisu"
+
+#: includes/class-webinarsysteemmetabox.php:600
+msgid "Border Radius"
+msgstr "Rádius okrajů"
+
+#: includes/class-webinarsysteemmetabox.php:606
+msgid "Button Background Color"
+msgstr "Barva pozadí tlačítka"
+
+#: includes/class-webinarsysteemmetabox.php:612
+msgid "Button Hover Background Color"
+msgstr "Barva pozadí tlačítka při najetí myší"
+
+#: includes/class-webinarsysteemmetabox.php:618
+msgid "Button Border Color"
+msgstr "Barva okraje tlačítka"
+
+#: includes/class-webinarsysteemmetabox.php:624
+msgid "Button Hover Border Color"
+msgstr "Barva okraje tlačítka při najetí myší"
+
+#: includes/class-webinarsysteemmetabox.php:630
+#: includes/templates/template-metabox-registerpage.php:164
+#: includes/templates/template-metabox-registerpage.php:203
+#: includes/templates/template-metabox-thankyoupage.php:130
+#: includes/templates/template-metabox-thankyoupage.php:170
+msgid "Button Text color"
+msgstr "Barva textu tlačítka"
+
+#: includes/class-webinarsysteemmetabox.php:636
+msgid "Button Hover Text color"
+msgstr "Barva textu tlačítka při najetí myší"
+
+#: includes/class-webinarsysteemmetabox.php:642
+msgid "Incentive Box"
+msgstr "Pobídkový box"
+
+#: includes/class-webinarsysteemmetabox.php:652
+msgid "Show Incentive Box"
+msgstr "Zobrazit pobídkový box"
+
+#: includes/class-webinarsysteemmetabox.php:659
+msgid "Incentive Title"
+msgstr "Pobídkový nadpis"
+
+#: includes/class-webinarsysteemmetabox.php:665
+msgid "Title Text color"
+msgstr "Barva textu nadpisu"
+
+#: includes/class-webinarsysteemmetabox.php:671
+msgid "Title Background color"
+msgstr "Barva pozadí nadpisu"
+
+#: includes/class-webinarsysteemmetabox.php:677
+msgid "Content text color"
+msgstr "Barva textu obsahu"
+
+#: includes/class-webinarsysteemmetabox.php:683
+msgid "Incentive box content"
+msgstr "Obsah pobídkového boxu"
+
+#: includes/class-webinarsysteemmetabox.php:697
+msgid "Preview Page"
+msgstr "Zobrazit náhled"
+
+#: includes/class-webinarsysteemmetabox.php:698
+msgid "Only use this generated link for test purposes"
+msgstr "Pro testovací účely používajte pouze tento vygenerovaný odkaz"
+
+#: includes/class-webinarsysteemoptions.php:32
+msgid "WP WebinarSystem Options"
+msgstr "Nastavení"
+
+#: includes/class-webinarsysteemoptions.php:35
+#: includes/templates/template-metabox-countdownpage.php:4
+#: includes/templates/template-metabox-livepage.php:4
+#: includes/templates/template-metabox-registerpage.php:4
+#: includes/templates/template-metabox-replaypage.php:4
+#: includes/templates/template-metabox-thankyoupage.php:4
+msgid "General"
+msgstr "Obecné"
+
+#: includes/class-webinarsysteemoptions.php:36
+msgid "Emails"
+msgstr "Emaily"
+
+#: includes/class-webinarsysteemoptions.php:37
+#: includes/class-webinarsysteemoptions.php:399
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: includes/class-webinarsysteemoptions.php:38
+msgid "System Status"
+msgstr "Stav systému"
+
+#: includes/class-webinarsysteemoptions.php:55
+msgid "Email options"
+msgstr "Možnosti emailů"
+
+#: includes/class-webinarsysteemoptions.php:57
+msgid "Reminder day before Webinar"
+msgstr "Připomenutí den před webinářem"
+
+#: includes/class-webinarsysteemoptions.php:58
+msgid "Reminder one hour before Webinar"
+msgstr "Připomenutí hodinu před webinářem"
+
+#: includes/class-webinarsysteemoptions.php:59
+msgid "Reminder Webinar Starting"
+msgstr "Připomenutí začátku webináře"
+
+#: includes/class-webinarsysteemoptions.php:60
+msgid "Webinar replay"
+msgstr "Přehrát webinář"
+
+#: includes/class-webinarsysteemoptions.php:65
+msgid "Email Sender Options"
+msgstr "Nastavení odesílání emailů"
+
+#: includes/class-webinarsysteemoptions.php:68
+msgid "\"From\" Name"
+msgstr "Jméno \"Od\""
+
+#: includes/class-webinarsysteemoptions.php:68
+msgid "Sender name"
+msgstr "Jméne odesílatele"
+
+#: includes/class-webinarsysteemoptions.php:71
+msgid "\"From\" Email Address"
+msgstr "Emailová adresa odesílatele"
+
+#: includes/class-webinarsysteemoptions.php:71
+msgid "Sender email"
+msgstr "Email odesílatele"
+
+#: includes/class-webinarsysteemoptions.php:75
+msgid "Email Template"
+msgstr "Šablona emailu"
+
+#: includes/class-webinarsysteemoptions.php:79
+msgid "Header Image"
+msgstr "Obrázek pro hlavičku"
+
+#: includes/class-webinarsysteemoptions.php:83
+msgid "Upload"
+msgstr "Nahrát"
+
+#: includes/class-webinarsysteemoptions.php:89
+msgid "Email Footer Text"
+msgstr "Text patičky emailu"
+
+#: includes/class-webinarsysteemoptions.php:92
+msgid "Footer Text"
+msgstr "Text patičky"
+
+#: includes/class-webinarsysteemoptions.php:97
+msgid "Base color"
+msgstr "Základní barva"
+
+#: includes/class-webinarsysteemoptions.php:113
+msgid "Email Body Background color"
+msgstr "Barva pozadí těla emailu"
+
+#: includes/class-webinarsysteemoptions.php:121
+msgid "Email Body Text color"
+msgstr "Barva textu těla emailu"
+
+#: includes/class-webinarsysteemoptions.php:131
+#: includes/class-webinarsysteemoptions.php:205
+#: includes/class-webinarsysteemoptions.php:267
+#: includes/class-webinarsysteemoptions.php:328
+#: includes/class-webinarsysteemoptions.php:389
+msgid "Reset Default Template"
+msgstr "Resetovat defaultní šablonu"
+
+#: includes/class-webinarsysteemoptions.php:140
+msgid "New Registration Options"
+msgstr "Nastavení nových registrací"
+
+#: includes/class-webinarsysteemoptions.php:143
+msgid "Admin Email Address"
+msgstr "Emailová adresa administrátora"
+
+#: includes/class-webinarsysteemoptions.php:143
+msgid "Admin email"
+msgstr "Email administrátora"
+
+#: includes/class-webinarsysteemoptions.php:149
+msgid "Reminder day before Webinar "
+msgstr "Připomenutí den před webinářem"
+
+#: includes/class-webinarsysteemoptions.php:153
+#: includes/class-webinarsysteemoptions.php:218
+#: includes/class-webinarsysteemoptions.php:279
+#: includes/class-webinarsysteemoptions.php:340
+msgid "Enable this reminder?"
+msgstr "Aktivovat tento připomínač?"
+
+#: includes/class-webinarsysteemoptions.php:161
+#: includes/class-webinarsysteemoptions.php:226
+#: includes/class-webinarsysteemoptions.php:287
+#: includes/class-webinarsysteemoptions.php:348
+msgid "Subject"
+msgstr "Předmět"
+
+#: includes/class-webinarsysteemoptions.php:164
+#: includes/class-webinarsysteemoptions.php:229
+#: includes/class-webinarsysteemoptions.php:290
+#: includes/class-webinarsysteemoptions.php:351
+msgid "Email Head"
+msgstr "Hlavička emailu"
+
+#: includes/class-webinarsysteemoptions.php:169
+#: includes/class-webinarsysteemoptions.php:234
+#: includes/class-webinarsysteemoptions.php:295
+#: includes/class-webinarsysteemoptions.php:356
+msgid "Available Shortcodes:"
+msgstr "Dostupné zkratky:"
+
+#: includes/class-webinarsysteemoptions.php:177
+#: includes/class-webinarsysteemoptions.php:242
+#: includes/class-webinarsysteemoptions.php:303
+#: includes/class-webinarsysteemoptions.php:364
+#: includes/templates/template-metabox-thankyoupage.php:71
+msgid "Content"
+msgstr "Obsah"
+
+#: includes/class-webinarsysteemoptions.php:194
+#: includes/class-webinarsysteemoptions.php:256
+#: includes/class-webinarsysteemoptions.php:317
+#: includes/class-webinarsysteemoptions.php:378
+msgid "Your email address"
+msgstr "Emailová adresa"
+
+#: includes/class-webinarsysteemoptions.php:195
+#: includes/class-webinarsysteemoptions.php:257
+#: includes/class-webinarsysteemoptions.php:318
+#: includes/class-webinarsysteemoptions.php:379
+msgid "Send Preview"
+msgstr "Odeslat náhled"
+
+#: includes/class-webinarsysteemoptions.php:199
+#: includes/class-webinarsysteemoptions.php:261
+#: includes/class-webinarsysteemoptions.php:322
+#: includes/class-webinarsysteemoptions.php:383
+msgid "Add a Webinar to send a preview email."
+msgstr "Přidat webinář pro odeslání náhledu emailu"
+
+#: includes/class-webinarsysteemoptions.php:213
+msgid "Reminder one hour before Webinar "
+msgstr "Připomenutí hodinu před začátkem webináře"
+
+#: includes/class-webinarsysteemoptions.php:275
+msgid "Reminder when Webinar starts"
+msgstr "Připomenutí začátku webináře"
+
+#: includes/class-webinarsysteemoptions.php:336
+msgid "Send Webinar Replay Link"
+msgstr "Odeslat odkaz pro přehrání webináře"
+
+#: includes/class-webinarsysteemoptions.php:407
+#: includes/class-webinarsysteemoptions.php:456
+msgid "Roles & Permissions"
+msgstr "Role a oprávnění"
+
+#: includes/class-webinarsysteemoptions.php:415
+msgid "Create Webinars"
+msgstr "Vytvořit webináře"
+
+#: includes/class-webinarsysteemoptions.php:428
+msgid "Manage Subscribers"
+msgstr "Správa odběratelů"
+
+#: includes/class-webinarsysteemoptions.php:441
+msgid "Change WebinarSystem Settings"
+msgstr "Změnit nastavení WebinarSystem"
+
+#: includes/class-webinarsysteemoptions.php:472
+msgid ""
+"Please copy and paste this information in your ticket when contacting support:"
+msgstr "Prosím při kontaktu s podporou uvádějte tyto informace:"
+
+#: includes/class-webinarsysteemoptions.php:475
+msgid "Copy for Support"
+msgstr "Kopírovat"
+
+#: includes/class-webinarsysteemoptions.php:476
+msgid "Copied!"
+msgstr "Zkopírováno!"
+
+#: includes/class-webinarsysteemoptions.php:478
+msgid "Get System Report"
+msgstr "Získat report o systému"
+
+#: includes/class-webinarsysteemoptions.php:484
+msgid "WordPress Environment"
+msgstr "Prostředí Wordpressu"
+
+#: includes/class-webinarsysteemoptions.php:488
+msgid "Home URL"
+msgstr "Hlavní URL (Home)"
+
+#: includes/class-webinarsysteemoptions.php:496
+msgid "Site URL"
+msgstr "URL webu"
+
+#: includes/class-webinarsysteemoptions.php:504
+msgid "WP Version"
+msgstr "Verze WP"
+
+#: includes/class-webinarsysteemoptions.php:511
+msgid "WP Multisite"
+msgstr "WP Multisite"
+
+#: includes/class-webinarsysteemoptions.php:515
+msgid "WP Debug mode"
+msgstr "WP Debug mode"
+
+#: includes/class-webinarsysteemoptions.php:524
+msgid "WP Cron status"
+msgstr "WP Cron status"
+
+#: includes/class-webinarsysteemoptions.php:536
+msgid "Language"
+msgstr "Jazyk"
+
+#: includes/class-webinarsysteemoptions.php:544
+msgid "Plugin Environment"
+msgstr "Pluginy"
+
+#: includes/class-webinarsysteemoptions.php:548
+msgid "Webinar System Version"
+msgstr "Verze Webinar System"
+
+#: includes/class-webinarsysteemoptions.php:558
+msgid "Server Environment"
+msgstr "Serverové prostředí"
+
+#: includes/class-webinarsysteemoptions.php:562
+msgid "Server Info"
+msgstr "Server Info"
+
+#: includes/class-webinarsysteemoptions.php:570
+msgid "PHP Version"
+msgstr "Verze PHP"
+
+#: includes/class-webinarsysteemoptions.php:579
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr "Nebylo možné zjistit verzi PHP, funkce phpversion() neexistuje."
+
+#: includes/class-webinarsysteemoptions.php:587
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+#: includes/class-webinarsysteemoptions.php:595
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: includes/class-webinarsysteemoptions.php:726
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/class-webinarsysteemoptions.php:740
+msgid "Active Plugins ("
+msgstr "Aktivní pluginy ("
+
+#: includes/class-webinarsysteemoptions.php:768
+msgid "Theme"
+msgstr "Šablona"
+
+#: includes/class-webinarsysteemoptions.php:776
+msgid "Version"
+msgstr "Verze"
+
+#: includes/class-webinarsysteemoptions.php:780
+msgid "Author URL"
+msgstr "URL Autora"
+
+#: includes/tmp-closed.php:48
+msgid "Unfortunately, this webinar is closed."
+msgstr "Bohužel, tento webinář je uzavřen"
+
+#: includes/tmp-closed.php:51
+msgid "Click here"
+msgstr "Klikněte zde"
+
+#: includes/tmp-closed.php:51
+msgid "to go to our homepage."
+msgstr "a navštivte naši stránku."
+
+#: includes/tmp-countdown.php:65
+msgid "will begin in"
+msgstr "začínáme za"
+
+#: includes/tmp-countdown.php:66
+msgid "will begin shortly"
+msgstr "začínáme brzy"
+
+#: includes/tmp-countdown.php:72
+msgid "will start"
+msgstr "začínáme"
+
+#: includes/tmp-countdown.php:81
+msgid "Please come back at this time. Thank you for your patience"
+msgstr "Please come back at this time. Thank you for your patience"
+
+#: includes/tmp-countdown.php:92
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr "Moment... začínáme vysílat. Tato stránka se automaticky aktualizuje."
+
+#: includes/tmp-live.php:103 includes/tmp-post.php:186
+#: includes/tmp-registration.php:155
+msgid "Host"
+msgid_plural "Hosts"
+msgstr[0] "Host"
+msgstr[1] "Hosté"
+msgstr[2] "Hosté"
+
+#: includes/tmp-live.php:111
+msgid "Information"
+msgstr "Informace"
+
+#: includes/tmp-live.php:120
+msgid "Ask your question!"
+msgstr "Položit dotaz!"
+
+#: includes/tmp-live.php:125
+msgid "Your name"
+msgstr "Jméno a příjmení"
+
+#: includes/tmp-live.php:128
+msgid "Your email"
+msgstr "Váš email"
+
+#: includes/tmp-live.php:131
+msgid "Type your question here.."
+msgstr "Zde můžete vložit vaši otázku..."
+
+#: includes/tmp-live.php:133
+msgid "Ask Question!"
+msgstr "Položit otázku!"
+
+#: includes/tmp-live.php:137
+msgid "My Questions"
+msgstr "Mé otázky"
+
+#: includes/tmp-live.php:161
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields are "
+"filled correctly"
+msgstr ""
+"Chyba při vyplnění formuláře. Prosím zkontrolujte, zda jsou všechna pole správně "
+"vyplněna."
+
+#: includes/tmp-live.php:162
+msgid "Please wait.."
+msgstr "Čekejte prosím..."
+
+#: includes/tmp-post.php:158
+msgid "Here is the webinar URL..."
+msgstr "Zde je odkaz na webinář..."
+
+#: includes/tmp-post.php:164
+msgid "Save and bookmark this URL so you can get access the live webinar replay..."
+msgstr "Uložte si tento odkaz do záložek."
+
+#: includes/tmp-post.php:174
+msgid "Your Webinar Ticket"
+msgstr "Organizační detaily webináře"
+
+#: includes/tmp-post.php:175
+msgid "The Webinar Event Information..."
+msgstr "Uložte si termín webináře do kalendáře!"
+
+#: includes/tmp-post.php:188 includes/tmp-registration.php:150
+#: includes/templates/template-metabox-generalpage.php:32
+msgid "Date"
+msgstr "Datum"
+
+#: includes/tmp-post.php:201
+msgid "Join Webinar in Progress..."
+msgstr "Připojení k webináři je v procesu..."
+
+#: includes/tmp-post.php:204
+#: includes/templates/template-email-attendee-replay.php:12
+#: includes/templates/template-email-attendee-wbstarted.php:12
+#: includes/templates/template-email-attendee1hr.php:20
+#: includes/templates/template-email-attendee24hr.php:19
+#: includes/templates/template-email-reader.php:16
+msgid "Go to Webinar"
+msgstr "Jít na webinář"
+
+#: includes/tmp-post.php:207
+msgid "View Webinar Replay"
+msgstr "Zobrazit záznam webináře"
+
+#: includes/tmp-post.php:238
+msgid "Add To Your Calendar"
+msgstr "Přidat do kalendáře"
+
+#: includes/tmp-post.php:239
+msgid "Remind Yourself Of The Event"
+msgstr "Vložte webinář do vašeho kalendáře"
+
+#: includes/tmp-post.php:248
+msgid "Google Calendar"
+msgstr "Google kalendář"
+
+#: includes/tmp-post.php:250
+msgid "iCal / Outlook"
+msgstr "iCal / Outlook"
+
+#: includes/tmp-registration.php:2
+msgid "No script kiddies please!"
+msgstr "Žádné legrácky se skripty!"
+
+#: includes/tmp-registration.php:249
+msgid "Of course we will handle your data safely."
+msgstr "Ochrana osobních údajů v souladu s Podmínkami webu Poradci-sobě.cz"
+
+#: includes/templates/template-email-admin-email.php:7
+msgid "Howdy"
+msgstr "Dobrý den,"
+
+#: includes/templates/template-email-admin-email.php:8
+msgid "just signed up for your webinar"
+msgstr "se právě přihlásil(a) na váš webinář"
+
+#: includes/templates/template-email-reader.php:12
+msgid ""
+"Thank you for your registration for the webinar. Below you will find the details "
+"of the webinar."
+msgstr "Děkujeme za registraci na webinář. Detaily webináře:"
+
+#: includes/templates/template-metabox-countdownpage.php:7
+#: includes/templates/template-metabox-livepage.php:14
+#: includes/templates/template-metabox-replaypage.php:14
+#: includes/templates/template-metabox-thankyoupage.php:14
+msgid "Title color"
+msgstr "Barva nadpisu"
+
+#: includes/templates/template-metabox-countdownpage.php:19
+msgid "Description color"
+msgstr "Barva popisu"
+
+#: includes/templates/template-metabox-countdownpage.php:31
+#: includes/templates/template-metabox-livepage.php:26
+#: includes/templates/template-metabox-replaypage.php:26
+#: includes/templates/template-metabox-thankyoupage.php:26
+msgid "Background image"
+msgstr "Obrázek na pozadí"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+msgid "Countdown Page Background Image"
+msgstr "Obrázek na pozadí stránky s odpočtem"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-livepage.php:49
+#: includes/templates/template-metabox-registerpage.php:15
+#: includes/templates/template-metabox-registerpage.php:40
+#: includes/templates/template-metabox-replaypage.php:28
+#: includes/templates/template-metabox-replaypage.php:55
+#: includes/templates/template-metabox-thankyoupage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:46
+msgid "Upload Image"
+msgstr "Nahrát obrázek"
+
+#: includes/templates/template-metabox-countdownpage.php:38
+msgid "Show countdown timer"
+msgstr "Zobrazit odpočet"
+
+#: includes/templates/template-metabox-generalpage.php:22
+msgid "Webinar Type"
+msgstr "Typ webináře"
+
+#: includes/templates/template-metabox-generalpage.php:31
+msgid "Webinar starts at"
+msgstr "Začátek webináře "
+
+#: includes/templates/template-metabox-generalpage.php:102
+msgid "Disable registration"
+msgstr "Zablokovat registrace"
+
+#: includes/templates/template-metabox-livepage.php:7
+#: includes/templates/template-metabox-replaypage.php:7
+msgid "Hide Title"
+msgstr "Skrýt nadpis"
+
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:28
+msgid "Thankyou Page Background Image"
+msgstr "Děkovací stránka - obrázek na pozadí"
+
+#: includes/templates/template-metabox-livepage.php:36
+#: includes/templates/template-metabox-replaypage.php:42
+msgid "Webinar type"
+msgstr "Typ webináře"
+
+#: includes/templates/template-metabox-livepage.php:41
+#: includes/templates/template-metabox-registerpage.php:32
+#: includes/templates/template-metabox-replaypage.php:47
+#: includes/templates/template-metabox-thankyoupage.php:38
+msgid "Image"
+msgstr "Obrázek"
+
+#: includes/templates/template-metabox-livepage.php:46
+#: includes/templates/template-metabox-registerpage.php:37
+#: includes/templates/template-metabox-replaypage.php:52
+#: includes/templates/template-metabox-thankyoupage.php:43
+msgid "Video or Image URL"
+msgstr "URL videa nebo obrázku"
+
+#: includes/templates/template-metabox-livepage.php:49
+#: includes/templates/template-metabox-replaypage.php:55
+msgid "Registration Page Video Image"
+msgstr "Registrační stránka - video obrázek"
+
+#: includes/templates/template-metabox-livepage.php:51
+msgid ""
+"Paste Youtube/Hangouts URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-"
+"XM OR http://youtu.be/CqlB2SiG-ac)"
+msgstr ""
+"Sem vložte Youtube / Hangouts URL (např. https://www.youtube.com/watch?"
+"v=3TkeXaMpLe9-XM NEBO http://youtu.be/CqlB2SiG-ac)"
+
+#: includes/templates/template-metabox-livepage.php:52
+#: includes/templates/template-metabox-registerpage.php:44
+#: includes/templates/template-metabox-thankyoupage.php:49
+msgid "Paste Vimeo video ID here (Eg: 129673042)"
+msgstr "Sem vložte Vimeo video ID (např.: 129673042)"
+
+#: includes/templates/template-metabox-livepage.php:53
+#: includes/templates/template-metabox-registerpage.php:45
+#: includes/templates/template-metabox-replaypage.php:61
+#: includes/templates/template-metabox-thankyoupage.php:50
+msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+msgstr "URL obrázku (např.: https://priklad.cz/images/obrazek.jpg)"
+
+#: includes/templates/template-metabox-livepage.php:58
+msgid "Start a Hangout"
+msgstr "Začít Hangout"
+
+#: includes/templates/template-metabox-livepage.php:72
+#: includes/templates/template-metabox-registerpage.php:50
+#: includes/templates/template-metabox-replaypage.php:66
+#: includes/templates/template-metabox-thankyoupage.php:55
+msgid "Video autoplay"
+msgstr "Automatické spuštění videa"
+
+#: includes/templates/template-metabox-livepage.php:75
+#: includes/templates/template-metabox-livepage.php:83
+#: includes/templates/template-metabox-registerpage.php:61
+#: includes/templates/template-metabox-replaypage.php:77
+#: includes/templates/template-metabox-thankyoupage.php:66
+#, php-format
+msgid "%s only."
+msgstr "Pouze %s."
+
+#: includes/templates/template-metabox-livepage.php:80
+#: includes/templates/template-metabox-registerpage.php:58
+#: includes/templates/template-metabox-replaypage.php:74
+#: includes/templates/template-metabox-thankyoupage.php:63
+msgid "Video Controls"
+msgstr "Ovládání videa"
+
+#: includes/templates/template-metabox-registerpage.php:7
+msgid "Page Background color"
+msgstr "Barva pozadí stránky"
+
+#: includes/templates/template-metabox-registerpage.php:13
+msgid "Page Background image"
+msgstr "Obrázek na pozadí stránky"
+
+#: includes/templates/template-metabox-registerpage.php:15
+msgid "Registration Page Background Image"
+msgstr "Registrační stránka - obrázek na pozadí"
+
+#: includes/templates/template-metabox-registerpage.php:20
+msgid "Show Content Section"
+msgstr "Zobrazit sekci s obsahem"
+
+#: includes/templates/template-metabox-registerpage.php:27
+#: includes/templates/template-metabox-thankyoupage.php:33
+msgid "Content type"
+msgstr "Typ obsahu"
+
+#: includes/templates/template-metabox-registerpage.php:40
+msgid "Registration Page Image"
+msgstr "Obrázek na registrační stránce"
+
+#: includes/templates/template-metabox-registerpage.php:43
+#: includes/templates/template-metabox-thankyoupage.php:48
+msgid "Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM)"
+msgstr ""
+"Sem vložte Youtube URL (např.: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM)"
+
+#: includes/templates/template-metabox-registerpage.php:68
+msgid "Title Color"
+msgstr "Barva nadpisu"
+
+#: includes/templates/template-metabox-registerpage.php:73
+msgid "Date/Time Color"
+msgstr "Barva pro datum / čas"
+
+#: includes/templates/template-metabox-registerpage.php:79
+msgid "Form & Tab Layout"
+msgstr "Vzhled formuláře a záložek"
+
+#: includes/templates/template-metabox-registerpage.php:87
+msgid "Position"
+msgstr "Pozice"
+
+#: includes/templates/template-metabox-registerpage.php:101
+#: includes/templates/template-metabox-thankyoupage.php:139
+#: includes/templates/template-metabox-thankyoupage.php:153
+msgid "Border color"
+msgstr "Barva okraje"
+
+#: includes/templates/template-metabox-registerpage.php:107
+msgid "Font color"
+msgstr "Barva písma"
+
+#: includes/templates/template-metabox-registerpage.php:113
+msgid "Tab Background color"
+msgstr "Barva pozadí záložky"
+
+#: includes/templates/template-metabox-registerpage.php:119
+msgid "Tab Text color"
+msgstr "Barva textu záložky"
+
+#: includes/templates/template-metabox-registerpage.php:125
+msgid "Register Tab Text"
+msgstr "Text registrační záložky"
+
+#: includes/templates/template-metabox-registerpage.php:131
+msgid "Login Tab Text"
+msgstr "Text přihlašovací záložky"
+
+#: includes/templates/template-metabox-registerpage.php:137
+msgid "Register Tab"
+msgstr "Registrační záložka"
+
+#: includes/templates/template-metabox-registerpage.php:140
+msgid "Register Title"
+msgstr "Registrační nadpis"
+
+#: includes/templates/template-metabox-registerpage.php:146
+msgid "Register Text"
+msgstr "Registrační text"
+
+#: includes/templates/template-metabox-registerpage.php:152
+#: includes/templates/template-metabox-registerpage.php:191
+#: includes/templates/template-metabox-thankyoupage.php:176
+msgid "Button Background color"
+msgstr "Barva pozadí tlačítka"
+
+#: includes/templates/template-metabox-registerpage.php:158
+#: includes/templates/template-metabox-registerpage.php:197
+#: includes/templates/template-metabox-thankyoupage.php:182
+msgid "Button Border color"
+msgstr "Barva okraje tlačítka"
+
+#: includes/templates/template-metabox-registerpage.php:170
+msgid "CTA Button Text"
+msgstr "Text akčního tlačítka"
+
+#: includes/templates/template-metabox-registerpage.php:176
+msgid "Login Tab"
+msgstr "Přihlašovací záložka"
+
+#: includes/templates/template-metabox-registerpage.php:179
+msgid "Login Title"
+msgstr "Přihlašovací nadpis"
+
+#: includes/templates/template-metabox-registerpage.php:185
+msgid "Login Text"
+msgstr "Přihlašovací text"
+
+#: includes/templates/template-metabox-registerpage.php:209
+msgid "Login Button Text"
+msgstr "Text přihlašovacího tlačítka"
+
+#: includes/templates/template-metabox-registerpage.php:216
+msgid "Description"
+msgstr "Popis"
+
+#: includes/templates/template-metabox-registerpage.php:219
+msgid "Show Description Section"
+msgstr "Zobrazit sekci s popisem"
+
+#: includes/templates/template-metabox-registerpage.php:225
+msgid "Description text color"
+msgstr "Barva textu popisu"
+
+#: includes/templates/template-metabox-registerpage.php:230
+msgid "Description background color"
+msgstr "Barva pozadí popisu"
+
+#: includes/templates/template-metabox-registerpage.php:235
+msgid "Description border color"
+msgstr "Barva okraje popisu"
+
+#: includes/templates/template-metabox-replaypage.php:28
+msgid "Replay Page Background Image"
+msgstr "Stránka se záznamem - podkladový obrázek"
+
+#: includes/templates/template-metabox-replaypage.php:35
+msgid "Replay available?"
+msgstr "Záznam k dispozici?"
+
+#: includes/templates/template-metabox-replaypage.php:59
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM OR "
+"http://youtu.be/CqlB2SiG-ac)"
+msgstr ""
+"Sem vložte Youtube URL (např.: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM "
+"NEBO http://youtu.be/CqlB2SiG-ac)"
+
+#: includes/templates/template-metabox-replaypage.php:60
+msgid "Paste Vimeo video ID here (Eg: 129673042))"
+msgstr "Sem vložte Vimeo video ID (např.: 129673042)"
+
+#: includes/templates/template-metabox-thankyoupage.php:7
+msgid "Title text"
+msgstr "Text nadpisu"
+
+#: includes/templates/template-metabox-thankyoupage.php:9
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "Jste registrováni na webinář!"
+
+#: includes/templates/template-metabox-thankyoupage.php:46
+msgid "Thank you Page Image"
+msgstr "Obrázek pro děkovací stránku"
+
+#: includes/templates/template-metabox-thankyoupage.php:74
+msgid "Link above Text Color"
+msgstr "Barva textu odkazu nad"
+
+#: includes/templates/template-metabox-thankyoupage.php:79
+msgid "Link below Text Color"
+msgstr "Barva textu odkazu pod"
+
+#: includes/templates/template-metabox-thankyoupage.php:88
+msgid "Border color-1"
+msgstr "Barva pozadí 1"
+
+#: includes/templates/template-metabox-thankyoupage.php:94
+msgid "Border color-2"
+msgstr "Barva pozadí 2"
+
+#: includes/templates/template-metabox-thankyoupage.php:100
+msgid "Body Text color"
+msgstr "Barva textu těla"
+
+#: includes/templates/template-metabox-thankyoupage.php:106
+msgid "Body Background color"
+msgstr "Barva pozadí těla"
+
+#: includes/templates/template-metabox-thankyoupage.php:112
+msgid "Header Background color"
+msgstr "Barva pozadí hlavičky"
+
+#: includes/templates/template-metabox-thankyoupage.php:118
+msgid "Header Text color"
+msgstr "Barva textu hlavičky"
+
+#: includes/templates/template-metabox-thankyoupage.php:124
+msgid "Button color"
+msgstr "Barva tlačítka"
+
+#: includes/templates/template-metabox-thankyoupage.php:136
+msgid "Social Sharing"
+msgstr "Sociální sítě"
+
+#: includes/templates/template-metabox-thankyoupage.php:150
+msgid "Calendar"
+msgstr "Kalendář"
+
+#: includes/templates/template-metabox-thankyoupage.php:165
+msgid "Text color"
+msgstr "Barva textu"

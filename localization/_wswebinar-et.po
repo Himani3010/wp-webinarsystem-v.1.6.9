@@ -1,0 +1,1416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP WebinarSystem Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-12 14:05+0530\n"
+"PO-Revision-Date: Tue Aug 16 2016 09:51:15 GMT+0300 (FLE Daylight Time)\n"
+"Last-Translator: Peeter Jürgenson <peeter@mustmuna.ee>\n"
+"Language-Team: \n"
+"Language: Estonian\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Target-Locale: et_EE"
+
+#: includes/class-webinarsysteemoptions.php:579
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr "PHP versiooni ei kustutatud kuna php versiooni() ei eksisteeri."
+
+#: includes/class-webinarsysteemoptions.php:603
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars "
+
+#: includes/class-webinarsysteemoptions.php:611
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN Installeeritud"
+
+#: includes/class-webinarsysteemoptions.php:758
+msgid "by "
+msgstr "poolt"
+
+#: includes/tmp-countdown.php:74
+msgid "at"
+msgstr " "
+
+#: includes/tmp-registration.php:2
+msgid "No script kiddies please!"
+msgstr "Ei script kiddistele!"
+
+#: includes/templates/template-email-admin-email.php:7
+msgid "Howdy"
+msgstr "Tervitus"
+
+#: includes/class-webinarsysteemmetabox.php:698
+msgid "Only use this generated link for test purposes"
+msgstr "Kasuta genereeritud linki ainult testimise eesmärgil"
+
+#: includes/class-webinarsysteemoptions.php:37
+#: includes/class-webinarsysteemoptions.php:399
+msgid "Advanced"
+msgstr "Lisa võimalustega versioon"
+
+#: includes/class-webinarsysteemoptions.php:472
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+"Palun kopeeri ja lisa see informatsioon alati klienditoele saadetud "
+"küsimusele:"
+
+#: includes/class-webinarsysteemoptions.php:475
+msgid "Copy for Support"
+msgstr "Koopia klienditoele saatmiseks"
+
+#: includes/class-webinarsysteemoptions.php:515
+msgid "WP Debug mode"
+msgstr "WP Debug mode"
+
+#: includes/class-webinarsysteemoptions.php:544
+msgid "Plugin Environment"
+msgstr "Plugin halduskeskond"
+
+#: includes/class-webinarsysteemoptions.php:719
+msgid "Server Locale"
+msgstr "Kohalik server"
+
+#: includes/class-webinarsysteemoptions.php:740
+msgid "Active Plugins ("
+msgstr "Actiivsed pluginad"
+
+#: includes/tmp-live.php:103 includes/tmp-post.php:186
+#: includes/tmp-registration.php:155
+msgid "Host"
+msgid_plural "Hosts"
+msgstr[0] "Host"
+msgstr[1] ""
+
+#: includes/templates/template-metabox-countdownpage.php:13
+msgid "Tagline color"
+msgstr "Sildirea värvus"
+
+#: includes/templates/template-metabox-registerpage.php:79
+msgid "Form & Tab Layout"
+msgstr "Vormide & Lahtrite seaded"
+
+#: includes/templates/template-metabox-thankyoupage.php:74
+msgid "Link above Text Color"
+msgstr "Algne lingi teksti värvus"
+
+#: includes/templates/template-metabox-thankyoupage.php:79
+msgid "Link below Text Color"
+msgstr "Aktiivse lingi värvus"
+
+#: includes/class-webinarsysteemmetabox.php:642
+msgid "Incentive Box"
+msgstr "Lisavõimaluste sektsioon"
+
+#: includes/class-webinarsysteemmetabox.php:652
+msgid "Show Incentive Box"
+msgstr "Näita lisavõimaluste sektsioon"
+
+#: includes/class-webinarsysteemmetabox.php:659
+msgid "Incentive Title"
+msgstr "Lisavõimaluste sektsiooni pealkiri"
+
+#: includes/class-webinarsysteemmetabox.php:683
+msgid "Incentive box content"
+msgstr "Lisavõimaluste sektsiooni sisu"
+
+#: includes/class-webinarsysteemoptions.php:35
+#: includes/templates/template-metabox-countdownpage.php:4
+#: includes/templates/template-metabox-livepage.php:4
+#: includes/templates/template-metabox-registerpage.php:4
+#: includes/templates/template-metabox-replaypage.php:4
+#: includes/templates/template-metabox-thankyoupage.php:4
+msgid "General"
+msgstr "Põhi sektsioon"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+msgid "Countdown Page Background Image"
+msgstr "Algusaja lehe taustapilt"
+
+#: includes/templates/template-metabox-registerpage.php:20
+msgid "Show Content Section"
+msgstr "Näita sisu sektsiooni"
+
+#: includes/class-webinarsysteemoptions.php:478
+msgid "Get System Report"
+msgstr "Salvesta süsteemi raport"
+
+#: includes/class-webinarsysteemoptions.php:511
+msgid "WP Multisite"
+msgstr "WP multileht"
+
+#: includes/class-webinarsysteemmessages.php:372
+msgid "hrs"
+msgstr "hr"
+
+#: includes/class-webinarsysteemmetabox.php:111
+msgid "Countdown Page"
+msgstr "Algusaja leht"
+
+#: includes/class-webinarsysteemmetabox.php:496
+msgid "Separate each by commas"
+msgstr "Eralda kõik üksused komaga"
+
+#: includes/class-webinarsysteemmetabox.php:511
+msgid "Host & Description Box"
+msgstr "Aadressi & kirjelduse sektsioon"
+
+#: includes/class-webinarsysteemmetabox.php:523
+msgid "Show Host Box"
+msgstr "Näita aadressi kasti"
+
+#: includes/class-webinarsysteemmetabox.php:530
+msgid "Host Title Background color"
+msgstr "Aadressi pealkirja tausta värvus"
+
+#: includes/class-webinarsysteemmetabox.php:536
+msgid "Host Title Text color"
+msgstr "Aadressi pealkirja teksti värvus"
+
+#: includes/class-webinarsysteemmetabox.php:542
+msgid "Host Text color"
+msgstr "Aadressi teksti värvus"
+
+#: includes/class-webinarsysteemmetabox.php:612
+msgid "Button Hover Background Color"
+msgstr "Nupu varju taustavärv"
+
+#: includes/class-webinarsysteemmetabox.php:618
+msgid "Button Border Color"
+msgstr "Nupuraami värv"
+
+#: includes/class-webinarsysteemmetabox.php:624
+msgid "Button Hover Border Color"
+msgstr "Nupu taustaraami värv"
+
+#: includes/class-webinarsysteemmetabox.php:636
+msgid "Button Hover Text color"
+msgstr "Nupuvarju teksti värv"
+
+#: includes/class-webinarsysteemoptions.php:32
+msgid "WP WebinarSystem Options"
+msgstr "WP WebinarSystem Seaded"
+
+#: includes/class-webinarsysteemoptions.php:131
+#: includes/class-webinarsysteemoptions.php:205
+#: includes/class-webinarsysteemoptions.php:267
+#: includes/class-webinarsysteemoptions.php:328
+#: includes/class-webinarsysteemoptions.php:389
+msgid "Reset Default Template"
+msgstr "Muuda standartsed põhja"
+
+#: includes/class-webinarsysteemoptions.php:140
+msgid "New Registration Options"
+msgstr "Uue registreerimise seaded"
+
+#: includes/class-webinarsysteemoptions.php:169
+#: includes/class-webinarsysteemoptions.php:234
+#: includes/class-webinarsysteemoptions.php:295
+#: includes/class-webinarsysteemoptions.php:356
+msgid "Available Shortcodes:"
+msgstr "Võimalikud lühikoodid"
+
+#: includes/class-webinarsysteemoptions.php:428
+msgid "Manage Subscribers"
+msgstr "Halda liitujaid"
+
+#: includes/tmp-post.php:250
+msgid "iCal / Outlook"
+msgstr "iCal / Outlook"
+
+#: includes/templates/template-metabox-countdownpage.php:38
+msgid "Show countdown timer"
+msgstr "Näita algusaja lugerit"
+
+#: includes/templates/template-metabox-generalpage.php:102
+msgid "Disable registration"
+msgstr "Lülita registreerimine välja"
+
+#: includes/templates/template-metabox-livepage.php:49
+#: includes/templates/template-metabox-replaypage.php:55
+msgid "Registration Page Video Image"
+msgstr "Registreerumise lehe videopilt"
+
+#: includes/templates/template-metabox-livepage.php:58
+msgid "Start a Hangout"
+msgstr "Alusta ülekannet Hangout`siga"
+
+#: includes/templates/template-metabox-livepage.php:75
+#: includes/templates/template-metabox-livepage.php:83
+#: includes/templates/template-metabox-registerpage.php:61
+#: includes/templates/template-metabox-replaypage.php:77
+#: includes/templates/template-metabox-thankyoupage.php:66
+#, php-format
+msgid "%s only."
+msgstr "%s ainult."
+
+#: includes/templates/template-metabox-livepage.php:80
+#: includes/templates/template-metabox-registerpage.php:58
+#: includes/templates/template-metabox-replaypage.php:74
+#: includes/templates/template-metabox-thankyoupage.php:63
+msgid "Video Controls"
+msgstr "Video seaded"
+
+#: includes/templates/template-metabox-registerpage.php:113
+msgid "Tab Background color"
+msgstr "Lahtri tausta värv"
+
+#: includes/templates/template-metabox-registerpage.php:119
+msgid "Tab Text color"
+msgstr "Lahtri teksti värv"
+
+#: includes/templates/template-metabox-registerpage.php:131
+msgid "Login Tab Text"
+msgstr "Sisselogimise lahtri tekst"
+
+#: includes/templates/template-metabox-registerpage.php:170
+msgid "CTA Button Text"
+msgstr "CTA nupu tekst"
+
+#: includes/templates/template-metabox-registerpage.php:176
+msgid "Login Tab"
+msgstr "Sisselogimise lahter"
+
+#: includes/templates/template-metabox-registerpage.php:179
+msgid "Login Title"
+msgstr "Sisselogimise lahtri pealkiri"
+
+#: includes/templates/template-metabox-registerpage.php:185
+msgid "Login Text"
+msgstr "Sisselogimise tekst"
+
+#: includes/templates/template-metabox-registerpage.php:209
+msgid "Login Button Text"
+msgstr "Sisselogimise nupu tekst"
+
+#: includes/templates/template-metabox-registerpage.php:219
+msgid "Show Description Section"
+msgstr "Näita kirjelduse lahter"
+
+#: includes/templates/template-metabox-thankyoupage.php:46
+msgid "Thank you Page Image"
+msgstr "Tänulehe pilt"
+
+#: includes/class-webinarsysteemmetabox.php:515
+#: includes/class-webinarsysteemmetabox.php:588
+#: includes/class-webinarsysteemmetabox.php:646
+#: includes/class-webinarsysteemoptions.php:105
+#: includes/templates/template-metabox-countdownpage.php:25
+#: includes/templates/template-metabox-livepage.php:20
+#: includes/templates/template-metabox-registerpage.php:96
+#: includes/templates/template-metabox-replaypage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:144
+#: includes/templates/template-metabox-thankyoupage.php:159
+msgid "Background color"
+msgstr "Taustavärv"
+
+#: includes/class-webinarsysteemmetabox.php:550
+msgid "Show Description Box"
+msgstr "Näita kirjelduse sektsiooni"
+
+#: includes/class-webinarsysteemmetabox.php:557
+msgid "Description Title Background color"
+msgstr "Kirjelduse  pealkirja taustavärv"
+
+#: includes/class-webinarsysteemmetabox.php:569
+msgid "Description Text color"
+msgstr "Kirjelduse teksitvärv"
+
+#: includes/class-webinarsysteemmetabox.php:577
+msgid "Question Box"
+msgstr "Küsimuste sektsioon"
+
+#: includes/class-webinarsysteemmetabox.php:581
+msgid "Show Question box"
+msgstr "Näita küsimuste sektsioon"
+
+#: includes/class-webinarsysteemmetabox.php:600
+msgid "Border Radius"
+msgstr "Äärise raadius"
+
+#: includes/class-webinarsysteemmetabox.php:630
+#: includes/templates/template-metabox-registerpage.php:164
+#: includes/templates/template-metabox-registerpage.php:203
+#: includes/templates/template-metabox-thankyoupage.php:130
+#: includes/templates/template-metabox-thankyoupage.php:170
+msgid "Button Text color"
+msgstr "Nupu tekstivärv"
+
+#: includes/class-webinarsysteemmetabox.php:677
+msgid "Content text color"
+msgstr "Sisu tekstivärv"
+
+#: includes/class-webinarsysteemmetabox.php:697
+msgid "Preview Page"
+msgstr "Eelvaateleht"
+
+#: includes/class-webinarsysteemoptions.php:36
+msgid "Emails"
+msgstr "E-postid"
+
+#: includes/class-webinarsysteemoptions.php:55
+msgid "Email options"
+msgstr "E-kirja valikud"
+
+#: includes/class-webinarsysteemoptions.php:57
+msgid "Reminder day before Webinar"
+msgstr "Meeldetuletus päev enne Veebinari"
+
+#: includes/class-webinarsysteemoptions.php:58
+msgid "Reminder one hour before Webinar"
+msgstr "Meeldetuletus üks tund enne Veebinari"
+
+#: includes/class-webinarsysteemoptions.php:59
+msgid "Reminder Webinar Starting"
+msgstr "Veebinari alguse meeldetuletus"
+
+#: includes/class-webinarsysteemoptions.php:60
+msgid "Webinar replay"
+msgstr "Veebinarii kordus"
+
+#: includes/class-webinarsysteemoptions.php:65
+msgid "Email Sender Options"
+msgstr "Kirja saatja valikud"
+
+#: includes/class-webinarsysteemoptions.php:68
+msgid "\"From\" Name"
+msgstr "\"Kellelt\" nimi"
+
+#: includes/class-webinarsysteemoptions.php:68
+msgid "Sender name"
+msgstr "Saatja nimi"
+
+#: includes/class-webinarsysteemoptions.php:71
+msgid "\"From\" Email Address"
+msgstr "\"Kellelt\" e-kirja aadress"
+
+#: includes/class-webinarsysteemoptions.php:71
+msgid "Sender email"
+msgstr "Saatja e-post"
+
+#: includes/class-webinarsysteemoptions.php:75
+msgid "Email Template"
+msgstr "E-posti näidis"
+
+#: includes/class-webinarsysteemoptions.php:79
+msgid "Header Image"
+msgstr "Päise foto"
+
+#: includes/class-webinarsysteemoptions.php:83
+msgid "Upload"
+msgstr "Lae ülesse"
+
+#: includes/class-webinarsysteemoptions.php:89
+msgid "Email Footer Text"
+msgstr "E-posti jaluse tekst"
+
+#: includes/class-webinarsysteemoptions.php:92
+msgid "Footer Text"
+msgstr "Jaluse tekst"
+
+#: includes/class-webinarsysteemoptions.php:97
+msgid "Base color"
+msgstr "Põhivärv"
+
+#: includes/class-webinarsysteemoptions.php:113
+msgid "Email Body Background color"
+msgstr "E-posti põhja taustavärv"
+
+#: includes/class-webinarsysteemoptions.php:121
+msgid "Email Body Text color"
+msgstr "E-posti põhja tekstivärv"
+
+#: includes/class-webinarsysteemoptions.php:143
+msgid "Admin Email Address"
+msgstr "Admin e-posti aadress"
+
+#: includes/class-webinarsysteemoptions.php:143
+msgid "Admin email"
+msgstr "Admin e-post"
+
+#: includes/class-webinarsysteemoptions.php:149
+msgid "Reminder day before Webinar "
+msgstr "Meeldetuletus päev enne Veebinari"
+
+#: includes/class-webinarsysteemoptions.php:153
+#: includes/class-webinarsysteemoptions.php:218
+#: includes/class-webinarsysteemoptions.php:279
+#: includes/class-webinarsysteemoptions.php:340
+msgid "Enable this reminder?"
+msgstr "Luba meeldetuletuseks?"
+
+#: includes/class-webinarsysteemoptions.php:161
+#: includes/class-webinarsysteemoptions.php:226
+#: includes/class-webinarsysteemoptions.php:287
+#: includes/class-webinarsysteemoptions.php:348
+msgid "Subject"
+msgstr "Teema"
+
+#: includes/class-webinarsysteemoptions.php:164
+#: includes/class-webinarsysteemoptions.php:229
+#: includes/class-webinarsysteemoptions.php:290
+#: includes/class-webinarsysteemoptions.php:351
+msgid "Email Head"
+msgstr "E-posti ülaosa"
+
+#: includes/class-webinarsysteemoptions.php:177
+#: includes/class-webinarsysteemoptions.php:242
+#: includes/class-webinarsysteemoptions.php:303
+#: includes/class-webinarsysteemoptions.php:364
+#: includes/templates/template-metabox-thankyoupage.php:71
+msgid "Content"
+msgstr "Sisu sektsioon"
+
+#: includes/class-webinarsysteemoptions.php:194
+#: includes/class-webinarsysteemoptions.php:256
+#: includes/class-webinarsysteemoptions.php:317
+#: includes/class-webinarsysteemoptions.php:378
+msgid "Your email address"
+msgstr "Teie e-posti aadress"
+
+#: includes/class-webinarsysteemoptions.php:195
+#: includes/class-webinarsysteemoptions.php:257
+#: includes/class-webinarsysteemoptions.php:318
+#: includes/class-webinarsysteemoptions.php:379
+msgid "Send Preview"
+msgstr "Saada eelvaade"
+
+#: includes/class-webinarsysteemoptions.php:199
+#: includes/class-webinarsysteemoptions.php:261
+#: includes/class-webinarsysteemoptions.php:322
+#: includes/class-webinarsysteemoptions.php:383
+msgid "Add a Webinar to send a preview email."
+msgstr "Eelvate saatmiseks lisa veebinar."
+
+#: includes/class-webinarsysteemoptions.php:213
+msgid "Reminder one hour before Webinar "
+msgstr "Meeldetuletus üks tund enne Veebinari"
+
+#: includes/class-webinarsysteemoptions.php:275
+msgid "Reminder when Webinar starts"
+msgstr "Meeldetuletus kui Veebinar algab"
+
+#: includes/class-webinarsysteemoptions.php:336
+msgid "Send Webinar Replay Link"
+msgstr "Saada Veeninari  taasesitluse link"
+
+#: includes/class-webinarsysteemoptions.php:407
+#: includes/class-webinarsysteemoptions.php:456
+msgid "Roles & Permissions"
+msgstr "Rollid ja reeglid"
+
+#: includes/class-webinarsysteemoptions.php:415
+msgid "Create Webinars"
+msgstr "Loo veebinare"
+
+#: includes/class-webinarsysteemoptions.php:441
+msgid "Change WebinarSystem Settings"
+msgstr "Muuda Veebinari süsteemi seadeid"
+
+#: includes/class-webinarsysteemoptions.php:476
+msgid "Copied!"
+msgstr "Kopeeritud"
+
+#: includes/class-webinarsysteemoptions.php:484
+msgid "WordPress Environment"
+msgstr "WordPress Keskkond"
+
+#: includes/class-webinarsysteemoptions.php:488
+msgid "Home URL"
+msgstr "Kodu URL"
+
+#: includes/class-webinarsysteemoptions.php:496
+msgid "Site URL"
+msgstr "Lehe URL"
+
+#: includes/class-webinarsysteemoptions.php:504
+msgid "WP Version"
+msgstr "WP versioon"
+
+#: includes/class-webinarsysteemoptions.php:536
+msgid "Language"
+msgstr "Keel"
+
+#: includes/class-webinarsysteemoptions.php:548
+msgid "Webinar System Version"
+msgstr "Veebinari  süsteemi versioon"
+
+#: includes/class-webinarsysteemoptions.php:558
+msgid "Server Environment"
+msgstr "Serveri keskkond"
+
+#: includes/class-webinarsysteemoptions.php:562
+msgid "Server Info"
+msgstr "Serveri info"
+
+#: includes/class-webinarsysteemoptions.php:570
+msgid "PHP Version"
+msgstr "PHP versioon"
+
+#: includes/class-webinarsysteemoptions.php:587
+msgid "PHP Post Max Size"
+msgstr "PHP postituse maksimaalne suurus"
+
+#: includes/class-webinarsysteemoptions.php:595
+msgid "PHP Time Limit"
+msgstr "PHP ajapiirang"
+
+#: includes/class-webinarsysteemoptions.php:619
+msgid "MySQL Version"
+msgstr "MySQL versioon"
+
+#: includes/class-webinarsysteemoptions.php:630
+msgid "Max Upload Size"
+msgstr "Maksimaalne  üleslaadimissuurus"
+
+#: includes/class-webinarsysteemoptions.php:638
+msgid "Default Timezone"
+msgstr "Vaikimisi ajavöönd"
+
+#: includes/class-webinarsysteemoptions.php:697
+msgid "Server Time"
+msgstr "Serveri aeg"
+
+#: includes/class-webinarsysteemoptions.php:709
+msgid "Server Timezone"
+msgstr "Serveri ajatsoon"
+
+#: includes/class-webinarsysteemoptions.php:726
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/class-webinarsysteemoptions.php:768
+msgid "Theme"
+msgstr "Teema"
+
+#: includes/class-webinarsysteemoptions.php:776
+msgid "Version"
+msgstr "Versioon"
+
+#: includes/class-webinarsysteemoptions.php:780
+msgid "Author URL"
+msgstr "Autori URL"
+
+#: includes/tmp-closed.php:48
+msgid "Unfortunately, this webinar is closed."
+msgstr "Kahjuks see Veebinar on suletud."
+
+#: includes/tmp-closed.php:51
+msgid "Click here"
+msgstr "Klikka siia"
+
+#: includes/tmp-closed.php:51
+msgid "to go to our homepage."
+msgstr "et minna meie kodulehele."
+
+#: includes/tmp-countdown.php:81
+msgid "Please come back at this time. Thank you for your patience"
+msgstr "Palun tule tagasi sellel ajal. Täname teid  kannatlikkuse eest."
+
+#: includes/tmp-live.php:111
+msgid "Information"
+msgstr "Informatsioon"
+
+#: includes/tmp-live.php:120
+msgid "Ask your question!"
+msgstr "Saada meile oma küsimus!"
+
+#: includes/tmp-live.php:125
+msgid "Your name"
+msgstr "Teie nimi"
+
+#: includes/tmp-live.php:128
+msgid "Your email"
+msgstr "Teie e-post"
+
+#: includes/tmp-live.php:131
+msgid "Type your question here.."
+msgstr "Kirjutage oma küsimus siia ..."
+
+#: includes/tmp-live.php:133
+msgid "Ask Question!"
+msgstr "Saada küsimus!"
+
+#: includes/tmp-live.php:137
+msgid "My Questions"
+msgstr "Minu küsimused"
+
+#: includes/tmp-live.php:161
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields "
+"are filled correctly"
+msgstr ""
+"Midagi on valesti teie  küsimuse vormiga. Palun vaadake  uuesti vaadata kõik "
+"väljad on täidetud korrektselt"
+
+#: includes/tmp-live.php:162
+msgid "Please wait.."
+msgstr "Palun oota..."
+
+#: includes/tmp-post.php:201
+msgid "Join Webinar in Progress..."
+msgstr "Liitu  käiva Veebinariga..."
+
+#: includes/tmp-post.php:207
+msgid "View Webinar Replay"
+msgstr "Vaata Veebinari kordust"
+
+#: includes/tmp-registration.php:249
+msgid "Of course we will handle your data safely."
+msgstr "Sisestatud  andmeid käsitleme konfidentsiaalselt."
+
+#: includes/templates/template-metabox-countdownpage.php:19
+msgid "Description color"
+msgstr "Kirjelduse värv"
+
+#: includes/templates/template-metabox-countdownpage.php:31
+#: includes/templates/template-metabox-livepage.php:26
+#: includes/templates/template-metabox-replaypage.php:26
+#: includes/templates/template-metabox-thankyoupage.php:26
+msgid "Background image"
+msgstr "Taustapilt"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-livepage.php:49
+#: includes/templates/template-metabox-registerpage.php:15
+#: includes/templates/template-metabox-registerpage.php:40
+#: includes/templates/template-metabox-replaypage.php:28
+#: includes/templates/template-metabox-replaypage.php:55
+#: includes/templates/template-metabox-thankyoupage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:46
+msgid "Upload Image"
+msgstr "Lae pilt ülesse"
+
+#: includes/templates/template-metabox-generalpage.php:22
+msgid "Webinar Type"
+msgstr "Veebinari tüüp"
+
+#: includes/templates/template-metabox-generalpage.php:31
+msgid "Webinar starts at"
+msgstr "Veebinar algab"
+
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:28
+msgid "Thankyou Page Background Image"
+msgstr "Tänamislehe taustapilt"
+
+#: includes/templates/template-metabox-livepage.php:36
+#: includes/templates/template-metabox-replaypage.php:42
+msgid "Webinar type"
+msgstr "Veebinari tüüp"
+
+#: includes/templates/template-metabox-livepage.php:41
+#: includes/templates/template-metabox-registerpage.php:32
+#: includes/templates/template-metabox-replaypage.php:47
+#: includes/templates/template-metabox-thankyoupage.php:38
+msgid "Image"
+msgstr "Pilt"
+
+#: includes/templates/template-metabox-livepage.php:46
+#: includes/templates/template-metabox-registerpage.php:37
+#: includes/templates/template-metabox-replaypage.php:52
+#: includes/templates/template-metabox-thankyoupage.php:43
+msgid "Video or Image URL"
+msgstr "Video või pildi URL"
+
+#: includes/templates/template-metabox-livepage.php:51
+msgid ""
+"Paste Youtube/Hangouts URL here (Eg: https://www.youtube.com/watch?"
+"v=3TkeXaMpLe9-XM OR http://youtu.be/CqlB2SiG-ac)"
+msgstr ""
+"Aseta  Youtube/Hangouts URL siia (Eg: https://www.youtube.com/watch?"
+"v=3TkeXaMpLe9-XM OR http://youtu.be/CqlB2SiG-ac)"
+
+#: includes/templates/template-metabox-livepage.php:52
+#: includes/templates/template-metabox-registerpage.php:44
+#: includes/templates/template-metabox-thankyoupage.php:49
+msgid "Paste Vimeo video ID here (Eg: 129673042)"
+msgstr "Aseta Vimeo video ID siia (Eg: 129673042)"
+
+#: includes/templates/template-metabox-livepage.php:53
+#: includes/templates/template-metabox-registerpage.php:45
+#: includes/templates/template-metabox-replaypage.php:61
+#: includes/templates/template-metabox-thankyoupage.php:50
+msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+msgstr "Pildi URL (Eg: https://example.com/images/the_image.jpg)"
+
+#: includes/templates/template-metabox-livepage.php:72
+#: includes/templates/template-metabox-registerpage.php:50
+#: includes/templates/template-metabox-replaypage.php:66
+#: includes/templates/template-metabox-thankyoupage.php:55
+msgid "Video autoplay"
+msgstr "Video automaatesitlus"
+
+#: includes/templates/template-metabox-registerpage.php:7
+msgid "Page Background color"
+msgstr "Lehekülje taustavärv"
+
+#: includes/templates/template-metabox-registerpage.php:13
+msgid "Page Background image"
+msgstr "Lehekülje taustapilt"
+
+#: includes/templates/template-metabox-registerpage.php:15
+msgid "Registration Page Background Image"
+msgstr "Registreerimislehe taustapilt"
+
+#: includes/templates/template-metabox-registerpage.php:27
+#: includes/templates/template-metabox-thankyoupage.php:33
+msgid "Content type"
+msgstr "Sisu tüüp"
+
+#: includes/templates/template-metabox-registerpage.php:40
+msgid "Registration Page Image"
+msgstr "Registreerimislehe pilt"
+
+#: includes/templates/template-metabox-registerpage.php:43
+#: includes/templates/template-metabox-thankyoupage.php:48
+msgid "Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM)"
+msgstr "Aseta Youtube URL siia (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM)"
+
+#: includes/templates/template-metabox-registerpage.php:68
+msgid "Title Color"
+msgstr "Pealkirja värv"
+
+#: includes/templates/template-metabox-registerpage.php:87
+msgid "Position"
+msgstr "Positsioon"
+
+#: includes/templates/template-metabox-registerpage.php:101
+#: includes/templates/template-metabox-thankyoupage.php:139
+#: includes/templates/template-metabox-thankyoupage.php:153
+msgid "Border color"
+msgstr "Äärevärv"
+
+#: includes/templates/template-metabox-registerpage.php:107
+msgid "Font color"
+msgstr "Kirja värv"
+
+#: includes/templates/template-metabox-registerpage.php:152
+#: includes/templates/template-metabox-registerpage.php:191
+#: includes/templates/template-metabox-thankyoupage.php:176
+msgid "Button Background color"
+msgstr "Nupu taustavärv"
+
+#: includes/templates/template-metabox-registerpage.php:158
+#: includes/templates/template-metabox-registerpage.php:197
+#: includes/templates/template-metabox-thankyoupage.php:182
+msgid "Button Border color"
+msgstr "Nupu raamivärv"
+
+#: includes/templates/template-metabox-registerpage.php:216
+msgid "Description"
+msgstr "Kirjeldus"
+
+#: includes/templates/template-metabox-registerpage.php:225
+msgid "Description text color"
+msgstr "Kirjelduse tekstivärv"
+
+#: includes/templates/template-metabox-registerpage.php:230
+msgid "Description background color"
+msgstr "Kirjelduse taustavärv"
+
+#: includes/templates/template-metabox-registerpage.php:235
+msgid "Description border color"
+msgstr "Kirjelduse äärevärv"
+
+#: includes/templates/template-metabox-replaypage.php:28
+msgid "Replay Page Background Image"
+msgstr "Korduslehe taustapilt"
+
+#: includes/templates/template-metabox-replaypage.php:35
+msgid "Replay available?"
+msgstr "Kordus saadaval?"
+
+#: includes/templates/template-metabox-replaypage.php:59
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM "
+"OR http://youtu.be/CqlB2SiG-ac)"
+msgstr ""
+"Aseta  Youtube URL siia (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM "
+"OR http://youtu.be/CqlB2SiG-ac)"
+
+#: includes/templates/template-metabox-replaypage.php:60
+msgid "Paste Vimeo video ID here (Eg: 129673042))"
+msgstr "Aseta Vimeo video ID siia  (Eg: 129673042))"
+
+#: includes/templates/template-metabox-thankyoupage.php:7
+msgid "Title text"
+msgstr "Pealkirja tekst"
+
+#: includes/templates/template-metabox-thankyoupage.php:88
+msgid "Border color-1"
+msgstr "Äärevärv-1"
+
+#: includes/templates/template-metabox-thankyoupage.php:94
+msgid "Border color-2"
+msgstr "Äärevärv -2"
+
+#: includes/templates/template-metabox-thankyoupage.php:100
+msgid "Body Text color"
+msgstr "Keha tekstivärv"
+
+#: includes/templates/template-metabox-thankyoupage.php:106
+msgid "Body Background color"
+msgstr "Keha taustavärv"
+
+#: includes/templates/template-metabox-thankyoupage.php:112
+msgid "Header Background color"
+msgstr "Päise taustavärv"
+
+#: includes/templates/template-metabox-thankyoupage.php:118
+msgid "Header Text color"
+msgstr "Päise tekstivärv"
+
+#: includes/templates/template-metabox-thankyoupage.php:124
+msgid "Button color"
+msgstr "Nupuvärv"
+
+#: includes/templates/template-metabox-thankyoupage.php:136
+msgid "Social Sharing"
+msgstr "Sotsiaalmeedia seaded"
+
+#: includes/templates/template-metabox-thankyoupage.php:165
+msgid "Text color"
+msgstr "Tekstivärv"
+
+#: includes/class-webinarsysteemmessages.php:213
+msgid "We are starting the webinar!"
+msgstr "Kehe alustame veebinariga!"
+
+#: includes/class-webinarsysteemmessages.php:257
+msgid "Webinar Replay Link"
+msgstr "Veebinari vastuste link"
+
+#: includes/class-webinarsysteemmessages.php:350
+msgid "Once a minute"
+msgstr "Kord minutis"
+
+#: includes/class-webinarsysteemmetabox.php:22
+msgid "Webinar Settings"
+msgstr "Veebinari seaded"
+
+#: includes/class-webinarsysteemmetabox.php:26
+msgid "Host Names"
+msgstr "HOST nimi"
+
+#: includes/class-webinarsysteemmetabox.php:108
+#: includes/class-webinarsysteemoptions.php:44
+msgid "General Options"
+msgstr "Seaded"
+
+#: includes/class-webinarsysteemmetabox.php:109
+msgid "Registration Page"
+msgstr "Registreerumisleht"
+
+#: includes/class-webinarsysteemmetabox.php:110
+msgid "Thank You Page"
+msgstr "Tänuleht"
+
+#: includes/class-webinarsysteemmetabox.php:112
+msgid "Live Page"
+msgstr "Live veebileht"
+
+#: includes/class-webinarsysteemmetabox.php:113
+msgid "Replay Page"
+msgstr "Vastuste leht"
+
+#: includes/class-webinarsysteemmetabox.php:115
+#: includes/templates/template-metabox-thankyoupage.php:85
+msgid "Ticket"
+msgstr "Pileti seaded"
+
+#: includes/class-webinarsysteemmetabox.php:116
+msgid "Mailinglist"
+msgstr "Postitamise nimekiri"
+
+#: includes/class-webinarsysteemmetabox.php:117
+msgid "Import / Export"
+msgstr "Import / Eksport"
+
+#: includes/class-webinarsysteemmetabox.php:494
+msgid "Webinar will be presented by:"
+msgstr "Veebinari esitleb:"
+
+#: includes/class-webinarsysteemmetabox.php:606
+msgid "Button Background Color"
+msgstr "Nupu taustavärv"
+
+#: includes/class-webinarsysteem-promotional-notices.php:36
+msgid "Yes, download Pro!"
+msgstr "Laen PRO versiooni alla!"
+
+#: includes/class-webinarsysteem-promotional-notices.php:47
+#, php-format
+msgid ""
+"If you like <strong>WP WebinarSystem</strong> please leave us a %s rating. A "
+"huge thank you in advance!"
+msgstr ""
+"Kui sulle meeldib <strong>WP WebinarSystem</strong> siis jäta meile  %s "
+"hinnang. Suured tänud selle eest ette!"
+
+#: includes/class-webinarsysteem-questions.php:27
+msgid "WP WebinarSystem Questions"
+msgstr "WP WebinarSystem küsimused"
+
+#: includes/class-webinarsysteem-questions.php:28
+msgid "Select webinar to view questions for active webinars"
+msgstr "Vali veebinar, et näha aktiivseid vaatajaid"
+
+#: includes/class-webinarsysteem-questions.php:48
+msgid "Delete Selected"
+msgstr "Kustuta valitud üksused"
+
+#: includes/class-webinarsysteem-questions.php:49
+msgid "Export CSV"
+msgstr "Ekspordi CSV"
+
+#: includes/class-webinarsysteem-questions.php:50
+msgid "Export TEXT"
+msgstr "Export TEKSTINA"
+
+#: includes/class-webinarsysteem-questions.php:56
+#: includes/class-webinarsysteemattendees.php:65
+#: includes/class-webinarsysteemattendees.php:101
+#: includes/class-webinarsysteemoptions.php:772
+msgid "Name"
+msgstr "Nimi"
+
+#: includes/class-webinarsysteem-questions.php:56
+msgid "Question"
+msgstr "Küsimus"
+
+#: includes/class-webinarsysteem-questions.php:56 includes/tmp-post.php:189
+#: includes/tmp-registration.php:151
+msgid "Time"
+msgstr "Kellaaeg"
+
+#: includes/class-webinarsysteem-shortcodes.php:22
+#: includes/class-webinarsysteem-shortcodes.php:127
+msgid "Error: "
+msgstr "Viga:"
+
+#: includes/class-webinarsysteem-shortcodes.php:22
+#: includes/class-webinarsysteem-shortcodes.php:127
+msgid "Invalid webinar id."
+msgstr "Vigane veebinari id."
+
+#: includes/class-webinarsysteem-shortcodes.php:28
+#, php-format
+msgid "You've successfully registered for %s"
+msgstr "Oled edukalt registreerunud % veebinarile"
+
+#: includes/class-webinarsysteem-shortcodes.php:36
+#, php-format
+msgid "You're already registered for %s"
+msgstr "Oled juba registreerunud % veebinarile"
+
+#: includes/class-webinarsysteem-shortcodes.php:47
+#: includes/tmp-registration.php:273
+msgid "Registration is closed for this webinar."
+msgstr "Registreerumine sellele veebinarile on suletud."
+
+#: includes/class-webinarsysteem-shortcodes.php:59
+#: includes/tmp-registration.php:206
+msgid "Your Name"
+msgstr "Sinu nimi"
+
+#: includes/class-webinarsysteem-shortcodes.php:61
+#: includes/tmp-registration.php:208
+msgid "Please enter your name."
+msgstr "Palun sisesta oma nimi."
+
+#: includes/class-webinarsysteem-shortcodes.php:63
+#: includes/class-webinarsysteem-shortcodes.php:138
+#: includes/tmp-registration.php:210 includes/tmp-registration.php:262
+msgid "Your Email Address"
+msgstr "Sinu e-post"
+
+#: includes/class-webinarsysteem-shortcodes.php:65
+#: includes/class-webinarsysteem-shortcodes.php:140
+#: includes/tmp-registration.php:212 includes/tmp-registration.php:264
+msgid "Please enter your email."
+msgstr "Palun sisesta oma e-post."
+
+#: includes/class-webinarsysteem-shortcodes.php:82
+#: includes/tmp-registration.php:229
+msgid "Select a day to watch."
+msgstr "Vali sobiv päev vaatamiseks."
+
+#: includes/class-webinarsysteem-shortcodes.php:104
+#: includes/tmp-registration.php:242
+msgid "Select a time to watch."
+msgstr "Vali vaatamiseks sobiv aeg."
+
+#: includes/class-webinarsysteem-shortcodes.php:143
+msgid "Please register before login."
+msgstr "Palun registreeru enne sisselogimist."
+
+#: includes/class-webinarsysteem.php:339
+msgid "WP WebinarSystem"
+msgstr "WP WebinarSystem"
+
+#: includes/class-webinarsysteem.php:339
+msgid "WebinarSystem"
+msgstr "WebinarSystem"
+
+#: includes/class-webinarsysteem.php:340 includes/class-webinarsysteem.php:464
+msgid "Webinars"
+msgstr "Veebinarid"
+
+#: includes/class-webinarsysteem.php:342
+msgid "New webinar"
+msgstr "Uus veebinar"
+
+#: includes/class-webinarsysteem.php:343
+msgid "Attendee Lists"
+msgstr "Osalejate nimekiri"
+
+#: includes/class-webinarsysteem.php:344
+msgid "Webinar Questions"
+msgstr "Veebinari küsimused"
+
+#: includes/class-webinarsysteem.php:346
+msgid "Settings"
+msgstr "Seaded"
+
+#: includes/class-webinarsysteem.php:347
+msgid "Go Pro"
+msgstr "Kasuta PRO versiooni"
+
+#: includes/class-webinarsysteem.php:347
+msgid "More Functionalities"
+msgstr "Rohkem võimalusi"
+
+#: includes/class-webinarsysteem.php:383 includes/class-webinarsysteem.php:409
+msgid "Questions"
+msgstr "Küsimused"
+
+#: includes/class-webinarsysteem.php:388
+msgid "Duplicate this Webinar"
+msgstr "Loo veebinarist koopia"
+
+#: includes/class-webinarsysteem.php:388
+msgid "Duplicate"
+msgstr "Loo koopia"
+
+#: includes/class-webinarsysteem.php:407
+msgid "Views"
+msgstr "Vaatamisi"
+
+#: includes/class-webinarsysteem.php:408
+msgid "Registrations"
+msgstr "Registreerumised"
+
+#: includes/class-webinarsysteem.php:410
+msgid "Status"
+msgstr "Staatus"
+
+#: includes/class-webinarsysteem.php:465 includes/class-webinarsysteem.php:466
+#: includes/tmp-post.php:185
+msgid "Webinar"
+msgstr "Veebinar"
+
+#: includes/class-webinarsysteem.php:467 includes/class-webinarsysteem.php:468
+msgid "Add New Webinar"
+msgstr "Lisa uus veebinar"
+
+#: includes/class-webinarsysteem.php:469
+msgid "New Webinar"
+msgstr "Uus veebinar"
+
+#: includes/class-webinarsysteem.php:470
+msgid "Edit Webinar"
+msgstr "Muuda veebinari"
+
+#: includes/class-webinarsysteem.php:471
+msgid "View Webinar"
+msgstr "Vaata veebinari"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-attendee-replay.php:10
+#: includes/templates/template-email-attendee1hr.php:14
+#: includes/templates/template-email-attendee24hr.php:14
+#: includes/templates/template-email-reader.php:11
+msgid "Hi"
+msgstr "Tere"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:951
+#: includes/templates/template-email-attendee1hr.php:16
+msgid ""
+"The webinar you signed up for starts in one hour. Below you will find the "
+"link to attend the webinar."
+msgstr ""
+"Veebinar millele registreerusid algab tunni pärast. Järgneva link on otsetee "
+"veebinari."
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:17
+#: includes/templates/template-email-attendee24hr.php:16
+#: includes/templates/template-email-reader.php:13
+msgid "Webinar name:"
+msgstr "Veebinari nimi:"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:18
+#: includes/templates/template-email-attendee24hr.php:17
+#: includes/templates/template-email-reader.php:14
+msgid "Date:"
+msgstr "Kuupäev:"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:19
+#: includes/templates/template-email-attendee24hr.php:18
+#: includes/templates/template-email-reader.php:15
+msgid "Time:"
+msgstr "Kellaaeg:"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:21
+#: includes/templates/template-email-attendee24hr.php:20
+#: includes/templates/template-email-reader.php:17
+msgid "See you then!"
+msgstr "Kohtumiseni!"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/class-webinarsysteem.php:951 includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-admin-email.php:9
+#: includes/templates/template-email-attendee-replay.php:14
+#: includes/templates/template-email-attendee-wbstarted.php:14
+#: includes/templates/template-email-attendee1hr.php:22
+#: includes/templates/template-email-attendee24hr.php:21
+#: includes/templates/template-email-reader.php:18
+msgid "Regards"
+msgstr "Parimate soovidega"
+
+#: includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee24hr.php:15
+msgid ""
+"This is a reminder for your upcoming webinar tomorrow. Below you will find "
+"the details of the webinar."
+msgstr ""
+"Meeldetuletus homme algavale veebinarile. Veebinari detailsed andmed on "
+"lisatud. "
+
+#: includes/class-webinarsysteem.php:951
+#: includes/templates/template-email-attendee-wbstarted.php:9
+msgid "We are going live now"
+msgstr "Me oleme otse eetris"
+
+#: includes/class-webinarsysteem.php:951 includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-attendee-replay.php:13
+#: includes/templates/template-email-attendee-wbstarted.php:13
+msgid "See you later!"
+msgstr "Kohtumiseni!"
+
+#: includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-attendee-replay.php:11
+#: includes/templates/template-email-attendee-wbstarted.php:11
+msgid "Make sure to join the webinar via this link:"
+msgstr "Veendu, et liitud veebinariga selle lingi kaudu:"
+
+#: includes/class-webinarsysteemattendees.php:12
+msgid "WP WebinarSystem Attendees"
+msgstr "WP WebinarSystem osalejad"
+
+#: includes/class-webinarsysteemattendees.php:13
+msgid "Select webinar to view attendees for active webinars"
+msgstr "Vali veebinar et näha aktiivseid osalejaid"
+
+#: includes/class-webinarsysteemattendees.php:38
+msgid "Please add webinars to listup."
+msgstr "Palun lisa veebinari meeldetuletus."
+
+#: includes/class-webinarsysteemattendees.php:66
+#: includes/class-webinarsysteemattendees.php:102
+msgid "E-Mail"
+msgstr "E-post"
+
+#: includes/class-webinarsysteemattendees.php:67
+#: includes/class-webinarsysteemattendees.php:103
+msgid "Registered Date"
+msgstr "Registreerimise kuupäev"
+
+#: includes/class-webinarsysteemattendees.php:94
+msgid "No Attendees :("
+msgstr "Osalejaid pole :("
+
+#: includes/class-webinarsysteemmessages.php:63
+#: includes/class-webinarsysteemmessages.php:69
+#: includes/class-webinarsysteemoptions.php:56
+msgid "New Registration"
+msgstr "Uus registreerumine"
+
+#: includes/class-webinarsysteemmessages.php:77
+#: includes/class-webinarsysteemmessages.php:120
+msgid "Reminder"
+msgstr "Veebinari meelespea / meeldetuletus"
+
+#: includes/class-webinarsysteemmessages.php:84
+msgid "You are registered for the webinar!"
+msgstr "Sa oled registreerunud veebinarile!"
+
+#: includes/class-webinarsysteemmessages.php:169
+msgid "We are live in one hour!"
+msgstr "Oleme eetris tunni pärast!"
+
+#: includes/class-webinarsysteemmetabox.php:27
+msgid "Your Webinar URL"
+msgstr "Sinu veebinari URL"
+
+#: includes/class-webinarsysteemmetabox.php:563
+msgid "Description Title Text color"
+msgstr "Kirjelduse pealkirja teksti värv"
+
+#: includes/class-webinarsysteemmetabox.php:594
+msgid "Title Text Color"
+msgstr "Pealkirja teksti värv"
+
+#: includes/class-webinarsysteemmetabox.php:665
+msgid "Title Text color"
+msgstr "Pealkirja teksti värv"
+
+#: includes/class-webinarsysteemmetabox.php:671
+msgid "Title Background color"
+msgstr "Pealkirja tausta värv"
+
+#: includes/class-webinarsysteemoptions.php:38
+msgid "System Status"
+msgstr "Süsteemi olek"
+
+#: includes/class-webinarsysteemoptions.php:524
+msgid "WP Cron status"
+msgstr "WP Cron olek"
+
+#: includes/tmp-countdown.php:65
+msgid "will begin in"
+msgstr "algab"
+
+#: includes/tmp-countdown.php:66
+msgid "will begin shortly"
+msgstr "algab varsti"
+
+#: includes/tmp-countdown.php:72
+msgid "will start"
+msgstr "algab"
+
+#: includes/tmp-countdown.php:73
+msgid "on"
+msgstr " "
+
+#: includes/tmp-countdown.php:92
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr ""
+"Varu palun kannatust, alustame veebinari mõne hetke pärast. See leht uueneb "
+"automaatselt ..."
+
+#: includes/tmp-post.php:158
+msgid "Here is the webinar URL..."
+msgstr "See on veebinari URL..."
+
+#: includes/tmp-post.php:164
+msgid "Save and bookmark this URL so you can get access the live webinar replay..."
+msgstr "Salvesta otse tee oma lemmikutesse ..."
+
+#: includes/tmp-post.php:174
+msgid "Your Webinar Ticket"
+msgstr "Sinu veebinari pilet"
+
+#: includes/tmp-post.php:175
+msgid "The Webinar Event Information..."
+msgstr "Info veebinari kohta ..."
+
+#: includes/tmp-post.php:188 includes/tmp-registration.php:150
+#: includes/templates/template-metabox-generalpage.php:32
+msgid "Date"
+msgstr "Kuupäev"
+
+#: includes/tmp-post.php:204
+#: includes/templates/template-email-attendee-replay.php:12
+#: includes/templates/template-email-attendee-wbstarted.php:12
+#: includes/templates/template-email-attendee1hr.php:20
+#: includes/templates/template-email-attendee24hr.php:19
+#: includes/templates/template-email-reader.php:16
+msgid "Go to Webinar"
+msgstr "Sisene veebinari"
+
+#: includes/tmp-post.php:238
+msgid "Add To Your Calendar"
+msgstr "Lisa sündmus oma kalendrisse"
+
+#: includes/tmp-post.php:239
+msgid "Remind Yourself Of The Event"
+msgstr "Lisa omale meeldetuletus ürituse kohta"
+
+#: includes/tmp-post.php:248
+msgid "Google Calendar"
+msgstr "Google kalender"
+
+#: includes/templates/template-email-admin-email.php:8
+msgid "just signed up for your webinar"
+msgstr "registreerusid just oma veebinarile"
+
+#: includes/templates/template-email-reader.php:12
+msgid ""
+"Thank you for your registration for the webinar. Below you will find the "
+"details of the webinar."
+msgstr ""
+"Täname, oled registreerunud meie veebinari. Sellest kirjast leiad detailse "
+"info veebinari kohta."
+
+#: includes/templates/template-metabox-countdownpage.php:7
+#: includes/templates/template-metabox-livepage.php:14
+#: includes/templates/template-metabox-replaypage.php:14
+#: includes/templates/template-metabox-thankyoupage.php:14
+msgid "Title color"
+msgstr "Pealkirja värv"
+
+#: includes/templates/template-metabox-livepage.php:7
+#: includes/templates/template-metabox-replaypage.php:7
+msgid "Hide Title"
+msgstr "Peida pealkiri"
+
+#: includes/templates/template-metabox-registerpage.php:73
+msgid "Date/Time Color"
+msgstr "Kuupäev / Aeg Värv"
+
+#: includes/templates/template-metabox-registerpage.php:125
+msgid "Register Tab Text"
+msgstr "Registreeru välja tekst"
+
+#: includes/templates/template-metabox-registerpage.php:137
+msgid "Register Tab"
+msgstr "Registreerumise väli"
+
+#: includes/templates/template-metabox-registerpage.php:140
+msgid "Register Title"
+msgstr "Registreerumise välja pealkiri"
+
+#: includes/templates/template-metabox-registerpage.php:146
+msgid "Register Text"
+msgstr "Registreerumise tekst"
+
+#: includes/templates/template-metabox-thankyoupage.php:9
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "Täname, oled edukalt registreerunud meie reisi veebinarile!"
+
+#: includes/templates/template-metabox-thankyoupage.php:150
+msgid "Calendar"
+msgstr "Kalender"

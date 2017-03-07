@@ -1,0 +1,1577 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP WebinarSystem Pro\n"
+"POT-Creation-Date: 2016-05-12 14:02+0530\n"
+"PO-Revision-Date: 2016-05-12 14:02+0530\n"
+"Last-Translator: Thambaru Wijesekara <thambaru@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-webinarsysteem-promotional-notices.php:36
+msgid "Yes, download Pro!"
+msgstr ""
+
+#: includes/class-webinarsysteem-promotional-notices.php:47
+#, php-format
+msgid ""
+"If you like <strong>WP WebinarSystem</strong> please leave us a %s rating. A "
+"huge thank you in advance!"
+msgstr ""
+
+#: includes/class-webinarsysteem-questions.php:27
+msgid "WP WebinarSystem Questions"
+msgstr "سوال‌های وبینارسیستم وردپرس"
+
+#: includes/class-webinarsysteem-questions.php:28
+msgid "Select webinar to view questions for active webinars"
+msgstr "به منظور مشاهده سوالات مرتبط، وبینار مورد نظر را انتخاب نمایید"
+
+#: includes/class-webinarsysteem-questions.php:48
+msgid "Delete Selected"
+msgstr ""
+
+#: includes/class-webinarsysteem-questions.php:49
+#, fuzzy
+msgid "Export CSV"
+msgstr "خروجی گرفتن"
+
+#: includes/class-webinarsysteem-questions.php:50
+#, fuzzy
+msgid "Export TEXT"
+msgstr "خروجی گرفتن"
+
+#: includes/class-webinarsysteem-questions.php:56
+#: includes/class-webinarsysteemattendees.php:65
+#: includes/class-webinarsysteemattendees.php:101
+#: includes/class-webinarsysteemoptions.php:772
+msgid "Name"
+msgstr "نام"
+
+#: includes/class-webinarsysteem-questions.php:56
+msgid "Question"
+msgstr "سوال"
+
+#: includes/class-webinarsysteem-questions.php:56 includes/tmp-post.php:189
+#: includes/tmp-registration.php:151
+msgid "Time"
+msgstr "زمان"
+
+#: includes/class-webinarsysteem-shortcodes.php:22
+#: includes/class-webinarsysteem-shortcodes.php:127
+msgid "Error: "
+msgstr ""
+
+#: includes/class-webinarsysteem-shortcodes.php:22
+#: includes/class-webinarsysteem-shortcodes.php:127
+msgid "Invalid webinar id."
+msgstr ""
+
+#: includes/class-webinarsysteem-shortcodes.php:28
+#, php-format
+msgid "You've successfully registered for %s"
+msgstr ""
+
+#: includes/class-webinarsysteem-shortcodes.php:36
+#, fuzzy, php-format
+msgid "You're already registered for %s"
+msgstr "شما در این وبینار نام‌نویسی کرده اید!"
+
+#: includes/class-webinarsysteem-shortcodes.php:47
+#: includes/tmp-registration.php:273
+#, fuzzy
+msgid "Registration is closed for this webinar."
+msgstr "شما در این وبینار نام‌نویسی کرده اید!"
+
+#: includes/class-webinarsysteem-shortcodes.php:59
+#: includes/tmp-registration.php:206
+msgid "Your Name"
+msgstr "نام شما"
+
+#: includes/class-webinarsysteem-shortcodes.php:61
+#: includes/tmp-registration.php:208
+#, fuzzy
+msgid "Please enter your name."
+msgstr "لطفا آدرس ایمیل خود را وارد کنید."
+
+#: includes/class-webinarsysteem-shortcodes.php:63
+#: includes/class-webinarsysteem-shortcodes.php:138
+#: includes/tmp-registration.php:210 includes/tmp-registration.php:262
+msgid "Your Email Address"
+msgstr "آدرس ایمیل شما"
+
+#: includes/class-webinarsysteem-shortcodes.php:65
+#: includes/class-webinarsysteem-shortcodes.php:140
+#: includes/tmp-registration.php:212 includes/tmp-registration.php:264
+msgid "Please enter your email."
+msgstr "لطفا آدرس ایمیل خود را وارد کنید."
+
+#: includes/class-webinarsysteem-shortcodes.php:82
+#: includes/tmp-registration.php:229
+msgid "Select a day to watch."
+msgstr "روزی را برای مشاهده انتخاب کنید."
+
+#: includes/class-webinarsysteem-shortcodes.php:104
+#: includes/tmp-registration.php:242
+msgid "Select a time to watch."
+msgstr "زمانی (ساعت) برای مشاهده انتخاب کنید."
+
+#: includes/class-webinarsysteem-shortcodes.php:143
+#, fuzzy
+msgid "Please register before login."
+msgstr "لطفا آدرس ایمیل خود را وارد کنید."
+
+#: includes/class-webinarsysteem.php:339
+msgid "WP WebinarSystem"
+msgstr "وبینارسیستم وردپرس"
+
+#: includes/class-webinarsysteem.php:339
+msgid "WebinarSystem"
+msgstr "وبینارسیستم"
+
+#: includes/class-webinarsysteem.php:340 includes/class-webinarsysteem.php:464
+msgid "Webinars"
+msgstr "وبینارها"
+
+#: includes/class-webinarsysteem.php:342
+msgid "New webinar"
+msgstr "وبینار جدید"
+
+#: includes/class-webinarsysteem.php:343
+msgid "Attendee Lists"
+msgstr "فهرست شرکت‌کنندگان"
+
+#: includes/class-webinarsysteem.php:344
+msgid "Webinar Questions"
+msgstr "سوال‌های وبینار"
+
+#: includes/class-webinarsysteem.php:346
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/class-webinarsysteem.php:347
+msgid "Go Pro"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:347
+msgid "More Functionalities"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:383 includes/class-webinarsysteem.php:409
+msgid "Questions"
+msgstr "سوال‌ها"
+
+#: includes/class-webinarsysteem.php:388
+msgid "Duplicate this Webinar"
+msgstr "تهیه رونوشت تکراری "
+
+#: includes/class-webinarsysteem.php:388
+msgid "Duplicate"
+msgstr "رونوشت تکرار شده"
+
+#: includes/class-webinarsysteem.php:407
+msgid "Views"
+msgstr "تعداد مشاهده"
+
+#: includes/class-webinarsysteem.php:408
+msgid "Registrations"
+msgstr "نام‌نویسی‌ها"
+
+#: includes/class-webinarsysteem.php:410
+msgid "Status"
+msgstr "وضعیت"
+
+#: includes/class-webinarsysteem.php:465 includes/class-webinarsysteem.php:466
+#: includes/tmp-post.php:185
+msgid "Webinar"
+msgstr "وبینار"
+
+#: includes/class-webinarsysteem.php:467 includes/class-webinarsysteem.php:468
+msgid "Add New Webinar"
+msgstr "افزودن وبینار جدید"
+
+#: includes/class-webinarsysteem.php:469
+msgid "New Webinar"
+msgstr "وبینار جدید"
+
+#: includes/class-webinarsysteem.php:470
+msgid "Edit Webinar"
+msgstr "ویرایش وبینار"
+
+#: includes/class-webinarsysteem.php:471
+msgid "View Webinar"
+msgstr "مشاهده وبینار"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-attendee-replay.php:10
+#: includes/templates/template-email-attendee1hr.php:14
+#: includes/templates/template-email-attendee24hr.php:14
+#: includes/templates/template-email-reader.php:11
+msgid "Hi"
+msgstr "سلام"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:951
+#: includes/templates/template-email-attendee1hr.php:16
+msgid ""
+"The webinar you signed up for starts in one hour. Below you will find the "
+"link to attend the webinar."
+msgstr ""
+"وبیناری که در آن نام‌نویسی کرده‌اید تا یک ساعت دیگر شروع می‌شود. پیوند شرکت در "
+"وبینار را در پایین قرار داده شده است."
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:17
+#: includes/templates/template-email-attendee24hr.php:16
+#: includes/templates/template-email-reader.php:13
+msgid "Webinar name:"
+msgstr "نام وبینار:"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:18
+#: includes/templates/template-email-attendee24hr.php:17
+#: includes/templates/template-email-reader.php:14
+msgid "Date:"
+msgstr "تاریخ:"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:19
+#: includes/templates/template-email-attendee24hr.php:18
+#: includes/templates/template-email-reader.php:15
+msgid "Time:"
+msgstr "زمان:"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:21
+#: includes/templates/template-email-attendee24hr.php:20
+#: includes/templates/template-email-reader.php:17
+msgid "See you then!"
+msgstr "شما را آنجا ملاقات می‌کنیم!"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/class-webinarsysteem.php:951 includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-admin-email.php:9
+#: includes/templates/template-email-attendee-replay.php:14
+#: includes/templates/template-email-attendee-wbstarted.php:14
+#: includes/templates/template-email-attendee1hr.php:22
+#: includes/templates/template-email-attendee24hr.php:21
+#: includes/templates/template-email-reader.php:18
+msgid "Regards"
+msgstr "با احترام"
+
+#: includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee24hr.php:15
+msgid ""
+"This is a reminder for your upcoming webinar tomorrow. Below you will find "
+"the details of the webinar."
+msgstr ""
+"به این وسیله وبینار فردای شما یادآوری می‌شود. جزییات و مشخصات وبینار در پایین "
+"قرار داده شده است. "
+
+#: includes/class-webinarsysteem.php:951
+#: includes/templates/template-email-attendee-wbstarted.php:9
+msgid "We are going live now"
+msgstr "اکنون پخش زنده آغاز می‌شود."
+
+#: includes/class-webinarsysteem.php:951 includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-attendee-replay.php:13
+#: includes/templates/template-email-attendee-wbstarted.php:13
+msgid "See you later!"
+msgstr "به زودی با شما خواهیم بود!"
+
+#: includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-attendee-replay.php:11
+#: includes/templates/template-email-attendee-wbstarted.php:11
+msgid "Make sure to join the webinar via this link:"
+msgstr "از طریق این پیوند از پیوستن خود به وبینار اطمینان حاصل نمایید:"
+
+#: includes/class-webinarsysteemattendees.php:12
+msgid "WP WebinarSystem Attendees"
+msgstr "شرکت‌کنندگان وبینارسیستم وردپرس"
+
+#: includes/class-webinarsysteemattendees.php:13
+msgid "Select webinar to view attendees for active webinars"
+msgstr "به منظور مشاهده شرکت‌کنندگان، وبینار مورد نظر را انتخاب نمایید"
+
+#: includes/class-webinarsysteemattendees.php:38
+msgid "Please add webinars to listup."
+msgstr "لطفا وبینارها را به فهرست اضافه کنید."
+
+#: includes/class-webinarsysteemattendees.php:66
+#: includes/class-webinarsysteemattendees.php:102
+msgid "E-Mail"
+msgstr "ایمیل"
+
+#: includes/class-webinarsysteemattendees.php:67
+#: includes/class-webinarsysteemattendees.php:103
+msgid "Registered Date"
+msgstr "تاریخ نام‌نویسی"
+
+#: includes/class-webinarsysteemattendees.php:94
+msgid "No Attendees :("
+msgstr "کسی شرکت نکرده است :("
+
+#: includes/class-webinarsysteemmessages.php:63
+#: includes/class-webinarsysteemmessages.php:69
+#: includes/class-webinarsysteemoptions.php:56
+msgid "New Registration"
+msgstr "نام‌نویسی جدید"
+
+#: includes/class-webinarsysteemmessages.php:77
+#: includes/class-webinarsysteemmessages.php:120
+msgid "Reminder"
+msgstr "یادآوری"
+
+#: includes/class-webinarsysteemmessages.php:84
+msgid "You are registered for the webinar!"
+msgstr "شما در این وبینار نام‌نویسی کرده اید!"
+
+#: includes/class-webinarsysteemmessages.php:169
+msgid "We are live in one hour!"
+msgstr "پخش زنده تا یک ساعت دیگر!"
+
+#: includes/class-webinarsysteemmessages.php:213
+msgid "We are starting the webinar!"
+msgstr "وبینار را شروع می کنیم!"
+
+#: includes/class-webinarsysteemmessages.php:257
+msgid "Webinar Replay Link"
+msgstr "پیوند تکرار وبینار"
+
+#: includes/class-webinarsysteemmessages.php:350
+msgid "Once a minute"
+msgstr "دقیقه‌ای یک بار"
+
+#: includes/class-webinarsysteemmessages.php:372
+msgid "hrs"
+msgstr ""
+
+#: includes/class-webinarsysteemmetabox.php:22
+msgid "Webinar Settings"
+msgstr "تنظیمات وبینار"
+
+#: includes/class-webinarsysteemmetabox.php:26
+msgid "Host Names"
+msgstr "نام میزبان‌ها"
+
+#: includes/class-webinarsysteemmetabox.php:27
+msgid "Your Webinar URL"
+msgstr "آدرس وبینار شما"
+
+#: includes/class-webinarsysteemmetabox.php:108
+#: includes/class-webinarsysteemoptions.php:44
+msgid "General Options"
+msgstr "تنظیمات عمومی"
+
+#: includes/class-webinarsysteemmetabox.php:109
+msgid "Registration Page"
+msgstr "صفحه نام‌نویسی"
+
+#: includes/class-webinarsysteemmetabox.php:110
+msgid "Thank You Page"
+msgstr "صفحه تشکر"
+
+#: includes/class-webinarsysteemmetabox.php:111
+msgid "Countdown Page"
+msgstr "صفحه شمارش معکوس"
+
+#: includes/class-webinarsysteemmetabox.php:112
+msgid "Live Page"
+msgstr "صفحه پخش زنده"
+
+#: includes/class-webinarsysteemmetabox.php:113
+msgid "Replay Page"
+msgstr "صفحه تکرار"
+
+#: includes/class-webinarsysteemmetabox.php:115
+#: includes/templates/template-metabox-thankyoupage.php:85
+msgid "Ticket"
+msgstr "بلیط"
+
+#: includes/class-webinarsysteemmetabox.php:116
+msgid "Mailinglist"
+msgstr "فهرست ایمیل"
+
+#: includes/class-webinarsysteemmetabox.php:117
+msgid "Import / Export"
+msgstr "وارد کردن/ خروجی گرفتن"
+
+#: includes/class-webinarsysteemmetabox.php:494
+msgid "Webinar will be presented by:"
+msgstr "وبینار ارایه خواهد شد، توسط:"
+
+#: includes/class-webinarsysteemmetabox.php:496
+msgid "Separate each by commas"
+msgstr "با ویرگول هریک را جدا کنید"
+
+#: includes/class-webinarsysteemmetabox.php:511
+msgid "Host & Description Box"
+msgstr "جعبه مشخصات و میزبان"
+
+#: includes/class-webinarsysteemmetabox.php:515
+#: includes/class-webinarsysteemmetabox.php:588
+#: includes/class-webinarsysteemmetabox.php:646
+#: includes/class-webinarsysteemoptions.php:105
+#: includes/templates/template-metabox-countdownpage.php:25
+#: includes/templates/template-metabox-livepage.php:20
+#: includes/templates/template-metabox-registerpage.php:96
+#: includes/templates/template-metabox-replaypage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:144
+#: includes/templates/template-metabox-thankyoupage.php:159
+msgid "Background color"
+msgstr "رنگ پس‌زمینه"
+
+#: includes/class-webinarsysteemmetabox.php:523
+msgid "Show Host Box"
+msgstr "جعبه میزبان را نمایش بده"
+
+#: includes/class-webinarsysteemmetabox.php:530
+msgid "Host Title Background color"
+msgstr "رنگ پس‌زمینه جعبه عنوان میزبان"
+
+#: includes/class-webinarsysteemmetabox.php:536
+msgid "Host Title Text color"
+msgstr "رنگ متن عنوان میزبان"
+
+#: includes/class-webinarsysteemmetabox.php:542
+msgid "Host Text color"
+msgstr "رنگ متن نام میزبان"
+
+#: includes/class-webinarsysteemmetabox.php:550
+msgid "Show Description Box"
+msgstr "جعبه توضیحات را نمایش بده"
+
+#: includes/class-webinarsysteemmetabox.php:557
+msgid "Description Title Background color"
+msgstr "رنگ پس‌زمینه جعبه توضیحات "
+
+#: includes/class-webinarsysteemmetabox.php:563
+msgid "Description Title Text color"
+msgstr "رنگ متن عنوان توضیحات "
+
+#: includes/class-webinarsysteemmetabox.php:569
+msgid "Description Text color"
+msgstr "رنگ متن توضیحات "
+
+#: includes/class-webinarsysteemmetabox.php:577
+msgid "Question Box"
+msgstr "جعبه سوال"
+
+#: includes/class-webinarsysteemmetabox.php:581
+msgid "Show Question box"
+msgstr "جعبه سوال را نمایش بده"
+
+#: includes/class-webinarsysteemmetabox.php:594
+#, fuzzy
+msgid "Title Text Color"
+msgstr "رنگ متن عنوان"
+
+#: includes/class-webinarsysteemmetabox.php:600
+msgid "Border Radius"
+msgstr ""
+
+#: includes/class-webinarsysteemmetabox.php:606
+#, fuzzy
+msgid "Button Background Color"
+msgstr "رنگ پس‌زمینه دکمه"
+
+#: includes/class-webinarsysteemmetabox.php:612
+#, fuzzy
+msgid "Button Hover Background Color"
+msgstr "رنگ پس‌زمینه دکمه"
+
+#: includes/class-webinarsysteemmetabox.php:618
+#, fuzzy
+msgid "Button Border Color"
+msgstr "رنگ خطوط حاشیه دکمه "
+
+#: includes/class-webinarsysteemmetabox.php:624
+#, fuzzy
+msgid "Button Hover Border Color"
+msgstr "رنگ خطوط حاشیه دکمه "
+
+#: includes/class-webinarsysteemmetabox.php:630
+#: includes/templates/template-metabox-registerpage.php:164
+#: includes/templates/template-metabox-registerpage.php:203
+#: includes/templates/template-metabox-thankyoupage.php:130
+#: includes/templates/template-metabox-thankyoupage.php:170
+msgid "Button Text color"
+msgstr "رنگ متن دکمه"
+
+#: includes/class-webinarsysteemmetabox.php:636
+#, fuzzy
+msgid "Button Hover Text color"
+msgstr "رنگ متن دکمه"
+
+#: includes/class-webinarsysteemmetabox.php:642
+msgid "Incentive Box"
+msgstr "جعبه مشوق"
+
+#: includes/class-webinarsysteemmetabox.php:652
+msgid "Show Incentive Box"
+msgstr "جعبه مشوق را نمایش بده"
+
+#: includes/class-webinarsysteemmetabox.php:659
+msgid "Incentive Title"
+msgstr "عنوان مشوق"
+
+#: includes/class-webinarsysteemmetabox.php:665
+msgid "Title Text color"
+msgstr "رنگ متن عنوان"
+
+#: includes/class-webinarsysteemmetabox.php:671
+msgid "Title Background color"
+msgstr "رنگ پس‌زمینه عنوان"
+
+#: includes/class-webinarsysteemmetabox.php:677
+#, fuzzy
+msgid "Content text color"
+msgstr "رنگ متن نام میزبان"
+
+#: includes/class-webinarsysteemmetabox.php:683
+msgid "Incentive box content"
+msgstr "محتوای جعبه مشوق"
+
+#: includes/class-webinarsysteemmetabox.php:697
+msgid "Preview Page"
+msgstr "صفحه پیش‌نمایش"
+
+#: includes/class-webinarsysteemmetabox.php:698
+msgid "Only use this generated link for test purposes"
+msgstr "به منظور آزمایش کردن فقط از پیوند ارایه شده استفاده نمایید"
+
+#: includes/class-webinarsysteemoptions.php:32
+msgid "WP WebinarSystem Options"
+msgstr "گزینه‌های انتخابی وبینارسیستم وردپرس"
+
+#: includes/class-webinarsysteemoptions.php:35
+#: includes/templates/template-metabox-countdownpage.php:4
+#: includes/templates/template-metabox-livepage.php:4
+#: includes/templates/template-metabox-registerpage.php:4
+#: includes/templates/template-metabox-replaypage.php:4
+#: includes/templates/template-metabox-thankyoupage.php:4
+msgid "General"
+msgstr "عمومی"
+
+#: includes/class-webinarsysteemoptions.php:36
+msgid "Emails"
+msgstr "ایمیل‌ها"
+
+#: includes/class-webinarsysteemoptions.php:37
+#: includes/class-webinarsysteemoptions.php:399
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: includes/class-webinarsysteemoptions.php:38
+msgid "System Status"
+msgstr "وضعیت سیستم"
+
+#: includes/class-webinarsysteemoptions.php:55
+msgid "Email options"
+msgstr "گزینه‌های انتخابی ایمیل"
+
+#: includes/class-webinarsysteemoptions.php:57
+msgid "Reminder day before Webinar"
+msgstr "یادآوری روز قبل وبینار"
+
+#: includes/class-webinarsysteemoptions.php:58
+msgid "Reminder one hour before Webinar"
+msgstr "یادآوری یک ساعت قبل وبینار"
+
+#: includes/class-webinarsysteemoptions.php:59
+msgid "Reminder Webinar Starting"
+msgstr "یادآوری شروع وبینار"
+
+#: includes/class-webinarsysteemoptions.php:60
+msgid "Webinar replay"
+msgstr "پاسخ وبینار"
+
+#: includes/class-webinarsysteemoptions.php:65
+msgid "Email Sender Options"
+msgstr "گزینه‌های انتخابی فرستنده ایمیل"
+
+#: includes/class-webinarsysteemoptions.php:68
+msgid "\"From\" Name"
+msgstr "\"از طرف\" نام"
+
+#: includes/class-webinarsysteemoptions.php:68
+msgid "Sender name"
+msgstr "نام فرستنده"
+
+#: includes/class-webinarsysteemoptions.php:71
+msgid "\"From\" Email Address"
+msgstr "\"از طرف\" ایمیل آدرس"
+
+#: includes/class-webinarsysteemoptions.php:71
+msgid "Sender email"
+msgstr "ایمیل فرستنده"
+
+#: includes/class-webinarsysteemoptions.php:75
+msgid "Email Template"
+msgstr "الگوی (تمپلیت) ایمیل"
+
+#: includes/class-webinarsysteemoptions.php:79
+msgid "Header Image"
+msgstr "تصویر سربرگ"
+
+#: includes/class-webinarsysteemoptions.php:83
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: includes/class-webinarsysteemoptions.php:89
+msgid "Email Footer Text"
+msgstr "متن پانویس ایمیل"
+
+#: includes/class-webinarsysteemoptions.php:92
+msgid "Footer Text"
+msgstr "متن پانویس"
+
+#: includes/class-webinarsysteemoptions.php:97
+msgid "Base color"
+msgstr "رنگ اصلی"
+
+#: includes/class-webinarsysteemoptions.php:113
+msgid "Email Body Background color"
+msgstr "رنگ پس‌زمینه متن ایمیل"
+
+#: includes/class-webinarsysteemoptions.php:121
+msgid "Email Body Text color"
+msgstr "رنگ متن ایمیل"
+
+#: includes/class-webinarsysteemoptions.php:131
+#: includes/class-webinarsysteemoptions.php:205
+#: includes/class-webinarsysteemoptions.php:267
+#: includes/class-webinarsysteemoptions.php:328
+#: includes/class-webinarsysteemoptions.php:389
+msgid "Reset Default Template"
+msgstr "بازگرداندن الگو به حالت اولیه"
+
+#: includes/class-webinarsysteemoptions.php:140
+msgid "New Registration Options"
+msgstr "گزینه‌های انتخابی نام‌نویسی جدید"
+
+#: includes/class-webinarsysteemoptions.php:143
+msgid "Admin Email Address"
+msgstr "آدرس ایمیل مدیر"
+
+#: includes/class-webinarsysteemoptions.php:143
+msgid "Admin email"
+msgstr "ایمل مدیر"
+
+#: includes/class-webinarsysteemoptions.php:149
+msgid "Reminder day before Webinar "
+msgstr "یادآوری یک روز قبل وبینار"
+
+#: includes/class-webinarsysteemoptions.php:153
+#: includes/class-webinarsysteemoptions.php:218
+#: includes/class-webinarsysteemoptions.php:279
+#: includes/class-webinarsysteemoptions.php:340
+msgid "Enable this reminder?"
+msgstr "این یادآوری را فعال کن؟"
+
+#: includes/class-webinarsysteemoptions.php:161
+#: includes/class-webinarsysteemoptions.php:226
+#: includes/class-webinarsysteemoptions.php:287
+#: includes/class-webinarsysteemoptions.php:348
+msgid "Subject"
+msgstr "موضوع"
+
+#: includes/class-webinarsysteemoptions.php:164
+#: includes/class-webinarsysteemoptions.php:229
+#: includes/class-webinarsysteemoptions.php:290
+#: includes/class-webinarsysteemoptions.php:351
+msgid "Email Head"
+msgstr "سربرگ عنوان ایمیل"
+
+#: includes/class-webinarsysteemoptions.php:169
+#: includes/class-webinarsysteemoptions.php:234
+#: includes/class-webinarsysteemoptions.php:295
+#: includes/class-webinarsysteemoptions.php:356
+msgid "Available Shortcodes:"
+msgstr "کدهای کوتاه در دسترس:"
+
+#: includes/class-webinarsysteemoptions.php:177
+#: includes/class-webinarsysteemoptions.php:242
+#: includes/class-webinarsysteemoptions.php:303
+#: includes/class-webinarsysteemoptions.php:364
+#: includes/templates/template-metabox-thankyoupage.php:71
+msgid "Content"
+msgstr "محتوا"
+
+#: includes/class-webinarsysteemoptions.php:194
+#: includes/class-webinarsysteemoptions.php:256
+#: includes/class-webinarsysteemoptions.php:317
+#: includes/class-webinarsysteemoptions.php:378
+msgid "Your email address"
+msgstr "ایمیل آدرس شما"
+
+#: includes/class-webinarsysteemoptions.php:195
+#: includes/class-webinarsysteemoptions.php:257
+#: includes/class-webinarsysteemoptions.php:318
+#: includes/class-webinarsysteemoptions.php:379
+msgid "Send Preview"
+msgstr "پیش‌نمایش ارسال"
+
+#: includes/class-webinarsysteemoptions.php:199
+#: includes/class-webinarsysteemoptions.php:261
+#: includes/class-webinarsysteemoptions.php:322
+#: includes/class-webinarsysteemoptions.php:383
+msgid "Add a Webinar to send a preview email."
+msgstr "افزودن وبینار برای ارسال پیش‌نمایش ایمیل."
+
+#: includes/class-webinarsysteemoptions.php:213
+msgid "Reminder one hour before Webinar "
+msgstr "یک ساعت قبل از وبینار یادآوری کن"
+
+#: includes/class-webinarsysteemoptions.php:275
+msgid "Reminder when Webinar starts"
+msgstr "به محض شروع وبینار یادآوری کن"
+
+#: includes/class-webinarsysteemoptions.php:336
+msgid "Send Webinar Replay Link"
+msgstr "پیوند پاسخ به وبینار را بفرست"
+
+#: includes/class-webinarsysteemoptions.php:407
+#: includes/class-webinarsysteemoptions.php:456
+msgid "Roles & Permissions"
+msgstr "نقش‌هاو اختیارات"
+
+#: includes/class-webinarsysteemoptions.php:415
+msgid "Create Webinars"
+msgstr "ساخت وبینارها"
+
+#: includes/class-webinarsysteemoptions.php:428
+msgid "Manage Subscribers"
+msgstr "مدیریت شرکت‌کنندگان"
+
+#: includes/class-webinarsysteemoptions.php:441
+msgid "Change WebinarSystem Settings"
+msgstr "تغییر تنظیمات وبینارسیستم"
+
+#: includes/class-webinarsysteemoptions.php:472
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+"لطفا این اطلاعات را هنگام تماس با پشتیبانی در تقاضای خود کپی و پیست کنید:"
+
+#: includes/class-webinarsysteemoptions.php:475
+msgid "Copy for Support"
+msgstr "رونوشت برای پشتیبانی"
+
+#: includes/class-webinarsysteemoptions.php:476
+msgid "Copied!"
+msgstr "رونوشت شد!"
+
+#: includes/class-webinarsysteemoptions.php:478
+msgid "Get System Report"
+msgstr "دریافت گزارش سیستم"
+
+#: includes/class-webinarsysteemoptions.php:484
+msgid "WordPress Environment"
+msgstr "محیط وردپرس"
+
+#: includes/class-webinarsysteemoptions.php:488
+msgid "Home URL"
+msgstr "آدرس خانه"
+
+#: includes/class-webinarsysteemoptions.php:496
+msgid "Site URL"
+msgstr "آدرس سایت"
+
+#: includes/class-webinarsysteemoptions.php:504
+msgid "WP Version"
+msgstr "ورژن وردپرس"
+
+#: includes/class-webinarsysteemoptions.php:511
+msgid "WP Multisite"
+msgstr "ورژن مولتی سایت"
+
+#: includes/class-webinarsysteemoptions.php:515
+msgid "WP Debug mode"
+msgstr "حالت رفع نقص وردپرس"
+
+#: includes/class-webinarsysteemoptions.php:524
+msgid "WP Cron status"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:536
+msgid "Language"
+msgstr "زبان"
+
+#: includes/class-webinarsysteemoptions.php:544
+#, fuzzy
+msgid "Plugin Environment"
+msgstr "محیط وردپرس"
+
+#: includes/class-webinarsysteemoptions.php:548
+#, fuzzy
+msgid "Webinar System Version"
+msgstr "سوال‌های وبینارسیستم وردپرس"
+
+#: includes/class-webinarsysteemoptions.php:558
+msgid "Server Environment"
+msgstr "محیط سرور"
+
+#: includes/class-webinarsysteemoptions.php:562
+msgid "Server Info"
+msgstr "مشخصات سرور"
+
+#: includes/class-webinarsysteemoptions.php:570
+msgid "PHP Version"
+msgstr "ورژن پی اچ پی"
+
+#: includes/class-webinarsysteemoptions.php:579
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:587
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:595
+msgid "PHP Time Limit"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:603
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:611
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:619
+msgid "MySQL Version"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:630
+msgid "Max Upload Size"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:638
+msgid "Default Timezone"
+msgstr "زمان محلی پیش‌فرض"
+
+#: includes/class-webinarsysteemoptions.php:697
+#, fuzzy
+msgid "Server Time"
+msgstr "محیط سرور"
+
+#: includes/class-webinarsysteemoptions.php:709
+#, fuzzy
+msgid "Server Timezone"
+msgstr "محیط سرور"
+
+#: includes/class-webinarsysteemoptions.php:719
+msgid "Server Locale"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:726
+msgid "N/A"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:740
+msgid "Active Plugins ("
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:758
+msgid "by "
+msgstr "توسط"
+
+#: includes/class-webinarsysteemoptions.php:768
+msgid "Theme"
+msgstr "پوسته"
+
+#: includes/class-webinarsysteemoptions.php:776
+msgid "Version"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:780
+msgid "Author URL"
+msgstr "آدرس صفحه مدرس"
+
+#: includes/tmp-closed.php:48
+msgid "Unfortunately, this webinar is closed."
+msgstr "متاسفانه، این وبینار بسته شده است."
+
+#: includes/tmp-closed.php:51
+msgid "Click here"
+msgstr "اینجا کلیک کنید"
+
+#: includes/tmp-closed.php:51
+msgid "to go to our homepage."
+msgstr "برای رفتن به صفحه خانه"
+
+#: includes/tmp-countdown.php:65
+msgid "will begin in"
+msgstr "شروع می‌کنیم"
+
+#: includes/tmp-countdown.php:66
+msgid "will begin shortly"
+msgstr "به زودی شروع می‌شود"
+
+#: includes/tmp-countdown.php:72
+msgid "will start"
+msgstr "آغاز می‌شود"
+
+#: includes/tmp-countdown.php:73
+msgid "on"
+msgstr "در"
+
+#: includes/tmp-countdown.php:74
+msgid "at"
+msgstr "در"
+
+#: includes/tmp-countdown.php:81
+msgid "Please come back at this time. Thank you for your patience"
+msgstr "لطفا در زمان اعلام شده بازگردید. از صبر شما سپاس‌گزاریم."
+
+#: includes/tmp-countdown.php:92
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr ""
+"کمی صبور باشید، پخش را شروع می‌کنیم. این صفحه به صورت خودکار به‌روزرسانی  "
+"می‌شود..."
+
+#: includes/tmp-live.php:103 includes/tmp-post.php:186
+#: includes/tmp-registration.php:155
+msgid "Host"
+msgid_plural "Hosts"
+msgstr[0] "میزبان"
+
+#: includes/tmp-live.php:111
+msgid "Information"
+msgstr "اطلاعات"
+
+#: includes/tmp-live.php:120
+msgid "Ask your question!"
+msgstr "سوال دارید،بپرسید!"
+
+#: includes/tmp-live.php:125
+msgid "Your name"
+msgstr "نام شما"
+
+#: includes/tmp-live.php:128
+msgid "Your email"
+msgstr "ایمیل شما"
+
+#: includes/tmp-live.php:131
+msgid "Type your question here.."
+msgstr "سوال خود را اینجا بنویسید.."
+
+#: includes/tmp-live.php:133
+msgid "Ask Question!"
+msgstr "پرسیدن سوال!"
+
+#: includes/tmp-live.php:137
+msgid "My Questions"
+msgstr "سوال‌های من"
+
+#: includes/tmp-live.php:161
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields "
+"are filled correctly"
+msgstr ""
+"در بخش سوال‌ها مشکلی پیش آمده است. لطفا همه عناوین‌ را بررسی کنید که به درستی "
+"پر شده باشند"
+
+#: includes/tmp-live.php:162
+msgid "Please wait.."
+msgstr "لطفا صبر کنید.."
+
+#: includes/tmp-post.php:158
+msgid "Here is the webinar URL..."
+msgstr "این آدرس صفحه وبینار است..."
+
+#: includes/tmp-post.php:164
+msgid ""
+"Save and bookmark this URL so you can get access the live webinar replay..."
+msgstr ""
+"این آدرس صفحه را ذخیره و بوکمارک کنید تا از طریق آن به بخش زنده پاسخ به "
+"وبینار دسترسی یابید..."
+
+#: includes/tmp-post.php:174
+msgid "Your Webinar Ticket"
+msgstr "بلیط  وبینار شما"
+
+#: includes/tmp-post.php:175
+msgid "The Webinar Event Information..."
+msgstr "اطلاعات رویداد وبینار..."
+
+#: includes/tmp-post.php:188 includes/tmp-registration.php:150
+#: includes/templates/template-metabox-generalpage.php:32
+msgid "Date"
+msgstr "تاریخ"
+
+#: includes/tmp-post.php:201
+#, fuzzy
+msgid "Join Webinar in Progress..."
+msgstr "وبینار در حال پیشرفت است..."
+
+#: includes/tmp-post.php:204
+#: includes/templates/template-email-attendee-replay.php:12
+#: includes/templates/template-email-attendee-wbstarted.php:12
+#: includes/templates/template-email-attendee1hr.php:20
+#: includes/templates/template-email-attendee24hr.php:19
+#: includes/templates/template-email-reader.php:16
+msgid "Go to Webinar"
+msgstr "برو به وبینار"
+
+#: includes/tmp-post.php:207
+msgid "View Webinar Replay"
+msgstr "مشاهده پاسخ وبینار"
+
+#: includes/tmp-post.php:238
+msgid "Add To Your Calendar"
+msgstr "افزودن به تقویم شما"
+
+#: includes/tmp-post.php:239
+msgid "Remind Yourself Of The Event"
+msgstr "رویداد را به خودتان یادآوری کنید"
+
+#: includes/tmp-post.php:248
+msgid "Google Calendar"
+msgstr "تقویم گوگل"
+
+#: includes/tmp-post.php:250
+msgid "iCal / Outlook"
+msgstr ""
+
+#: includes/tmp-registration.php:2
+msgid "No script kiddies please!"
+msgstr "لطفا بدون اسکریپت حاشیه‌ای!"
+
+#: includes/tmp-registration.php:249
+msgid "Of course we will handle your data safely."
+msgstr "حتما انتقال اطلاعات به صورت امن انجام می‌شود."
+
+#: includes/templates/template-email-admin-email.php:7
+msgid "Howdy"
+msgstr "سلام!"
+
+#: includes/templates/template-email-admin-email.php:8
+msgid "just signed up for your webinar"
+msgstr "همین الان در وبینار مورد نظرتان نام‌نویسی کردید"
+
+#: includes/templates/template-email-reader.php:12
+msgid ""
+"Thank you for your registration for the webinar. Below you will find the "
+"details of the webinar."
+msgstr ""
+"از این که در وبینار نام‌نویسی کردید متشکریم. جزییات وبینار را در زیر مشاهده "
+"می‌کنید."
+
+#: includes/templates/template-metabox-countdownpage.php:7
+#: includes/templates/template-metabox-livepage.php:14
+#: includes/templates/template-metabox-replaypage.php:14
+#: includes/templates/template-metabox-thankyoupage.php:14
+msgid "Title color"
+msgstr "رنگ عنوان"
+
+#: includes/templates/template-metabox-countdownpage.php:13
+msgid "Tagline color"
+msgstr "رنگ تگلاین"
+
+#: includes/templates/template-metabox-countdownpage.php:19
+msgid "Description color"
+msgstr "رنگ توضیحات"
+
+#: includes/templates/template-metabox-countdownpage.php:31
+#: includes/templates/template-metabox-livepage.php:26
+#: includes/templates/template-metabox-replaypage.php:26
+#: includes/templates/template-metabox-thankyoupage.php:26
+msgid "Background image"
+msgstr "تصویر پس‌زمینه"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+msgid "Countdown Page Background Image"
+msgstr "تصویر پس‌زمینه صفحه شمارش معکوس"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-livepage.php:49
+#: includes/templates/template-metabox-registerpage.php:15
+#: includes/templates/template-metabox-registerpage.php:40
+#: includes/templates/template-metabox-replaypage.php:28
+#: includes/templates/template-metabox-replaypage.php:55
+#: includes/templates/template-metabox-thankyoupage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:46
+msgid "Upload Image"
+msgstr "بارگذاری تصویر"
+
+#: includes/templates/template-metabox-countdownpage.php:38
+msgid "Show countdown timer"
+msgstr "زمان‌سنج شمارش معکوس را نمایش بده"
+
+#: includes/templates/template-metabox-generalpage.php:22
+msgid "Webinar Type"
+msgstr "نوع وبینار"
+
+#: includes/templates/template-metabox-generalpage.php:31
+msgid "Webinar starts at"
+msgstr "وبینار شروع می‌شود در"
+
+#: includes/templates/template-metabox-generalpage.php:102
+msgid "Disable registration"
+msgstr "نام‌نویسی را غیرفعال کن"
+
+#: includes/templates/template-metabox-livepage.php:7
+#: includes/templates/template-metabox-replaypage.php:7
+#, fuzzy
+msgid "Hide Title"
+msgstr "عنوان"
+
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:28
+msgid "Thankyou Page Background Image"
+msgstr "تصویر پس‌زمینه صفحه تشکر"
+
+#: includes/templates/template-metabox-livepage.php:36
+#: includes/templates/template-metabox-replaypage.php:42
+msgid "Webinar type"
+msgstr "نوع وبینار"
+
+#: includes/templates/template-metabox-livepage.php:41
+#: includes/templates/template-metabox-registerpage.php:32
+#: includes/templates/template-metabox-replaypage.php:47
+#: includes/templates/template-metabox-thankyoupage.php:38
+msgid "Image"
+msgstr "تصویر"
+
+#: includes/templates/template-metabox-livepage.php:46
+#: includes/templates/template-metabox-registerpage.php:37
+#: includes/templates/template-metabox-replaypage.php:52
+#: includes/templates/template-metabox-thankyoupage.php:43
+msgid "Video or Image URL"
+msgstr "آدرس صفحه ویدئو یا تصویر"
+
+#: includes/templates/template-metabox-livepage.php:49
+#: includes/templates/template-metabox-replaypage.php:55
+msgid "Registration Page Video Image"
+msgstr "تصور ویدئوی صفحه نام‌نویسی"
+
+#: includes/templates/template-metabox-livepage.php:51
+msgid ""
+"Paste Youtube/Hangouts URL here (Eg: https://www.youtube.com/watch?"
+"v=3TkeXaMpLe9-XM OR http://youtu.be/CqlB2SiG-ac)"
+msgstr ""
+
+#: includes/templates/template-metabox-livepage.php:52
+#: includes/templates/template-metabox-registerpage.php:44
+#: includes/templates/template-metabox-thankyoupage.php:49
+msgid "Paste Vimeo video ID here (Eg: 129673042)"
+msgstr ""
+
+#: includes/templates/template-metabox-livepage.php:53
+#: includes/templates/template-metabox-registerpage.php:45
+#: includes/templates/template-metabox-replaypage.php:61
+#: includes/templates/template-metabox-thankyoupage.php:50
+msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+msgstr ""
+
+#: includes/templates/template-metabox-livepage.php:58
+msgid "Start a Hangout"
+msgstr ""
+
+#: includes/templates/template-metabox-livepage.php:72
+#: includes/templates/template-metabox-registerpage.php:50
+#: includes/templates/template-metabox-replaypage.php:66
+#: includes/templates/template-metabox-thankyoupage.php:55
+msgid "Video autoplay"
+msgstr "اجرای خودکار ویدئو"
+
+#: includes/templates/template-metabox-livepage.php:75
+#: includes/templates/template-metabox-livepage.php:83
+#: includes/templates/template-metabox-registerpage.php:61
+#: includes/templates/template-metabox-replaypage.php:77
+#: includes/templates/template-metabox-thankyoupage.php:66
+#, php-format
+msgid "%s only."
+msgstr ""
+
+#: includes/templates/template-metabox-livepage.php:80
+#: includes/templates/template-metabox-registerpage.php:58
+#: includes/templates/template-metabox-replaypage.php:74
+#: includes/templates/template-metabox-thankyoupage.php:63
+#, fuzzy
+msgid "Video Controls"
+msgstr "اجرای خودکار ویدئو"
+
+#: includes/templates/template-metabox-registerpage.php:7
+msgid "Page Background color"
+msgstr "رنگ پس‌زمینه صفحه"
+
+#: includes/templates/template-metabox-registerpage.php:13
+msgid "Page Background image"
+msgstr "تصویر پس‌زمینه صفحه "
+
+#: includes/templates/template-metabox-registerpage.php:15
+msgid "Registration Page Background Image"
+msgstr "تصویر پس‌زمینه صفحه نام‌نویسی"
+
+#: includes/templates/template-metabox-registerpage.php:20
+#, fuzzy
+msgid "Show Content Section"
+msgstr "زمان‌سنج شمارش معکوس را نمایش بده"
+
+#: includes/templates/template-metabox-registerpage.php:27
+#: includes/templates/template-metabox-thankyoupage.php:33
+msgid "Content type"
+msgstr "نوع محتوا"
+
+#: includes/templates/template-metabox-registerpage.php:40
+#, fuzzy
+msgid "Registration Page Image"
+msgstr "تصور ویدئوی صفحه نام‌نویسی"
+
+#: includes/templates/template-metabox-registerpage.php:43
+#: includes/templates/template-metabox-thankyoupage.php:48
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM)"
+msgstr ""
+
+#: includes/templates/template-metabox-registerpage.php:68
+msgid "Title Color"
+msgstr "رنگ عنوان"
+
+#: includes/templates/template-metabox-registerpage.php:73
+msgid "Date/Time Color"
+msgstr "رنگ تاریخ/زمان"
+
+#: includes/templates/template-metabox-registerpage.php:79
+msgid "Form & Tab Layout"
+msgstr ""
+
+#: includes/templates/template-metabox-registerpage.php:87
+#, fuzzy
+msgid "Position"
+msgstr "توضیحات"
+
+#: includes/templates/template-metabox-registerpage.php:101
+#: includes/templates/template-metabox-thankyoupage.php:139
+#: includes/templates/template-metabox-thankyoupage.php:153
+msgid "Border color"
+msgstr "رنگ خطوط حاشیه"
+
+#: includes/templates/template-metabox-registerpage.php:107
+msgid "Font color"
+msgstr "رنگ فونت"
+
+#: includes/templates/template-metabox-registerpage.php:113
+#, fuzzy
+msgid "Tab Background color"
+msgstr "رنگ پس‌زمینه"
+
+#: includes/templates/template-metabox-registerpage.php:119
+#, fuzzy
+msgid "Tab Text color"
+msgstr "رنگ متن"
+
+#: includes/templates/template-metabox-registerpage.php:125
+#, fuzzy
+msgid "Register Tab Text"
+msgstr "تاریخ نام‌نویسی"
+
+#: includes/templates/template-metabox-registerpage.php:131
+#, fuzzy
+msgid "Login Tab Text"
+msgstr "رنگ متن پیوند بالا"
+
+#: includes/templates/template-metabox-registerpage.php:137
+#, fuzzy
+msgid "Register Tab"
+msgstr "تاریخ نام‌نویسی"
+
+#: includes/templates/template-metabox-registerpage.php:140
+#, fuzzy
+msgid "Register Title"
+msgstr "تاریخ نام‌نویسی"
+
+#: includes/templates/template-metabox-registerpage.php:146
+#, fuzzy
+msgid "Register Text"
+msgstr "تاریخ نام‌نویسی"
+
+#: includes/templates/template-metabox-registerpage.php:152
+#: includes/templates/template-metabox-registerpage.php:191
+#: includes/templates/template-metabox-thankyoupage.php:176
+msgid "Button Background color"
+msgstr "رنگ پس‌زمینه دکمه"
+
+#: includes/templates/template-metabox-registerpage.php:158
+#: includes/templates/template-metabox-registerpage.php:197
+#: includes/templates/template-metabox-thankyoupage.php:182
+msgid "Button Border color"
+msgstr "رنگ خطوط حاشیه دکمه "
+
+#: includes/templates/template-metabox-registerpage.php:170
+msgid "CTA Button Text"
+msgstr "تنظیمات متن دکمه"
+
+#: includes/templates/template-metabox-registerpage.php:176
+msgid "Login Tab"
+msgstr ""
+
+#: includes/templates/template-metabox-registerpage.php:179
+#, fuzzy
+msgid "Login Title"
+msgstr "عنوان"
+
+#: includes/templates/template-metabox-registerpage.php:185
+msgid "Login Text"
+msgstr ""
+
+#: includes/templates/template-metabox-registerpage.php:209
+#, fuzzy
+msgid "Login Button Text"
+msgstr "تنظیمات متن دکمه"
+
+#: includes/templates/template-metabox-registerpage.php:216
+msgid "Description"
+msgstr "توضیحات"
+
+#: includes/templates/template-metabox-registerpage.php:219
+#, fuzzy
+msgid "Show Description Section"
+msgstr "جعبه توضیحات را نمایش بده"
+
+#: includes/templates/template-metabox-registerpage.php:225
+msgid "Description text color"
+msgstr "رنگ متن توضیحات"
+
+#: includes/templates/template-metabox-registerpage.php:230
+msgid "Description background color"
+msgstr "رنگ پس‌زمینه توضیحات "
+
+#: includes/templates/template-metabox-registerpage.php:235
+msgid "Description border color"
+msgstr "رنگ خطوط حاشیه توضیحات "
+
+#: includes/templates/template-metabox-replaypage.php:28
+msgid "Replay Page Background Image"
+msgstr "تصویر پس‌زمینه صفحه پاسخ"
+
+#: includes/templates/template-metabox-replaypage.php:35
+msgid "Replay available?"
+msgstr "آیا امکان پاسخ دادن وجود دارد؟"
+
+#: includes/templates/template-metabox-replaypage.php:59
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM "
+"OR http://youtu.be/CqlB2SiG-ac)"
+msgstr ""
+
+#: includes/templates/template-metabox-replaypage.php:60
+msgid "Paste Vimeo video ID here (Eg: 129673042))"
+msgstr ""
+
+#: includes/templates/template-metabox-thankyoupage.php:7
+msgid "Title text"
+msgstr "متن عنوان"
+
+#: includes/templates/template-metabox-thankyoupage.php:9
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "موفق شده‌اید! شما در وبینار نام‌نویسی کرده‌اید."
+
+#: includes/templates/template-metabox-thankyoupage.php:46
+#, fuzzy
+msgid "Thank you Page Image"
+msgstr "صفحه تشکر"
+
+#: includes/templates/template-metabox-thankyoupage.php:74
+msgid "Link above Text Color"
+msgstr "رنگ متن پیوند بالا"
+
+#: includes/templates/template-metabox-thankyoupage.php:79
+msgid "Link below Text Color"
+msgstr "رنگ متن پیوند پایین"
+
+#: includes/templates/template-metabox-thankyoupage.php:88
+msgid "Border color-1"
+msgstr "رنگ-1 خطوط حاشیه"
+
+#: includes/templates/template-metabox-thankyoupage.php:94
+msgid "Border color-2"
+msgstr "رنگ-2 خطوط حاشیه"
+
+#: includes/templates/template-metabox-thankyoupage.php:100
+msgid "Body Text color"
+msgstr "رنگ بدنه متن"
+
+#: includes/templates/template-metabox-thankyoupage.php:106
+msgid "Body Background color"
+msgstr "رنگ پس‌زمینه بدنه"
+
+#: includes/templates/template-metabox-thankyoupage.php:112
+msgid "Header Background color"
+msgstr "رنگ پس‌زمینه سربرگ"
+
+#: includes/templates/template-metabox-thankyoupage.php:118
+msgid "Header Text color"
+msgstr "رنگ متن سربرگ"
+
+#: includes/templates/template-metabox-thankyoupage.php:124
+msgid "Button color"
+msgstr "رنگ دکمه"
+
+#: includes/templates/template-metabox-thankyoupage.php:136
+msgid "Social Sharing"
+msgstr "شبکه‌های اجتماعی"
+
+#: includes/templates/template-metabox-thankyoupage.php:150
+msgid "Calendar"
+msgstr "تقویم"
+
+#: includes/templates/template-metabox-thankyoupage.php:165
+msgid "Text color"
+msgstr "رنگ متن"
+
+#~ msgid ""
+#~ "Your license for WebinarSysteem is seems to be Invalid. Please contact "
+#~ "support desk!"
+#~ msgstr "مجوز وبینارسیستم شما نامعتبر است. لطفا با پشتیبانی تماس بگیرید!"
+
+#~ msgid ""
+#~ "Your WebinarSysteem license key has suspended! Please contact the support."
+#~ msgstr "کد مجوز وبینارسیستم شما معلق شده است. لطفا با پشتیبانی تماس بگیرید!"
+
+#~ msgid ""
+#~ "Your WebinarSysteem license key has expired! Please renew it again before "
+#~ "using the plugin."
+#~ msgstr ""
+#~ "کد مجوز وبینارسیستم شما منقضی شده است. لطفا با پشتیبانی تماس بگیرید!"
+
+#~ msgid "Please enter your license key to activate WebinarSysteem plugin!"
+#~ msgstr "برای فعال‌سازی افزونه وبینارسیستم، لطفا کد مجوز خود را وارد نمایید!"
+
+#~ msgid ""
+#~ "Invalid MailChimp API key. To fix, please visit <a href=\"%s"
+#~ "\">WebinarSysteem Settings</a>."
+#~ msgstr ""
+#~ "کد ای پی آی میلچیمپ نامعتبر. برای اصلاح آن به<a href=\"%s\"> تنظیمات "
+#~ "وبینارسیستم </a> بروید."
+
+#~ msgid ""
+#~ "Invalid Enormail API key. To fix, please visit <a href=\"%s"
+#~ "\">WebinarSysteem Settings</a>."
+#~ msgstr ""
+#~ "کد ای پی آی انورمیل نامعتبر. برای اصلاح آن به<a href=\"%s\"> تنظیمات "
+#~ "وبینارسیستم </a> بروید."
+
+#~ msgid "Invalid api key!"
+#~ msgstr "کد  نامعتبر ای پی آی!"
+
+#~ msgid "Edit"
+#~ msgstr "ویرایش"
+
+#~ msgid "Remove"
+#~ msgstr "حذف"
+
+#~ msgid "Default mail provider"
+#~ msgstr "خدمات ایمیل پیش‌فرض"
+
+#~ msgid "Mailchimp list"
+#~ msgstr "فهرستم میلچیمپ"
+
+#~ msgid "You've no mailing list(s) on MailChimp."
+#~ msgstr "فهرستی در میلچیمپ ندارید."
+
+#~ msgid "Mailpoet list"
+#~ msgstr "فهرست میلپوئت"
+
+#~ msgid "Select a list.."
+#~ msgstr "فهرستی را انتخاب کنید.."
+
+#~ msgid "Enormail list"
+#~ msgstr "فهرست انورمیل"
+
+#~ msgid "You've no mailing list(s) on Enormail."
+#~ msgstr "فهرستی در انورمیل ندارید."
+
+#~ msgid ""
+#~ "Click Export to download backup of current webinar settings. Upload your "
+#~ "already exported file to Import section to apply settings from other "
+#~ "webinar."
+#~ msgstr ""
+#~ "برای بارگیری(دانلود) نسخه پشتیبان از تنظیمات وبینار فعلی کلیک کنید. برای "
+#~ "اجرای تنظیمات روی وبینارهای دیگر همین فایل بارگیری شده را بارگذاری(آپلود) "
+#~ "کنید."
+
+#~ msgid "Import"
+#~ msgstr "وارد کردن"
+
+#~ msgid "Mailinglist providers"
+#~ msgstr "تامین‌کنندگان فهرست‌های ایمیل"
+
+#~ msgid "License Key"
+#~ msgstr "کد مجوز"
+
+#~ msgid "Flush data (Recheck)"
+#~ msgstr "جریان اطلاعات (بررسی دوباره)"
+
+#~ msgid "Your copy of WebinarSysteem is Active."
+#~ msgstr "نسخه وبینارسیستم شما فعال شد."
+
+#~ msgid ""
+#~ "Your copy of WebinarSysteem is not activated. Plugin will not work as "
+#~ "expected. Please activate your copy."
+#~ msgstr ""
+#~ "نسخه وبینارسیستم شما فعال نشده است. افزونه به صورت مورد انتظار کار نخواهد "
+#~ "کرد. لطفا نسخه وبینارسیستم خود را فعال کنید."
+
+#~ msgid "MailChimp API Key"
+#~ msgstr "کد ای پی آی میلچیمپ"
+
+#~ msgid "The API key you have received from MailChimp"
+#~ msgstr "کد ای پی آی که از میلچیمپ دریافت نموده اید"
+
+#~ msgid "Enormail API Key"
+#~ msgstr "کد ای پی آی انورمیل"
+
+#~ msgid "The API key you have received from Enormail"
+#~ msgstr "کد ای پی آی که از انورمیل دریافت نموده اید"
+
+#~ msgid "Webinar Occurance"
+#~ msgstr "برگزاری وبینار"
+
+#~ msgid "One time registration"
+#~ msgstr "نام‌نویسی یکباره"
+
+#~ msgid "Recurring on every"
+#~ msgstr "تکرار جداگانه برای هر یک"
+
+#~ msgid "Recurring Time(s)"
+#~ msgstr "تعداد تکرار"
+
+#~ msgid "Provide an image url or a Youtube Video ID"
+#~ msgstr "آدرس صفحه تصویر یا ویدئوی یوتیوب را قرار دهید"
+
+#~ msgid "Registration Form"
+#~ msgstr "فرم نام‌نویسی"
+
+#~ msgid "Text"
+#~ msgstr "متن"
+
+#~ msgid "Thanking Page Video Image"
+#~ msgstr "تصویر ویدئوی صفحه تشکر"
+
+#~ msgid "Presentator"
+#~ msgid_plural "Presentators"
+#~ msgstr[0] "ارایه کننده"
+
+#~ msgid "And, Sign-in"
+#~ msgstr "و , ورود"

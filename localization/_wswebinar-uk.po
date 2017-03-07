@@ -1,0 +1,1596 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP WebinarSystem Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-12 14:05+0530\n"
+"PO-Revision-Date: 2016-05-12 14:05+0530\n"
+"Last-Translator: Thambaru Wijesekara <thambaru@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ua_UA\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-webinarsysteem-promotional-notices.php:36
+msgid "Yes, download Pro!"
+msgstr ""
+
+#: includes/class-webinarsysteem-promotional-notices.php:47
+#, php-format
+msgid ""
+"If you like <strong>WP WebinarSystem</strong> please leave us a %s rating. A "
+"huge thank you in advance!"
+msgstr ""
+
+#: includes/class-webinarsysteem-questions.php:27
+msgid "WP WebinarSystem Questions"
+msgstr "Питання по WP WebinarSystem"
+
+#: includes/class-webinarsysteem-questions.php:28
+msgid "Select webinar to view questions for active webinars"
+msgstr "Виберіть  Вебінар для перегляду питання з активних Вебінарів"
+
+#: includes/class-webinarsysteem-questions.php:48
+msgid "Delete Selected"
+msgstr ""
+
+#: includes/class-webinarsysteem-questions.php:49
+#, fuzzy
+msgid "Export CSV"
+msgstr "Експорт"
+
+#: includes/class-webinarsysteem-questions.php:50
+#, fuzzy
+msgid "Export TEXT"
+msgstr "Експорт"
+
+#: includes/class-webinarsysteem-questions.php:56
+#: includes/class-webinarsysteemattendees.php:65
+#: includes/class-webinarsysteemattendees.php:101
+#: includes/class-webinarsysteemoptions.php:772
+msgid "Name"
+msgstr "Ім'я"
+
+#: includes/class-webinarsysteem-questions.php:56
+msgid "Question"
+msgstr "Питання"
+
+#: includes/class-webinarsysteem-questions.php:56 includes/tmp-post.php:189
+#: includes/tmp-registration.php:151
+msgid "Time"
+msgstr "Час"
+
+#: includes/class-webinarsysteem-shortcodes.php:22
+#: includes/class-webinarsysteem-shortcodes.php:127
+msgid "Error: "
+msgstr ""
+
+#: includes/class-webinarsysteem-shortcodes.php:22
+#: includes/class-webinarsysteem-shortcodes.php:127
+msgid "Invalid webinar id."
+msgstr ""
+
+#: includes/class-webinarsysteem-shortcodes.php:28
+#, php-format
+msgid "You've successfully registered for %s"
+msgstr ""
+
+#: includes/class-webinarsysteem-shortcodes.php:36
+#, fuzzy, php-format
+msgid "You're already registered for %s"
+msgstr "Ви зареєстровані на Вебінар!"
+
+#: includes/class-webinarsysteem-shortcodes.php:47
+#: includes/tmp-registration.php:273
+#, fuzzy
+msgid "Registration is closed for this webinar."
+msgstr "Ви зареєстровані на Вебінар!"
+
+#: includes/class-webinarsysteem-shortcodes.php:59
+#: includes/tmp-registration.php:206
+msgid "Your Name"
+msgstr "Ваше Ім'я"
+
+#: includes/class-webinarsysteem-shortcodes.php:61
+#: includes/tmp-registration.php:208
+#, fuzzy
+msgid "Please enter your name."
+msgstr "Будь ласка, введіть ваш Email."
+
+#: includes/class-webinarsysteem-shortcodes.php:63
+#: includes/class-webinarsysteem-shortcodes.php:138
+#: includes/tmp-registration.php:210 includes/tmp-registration.php:262
+msgid "Your Email Address"
+msgstr "Ваш Email адрес"
+
+#: includes/class-webinarsysteem-shortcodes.php:65
+#: includes/class-webinarsysteem-shortcodes.php:140
+#: includes/tmp-registration.php:212 includes/tmp-registration.php:264
+msgid "Please enter your email."
+msgstr "Будь ласка, введіть ваш Email."
+
+#: includes/class-webinarsysteem-shortcodes.php:82
+#: includes/tmp-registration.php:229
+msgid "Select a day to watch."
+msgstr "Виберіть день перегляду."
+
+#: includes/class-webinarsysteem-shortcodes.php:104
+#: includes/tmp-registration.php:242
+msgid "Select a time to watch."
+msgstr "Виберіть час перегляду."
+
+#: includes/class-webinarsysteem-shortcodes.php:143
+#, fuzzy
+msgid "Please register before login."
+msgstr "Будь ласка, введіть ваш Email."
+
+#: includes/class-webinarsysteem.php:339
+msgid "WP WebinarSystem"
+msgstr "WP WebinarSystem"
+
+#: includes/class-webinarsysteem.php:339
+msgid "WebinarSystem"
+msgstr "WebinarSystem"
+
+#: includes/class-webinarsysteem.php:340 includes/class-webinarsysteem.php:464
+msgid "Webinars"
+msgstr "Вебінари"
+
+#: includes/class-webinarsysteem.php:342
+msgid "New webinar"
+msgstr "Новий Вебінар"
+
+#: includes/class-webinarsysteem.php:343
+msgid "Attendee Lists"
+msgstr "Список Учасників"
+
+#: includes/class-webinarsysteem.php:344
+msgid "Webinar Questions"
+msgstr "Питання на Вебінарі"
+
+#: includes/class-webinarsysteem.php:346
+msgid "Settings"
+msgstr "Налаштування"
+
+#: includes/class-webinarsysteem.php:347
+msgid "Go Pro"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:347
+msgid "More Functionalities"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:383 includes/class-webinarsysteem.php:409
+msgid "Questions"
+msgstr "Питання"
+
+#: includes/class-webinarsysteem.php:388
+msgid "Duplicate this Webinar"
+msgstr "Дублювати цей Вебінар"
+
+#: includes/class-webinarsysteem.php:388
+msgid "Duplicate"
+msgstr "Дублювати"
+
+#: includes/class-webinarsysteem.php:407
+msgid "Views"
+msgstr "Переглядів"
+
+#: includes/class-webinarsysteem.php:408
+msgid "Registrations"
+msgstr "Реєстрації"
+
+#: includes/class-webinarsysteem.php:410
+msgid "Status"
+msgstr "Стан"
+
+#: includes/class-webinarsysteem.php:465 includes/class-webinarsysteem.php:466
+#: includes/tmp-post.php:185
+msgid "Webinar"
+msgstr "Вебінар"
+
+#: includes/class-webinarsysteem.php:467 includes/class-webinarsysteem.php:468
+msgid "Add New Webinar"
+msgstr "Додати новий Вебінар"
+
+#: includes/class-webinarsysteem.php:469
+msgid "New Webinar"
+msgstr "Новий Вебінар"
+
+#: includes/class-webinarsysteem.php:470
+msgid "Edit Webinar"
+msgstr "Редагувати Вебінар"
+
+#: includes/class-webinarsysteem.php:471
+msgid "View Webinar"
+msgstr "Дивитися Вебінар"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-attendee-replay.php:10
+#: includes/templates/template-email-attendee1hr.php:14
+#: includes/templates/template-email-attendee24hr.php:14
+#: includes/templates/template-email-reader.php:11
+msgid "Hi"
+msgstr "Привіт"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:951
+#: includes/templates/template-email-attendee1hr.php:16
+msgid ""
+"The webinar you signed up for starts in one hour. Below you will find the "
+"link to attend the webinar."
+msgstr ""
+"Вебінар, на котрий ви зареєструвалися, починається за одну годину. Нижче ви "
+"знайдете посилання, щоб відвідати Вебінар."
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:17
+#: includes/templates/template-email-attendee24hr.php:16
+#: includes/templates/template-email-reader.php:13
+msgid "Webinar name:"
+msgstr "Назва  Вебінара:"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:18
+#: includes/templates/template-email-attendee24hr.php:17
+#: includes/templates/template-email-reader.php:14
+msgid "Date:"
+msgstr "Дата:"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:19
+#: includes/templates/template-email-attendee24hr.php:18
+#: includes/templates/template-email-reader.php:15
+msgid "Time:"
+msgstr "Час:"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee1hr.php:21
+#: includes/templates/template-email-attendee24hr.php:20
+#: includes/templates/template-email-reader.php:17
+msgid "See you then!"
+msgstr "До зустрічі!"
+
+#: includes/class-webinarsysteem.php:947 includes/class-webinarsysteem.php:949
+#: includes/class-webinarsysteem.php:951 includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-admin-email.php:9
+#: includes/templates/template-email-attendee-replay.php:14
+#: includes/templates/template-email-attendee-wbstarted.php:14
+#: includes/templates/template-email-attendee1hr.php:22
+#: includes/templates/template-email-attendee24hr.php:21
+#: includes/templates/template-email-reader.php:18
+msgid "Regards"
+msgstr "З повагою"
+
+#: includes/class-webinarsysteem.php:949
+#: includes/templates/template-email-attendee24hr.php:15
+msgid ""
+"This is a reminder for your upcoming webinar tomorrow. Below you will find "
+"the details of the webinar."
+msgstr ""
+"Це нагадування що Вебінар відбудеться завтра. Нижче ви знайдете відомості "
+"про Вебінар."
+
+#: includes/class-webinarsysteem.php:951
+#: includes/templates/template-email-attendee-wbstarted.php:9
+msgid "We are going live now"
+msgstr "Будемо починати зараз"
+
+#: includes/class-webinarsysteem.php:951 includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-attendee-replay.php:13
+#: includes/templates/template-email-attendee-wbstarted.php:13
+msgid "See you later!"
+msgstr "Побачимося пізніше!"
+
+#: includes/class-webinarsysteem.php:953
+#: includes/templates/template-email-attendee-replay.php:11
+#: includes/templates/template-email-attendee-wbstarted.php:11
+msgid "Make sure to join the webinar via this link:"
+msgstr "Не забудьте приєднатися до Вебінару за цим посиланням:"
+
+#: includes/class-webinarsysteemattendees.php:12
+msgid "WP WebinarSystem Attendees"
+msgstr "Участники WP WebinarSystem"
+
+#: includes/class-webinarsysteemattendees.php:13
+msgid "Select webinar to view attendees for active webinars"
+msgstr "Виберіть Вебінар з активних, для перегляду учасників"
+
+#: includes/class-webinarsysteemattendees.php:38
+msgid "Please add webinars to listup."
+msgstr "Будь ласка, додайте Вебінар до плейлиста."
+
+#: includes/class-webinarsysteemattendees.php:66
+#: includes/class-webinarsysteemattendees.php:102
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: includes/class-webinarsysteemattendees.php:67
+#: includes/class-webinarsysteemattendees.php:103
+msgid "Registered Date"
+msgstr "Дата Регістрації"
+
+#: includes/class-webinarsysteemattendees.php:94
+msgid "No Attendees :("
+msgstr "Поки жодних учасників :(  Але вони обов'язково будуть!"
+
+#: includes/class-webinarsysteemmessages.php:63
+#: includes/class-webinarsysteemmessages.php:69
+#: includes/class-webinarsysteemoptions.php:56
+msgid "New Registration"
+msgstr "Нова Реєстрація"
+
+#: includes/class-webinarsysteemmessages.php:77
+#: includes/class-webinarsysteemmessages.php:120
+msgid "Reminder"
+msgstr "Нагадування"
+
+#: includes/class-webinarsysteemmessages.php:84
+msgid "You are registered for the webinar!"
+msgstr "Ви зареєстровані на Вебінар!"
+
+#: includes/class-webinarsysteemmessages.php:169
+msgid "We are live in one hour!"
+msgstr "Ми починаємо за одну годину!"
+
+#: includes/class-webinarsysteemmessages.php:213
+msgid "We are starting the webinar!"
+msgstr "Ми починаємо Вебінар!"
+
+#: includes/class-webinarsysteemmessages.php:257
+msgid "Webinar Replay Link"
+msgstr "Посилання на інтерактивний АвтоВебінар"
+
+#: includes/class-webinarsysteemmessages.php:350
+msgid "Once a minute"
+msgstr "Одна хвилинка"
+
+#: includes/class-webinarsysteemmessages.php:372
+msgid "hrs"
+msgstr "годин"
+
+#: includes/class-webinarsysteemmetabox.php:22
+msgid "Webinar Settings"
+msgstr "Налаштування Вебінара"
+
+#: includes/class-webinarsysteemmetabox.php:26
+msgid "Host Names"
+msgstr "Імена хостів"
+
+#: includes/class-webinarsysteemmetabox.php:27
+msgid "Your Webinar URL"
+msgstr "URL вашого Вебінара"
+
+#: includes/class-webinarsysteemmetabox.php:108
+#: includes/class-webinarsysteemoptions.php:44
+msgid "General Options"
+msgstr "Загальні параметри"
+
+#: includes/class-webinarsysteemmetabox.php:109
+msgid "Registration Page"
+msgstr "Сторінка реєстрації"
+
+#: includes/class-webinarsysteemmetabox.php:110
+msgid "Thank You Page"
+msgstr "Сторінка подяки"
+
+#: includes/class-webinarsysteemmetabox.php:111
+msgid "Countdown Page"
+msgstr "Сторінка відліку"
+
+#: includes/class-webinarsysteemmetabox.php:112
+msgid "Live Page"
+msgstr "Живий Вебінар"
+
+#: includes/class-webinarsysteemmetabox.php:113
+msgid "Replay Page"
+msgstr "Сторінка повтора"
+
+#: includes/class-webinarsysteemmetabox.php:115
+#: includes/templates/template-metabox-thankyoupage.php:85
+msgid "Ticket"
+msgstr "Квиток"
+
+#: includes/class-webinarsysteemmetabox.php:116
+msgid "Mailinglist"
+msgstr "Розсилки"
+
+#: includes/class-webinarsysteemmetabox.php:117
+msgid "Import / Export"
+msgstr "Імпорт/Експорт"
+
+#: includes/class-webinarsysteemmetabox.php:494
+msgid "Webinar will be presented by:"
+msgstr "Інтерактивний Вебінар презентує:"
+
+#: includes/class-webinarsysteemmetabox.php:496
+msgid "Separate each by commas"
+msgstr "Відокремити один від одного крапкою з комою"
+
+#: includes/class-webinarsysteemmetabox.php:511
+msgid "Host & Description Box"
+msgstr "Хост & Опис"
+
+#: includes/class-webinarsysteemmetabox.php:515
+#: includes/class-webinarsysteemmetabox.php:588
+#: includes/class-webinarsysteemmetabox.php:646
+#: includes/class-webinarsysteemoptions.php:105
+#: includes/templates/template-metabox-countdownpage.php:25
+#: includes/templates/template-metabox-livepage.php:20
+#: includes/templates/template-metabox-registerpage.php:96
+#: includes/templates/template-metabox-replaypage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:144
+#: includes/templates/template-metabox-thankyoupage.php:159
+msgid "Background color"
+msgstr "Фон"
+
+#: includes/class-webinarsysteemmetabox.php:523
+msgid "Show Host Box"
+msgstr "Поле хоста"
+
+#: includes/class-webinarsysteemmetabox.php:530
+msgid "Host Title Background color"
+msgstr "Фон Назви"
+
+#: includes/class-webinarsysteemmetabox.php:536
+msgid "Host Title Text color"
+msgstr "Текст Назви"
+
+#: includes/class-webinarsysteemmetabox.php:542
+msgid "Host Text color"
+msgstr "Текст Хоста"
+
+#: includes/class-webinarsysteemmetabox.php:550
+msgid "Show Description Box"
+msgstr "Показать Опис"
+
+#: includes/class-webinarsysteemmetabox.php:557
+msgid "Description Title Background color"
+msgstr "Фон Назви описа"
+
+#: includes/class-webinarsysteemmetabox.php:563
+msgid "Description Title Text color"
+msgstr "Текст Назви описа"
+
+#: includes/class-webinarsysteemmetabox.php:569
+msgid "Description Text color"
+msgstr "Текст описа"
+
+#: includes/class-webinarsysteemmetabox.php:577
+msgid "Question Box"
+msgstr "Питання"
+
+#: includes/class-webinarsysteemmetabox.php:581
+msgid "Show Question box"
+msgstr "Показати Питання"
+
+#: includes/class-webinarsysteemmetabox.php:594
+#, fuzzy
+msgid "Title Text Color"
+msgstr "Текст заголовка"
+
+#: includes/class-webinarsysteemmetabox.php:600
+msgid "Border Radius"
+msgstr ""
+
+#: includes/class-webinarsysteemmetabox.php:606
+#, fuzzy
+msgid "Button Background Color"
+msgstr "фон кнопки"
+
+#: includes/class-webinarsysteemmetabox.php:612
+#, fuzzy
+msgid "Button Hover Background Color"
+msgstr "фон кнопки"
+
+#: includes/class-webinarsysteemmetabox.php:618
+#, fuzzy
+msgid "Button Border Color"
+msgstr "Рамка кнопки"
+
+#: includes/class-webinarsysteemmetabox.php:624
+#, fuzzy
+msgid "Button Hover Border Color"
+msgstr "Рамка кнопки"
+
+#: includes/class-webinarsysteemmetabox.php:630
+#: includes/templates/template-metabox-registerpage.php:164
+#: includes/templates/template-metabox-registerpage.php:203
+#: includes/templates/template-metabox-thankyoupage.php:130
+#: includes/templates/template-metabox-thankyoupage.php:170
+msgid "Button Text color"
+msgstr "Текст кнопки"
+
+#: includes/class-webinarsysteemmetabox.php:636
+#, fuzzy
+msgid "Button Hover Text color"
+msgstr "Текст кнопки"
+
+#: includes/class-webinarsysteemmetabox.php:642
+msgid "Incentive Box"
+msgstr "Слоган"
+
+#: includes/class-webinarsysteemmetabox.php:652
+msgid "Show Incentive Box"
+msgstr "Показати Слоган"
+
+#: includes/class-webinarsysteemmetabox.php:659
+msgid "Incentive Title"
+msgstr "Показати Заголовок"
+
+#: includes/class-webinarsysteemmetabox.php:665
+msgid "Title Text color"
+msgstr "Текст заголовка"
+
+#: includes/class-webinarsysteemmetabox.php:671
+msgid "Title Background color"
+msgstr "Фон Назви"
+
+#: includes/class-webinarsysteemmetabox.php:677
+#, fuzzy
+msgid "Content text color"
+msgstr "Текст Хоста"
+
+#: includes/class-webinarsysteemmetabox.php:683
+msgid "Incentive box content"
+msgstr "Показати поле змісту"
+
+#: includes/class-webinarsysteemmetabox.php:697
+msgid "Preview Page"
+msgstr "Перегляд сторінки"
+
+#: includes/class-webinarsysteemmetabox.php:698
+msgid "Only use this generated link for test purposes"
+msgstr "Це згенероване посилання для тесту сторінки"
+
+#: includes/class-webinarsysteemoptions.php:32
+msgid "WP WebinarSystem Options"
+msgstr "Параметри WP WebinarSystem"
+
+#: includes/class-webinarsysteemoptions.php:35
+#: includes/templates/template-metabox-countdownpage.php:4
+#: includes/templates/template-metabox-livepage.php:4
+#: includes/templates/template-metabox-registerpage.php:4
+#: includes/templates/template-metabox-replaypage.php:4
+#: includes/templates/template-metabox-thankyoupage.php:4
+msgid "General"
+msgstr "Загальні"
+
+#: includes/class-webinarsysteemoptions.php:36
+msgid "Emails"
+msgstr "Листи"
+
+#: includes/class-webinarsysteemoptions.php:37
+#: includes/class-webinarsysteemoptions.php:399
+msgid "Advanced"
+msgstr "Розширені"
+
+#: includes/class-webinarsysteemoptions.php:38
+msgid "System Status"
+msgstr "Стан системи"
+
+#: includes/class-webinarsysteemoptions.php:55
+msgid "Email options"
+msgstr "Параметри пошти"
+
+#: includes/class-webinarsysteemoptions.php:57
+msgid "Reminder day before Webinar"
+msgstr "Нагадування за день до Вебінару"
+
+#: includes/class-webinarsysteemoptions.php:58
+msgid "Reminder one hour before Webinar"
+msgstr "Нагадування за одну годину до Вебінару"
+
+#: includes/class-webinarsysteemoptions.php:59
+msgid "Reminder Webinar Starting"
+msgstr "Нагадування про початок Вебінару"
+
+#: includes/class-webinarsysteemoptions.php:60
+msgid "Webinar replay"
+msgstr "АвтоВебінар"
+
+#: includes/class-webinarsysteemoptions.php:65
+msgid "Email Sender Options"
+msgstr "Параметри пошти відправника"
+
+#: includes/class-webinarsysteemoptions.php:68
+msgid "\"From\" Name"
+msgstr "Ім'я «Від»"
+
+#: includes/class-webinarsysteemoptions.php:68
+msgid "Sender name"
+msgstr "Ім'я відправника"
+
+#: includes/class-webinarsysteemoptions.php:71
+msgid "\"From\" Email Address"
+msgstr "\"З\" Електронної адреси"
+
+#: includes/class-webinarsysteemoptions.php:71
+msgid "Sender email"
+msgstr "Пошта відправника"
+
+#: includes/class-webinarsysteemoptions.php:75
+msgid "Email Template"
+msgstr "Шаблони Пошти"
+
+#: includes/class-webinarsysteemoptions.php:79
+msgid "Header Image"
+msgstr " Зображення Заголовка"
+
+#: includes/class-webinarsysteemoptions.php:83
+msgid "Upload"
+msgstr "Завантажити"
+
+#: includes/class-webinarsysteemoptions.php:89
+msgid "Email Footer Text"
+msgstr "Текст підвалу листа"
+
+#: includes/class-webinarsysteemoptions.php:92
+msgid "Footer Text"
+msgstr "Текст Підвалу"
+
+#: includes/class-webinarsysteemoptions.php:97
+msgid "Base color"
+msgstr "Основний колір"
+
+#: includes/class-webinarsysteemoptions.php:113
+msgid "Email Body Background color"
+msgstr "Фон тіла листа"
+
+#: includes/class-webinarsysteemoptions.php:121
+msgid "Email Body Text color"
+msgstr "Текст листа"
+
+#: includes/class-webinarsysteemoptions.php:131
+#: includes/class-webinarsysteemoptions.php:205
+#: includes/class-webinarsysteemoptions.php:267
+#: includes/class-webinarsysteemoptions.php:328
+#: includes/class-webinarsysteemoptions.php:389
+msgid "Reset Default Template"
+msgstr "Відновити Стандартний шаблон"
+
+#: includes/class-webinarsysteemoptions.php:140
+msgid "New Registration Options"
+msgstr "Нові параметри реєстрації"
+
+#: includes/class-webinarsysteemoptions.php:143
+msgid "Admin Email Address"
+msgstr "Адрес Email адміна"
+
+#: includes/class-webinarsysteemoptions.php:143
+msgid "Admin email"
+msgstr "Email Админа"
+
+#: includes/class-webinarsysteemoptions.php:149
+msgid "Reminder day before Webinar "
+msgstr "Нагадування за день до Вебінару"
+
+#: includes/class-webinarsysteemoptions.php:153
+#: includes/class-webinarsysteemoptions.php:218
+#: includes/class-webinarsysteemoptions.php:279
+#: includes/class-webinarsysteemoptions.php:340
+msgid "Enable this reminder?"
+msgstr "Увімкнути це нагадування?"
+
+#: includes/class-webinarsysteemoptions.php:161
+#: includes/class-webinarsysteemoptions.php:226
+#: includes/class-webinarsysteemoptions.php:287
+#: includes/class-webinarsysteemoptions.php:348
+msgid "Subject"
+msgstr "Тема"
+
+#: includes/class-webinarsysteemoptions.php:164
+#: includes/class-webinarsysteemoptions.php:229
+#: includes/class-webinarsysteemoptions.php:290
+#: includes/class-webinarsysteemoptions.php:351
+msgid "Email Head"
+msgstr "Шапка листа"
+
+#: includes/class-webinarsysteemoptions.php:169
+#: includes/class-webinarsysteemoptions.php:234
+#: includes/class-webinarsysteemoptions.php:295
+#: includes/class-webinarsysteemoptions.php:356
+msgid "Available Shortcodes:"
+msgstr "Доступні ШортКоди"
+
+#: includes/class-webinarsysteemoptions.php:177
+#: includes/class-webinarsysteemoptions.php:242
+#: includes/class-webinarsysteemoptions.php:303
+#: includes/class-webinarsysteemoptions.php:364
+#: includes/templates/template-metabox-thankyoupage.php:71
+msgid "Content"
+msgstr "Зміст"
+
+#: includes/class-webinarsysteemoptions.php:194
+#: includes/class-webinarsysteemoptions.php:256
+#: includes/class-webinarsysteemoptions.php:317
+#: includes/class-webinarsysteemoptions.php:378
+msgid "Your email address"
+msgstr "Ваш Email адрес"
+
+#: includes/class-webinarsysteemoptions.php:195
+#: includes/class-webinarsysteemoptions.php:257
+#: includes/class-webinarsysteemoptions.php:318
+#: includes/class-webinarsysteemoptions.php:379
+msgid "Send Preview"
+msgstr "Надіслати Перегляд"
+
+#: includes/class-webinarsysteemoptions.php:199
+#: includes/class-webinarsysteemoptions.php:261
+#: includes/class-webinarsysteemoptions.php:322
+#: includes/class-webinarsysteemoptions.php:383
+msgid "Add a Webinar to send a preview email."
+msgstr "Додати перегляд Вебінару до електронної пошти"
+
+#: includes/class-webinarsysteemoptions.php:213
+msgid "Reminder one hour before Webinar "
+msgstr "Нагадування за одну годину до Вебінару"
+
+#: includes/class-webinarsysteemoptions.php:275
+msgid "Reminder when Webinar starts"
+msgstr "Нагадати, коли Вебінар почнеться"
+
+#: includes/class-webinarsysteemoptions.php:336
+msgid "Send Webinar Replay Link"
+msgstr "Надіслати посилання на АвтоВебінар"
+
+#: includes/class-webinarsysteemoptions.php:407
+#: includes/class-webinarsysteemoptions.php:456
+msgid "Roles & Permissions"
+msgstr "Ролі & Дозволи"
+
+#: includes/class-webinarsysteemoptions.php:415
+msgid "Create Webinars"
+msgstr "Створити Вебінар"
+
+#: includes/class-webinarsysteemoptions.php:428
+msgid "Manage Subscribers"
+msgstr "Керування відвідувачами"
+
+#: includes/class-webinarsysteemoptions.php:441
+msgid "Change WebinarSystem Settings"
+msgstr "Змінити параметри WebinarSystem"
+
+#: includes/class-webinarsysteemoptions.php:472
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+"Будь ласка, скопіюйте цю інформацію у ваш квиток, при зверненні до служби "
+"підтримки"
+
+#: includes/class-webinarsysteemoptions.php:475
+msgid "Copy for Support"
+msgstr "Копія для служби підтримки"
+
+#: includes/class-webinarsysteemoptions.php:476
+msgid "Copied!"
+msgstr "Скопійовано!"
+
+#: includes/class-webinarsysteemoptions.php:478
+msgid "Get System Report"
+msgstr "Отримати звіт системи"
+
+#: includes/class-webinarsysteemoptions.php:484
+msgid "WordPress Environment"
+msgstr "Середовище WordPress"
+
+#: includes/class-webinarsysteemoptions.php:488
+msgid "Home URL"
+msgstr "URL Головної"
+
+#: includes/class-webinarsysteemoptions.php:496
+msgid "Site URL"
+msgstr "URL Сайту"
+
+#: includes/class-webinarsysteemoptions.php:504
+msgid "WP Version"
+msgstr "Версія WP"
+
+#: includes/class-webinarsysteemoptions.php:511
+msgid "WP Multisite"
+msgstr "Мультісайт WP "
+
+#: includes/class-webinarsysteemoptions.php:515
+msgid "WP Debug mode"
+msgstr "Налагодження WP"
+
+#: includes/class-webinarsysteemoptions.php:524
+msgid "WP Cron status"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:536
+msgid "Language"
+msgstr "Мова"
+
+#: includes/class-webinarsysteemoptions.php:544
+#, fuzzy
+msgid "Plugin Environment"
+msgstr "Середовище WordPress"
+
+#: includes/class-webinarsysteemoptions.php:548
+#, fuzzy
+msgid "Webinar System Version"
+msgstr "Питання по WP WebinarSystem"
+
+#: includes/class-webinarsysteemoptions.php:558
+msgid "Server Environment"
+msgstr "Середовище сервера"
+
+#: includes/class-webinarsysteemoptions.php:562
+msgid "Server Info"
+msgstr "Інформація про сервер"
+
+#: includes/class-webinarsysteemoptions.php:570
+msgid "PHP Version"
+msgstr "Версія PHP"
+
+#: includes/class-webinarsysteemoptions.php:579
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr "Не можу визначити PHP версію, тому що не існує phpversion()."
+
+#: includes/class-webinarsysteemoptions.php:587
+msgid "PHP Post Max Size"
+msgstr "Макс розмір PHP"
+
+#: includes/class-webinarsysteemoptions.php:595
+msgid "PHP Time Limit"
+msgstr "Обмеження часу PHP"
+
+#: includes/class-webinarsysteemoptions.php:603
+msgid "PHP Max Input Vars"
+msgstr "Макс вводу Vars PHP"
+
+#: includes/class-webinarsysteemoptions.php:611
+msgid "SUHOSIN Installed"
+msgstr "Встановлені SUHOSIN "
+
+#: includes/class-webinarsysteemoptions.php:619
+msgid "MySQL Version"
+msgstr "Версія MySQL"
+
+#: includes/class-webinarsysteemoptions.php:630
+msgid "Max Upload Size"
+msgstr "Макс розмір для завантаження"
+
+#: includes/class-webinarsysteemoptions.php:638
+msgid "Default Timezone"
+msgstr "Часовий пояс за промовчанням"
+
+#: includes/class-webinarsysteemoptions.php:697
+#, fuzzy
+msgid "Server Time"
+msgstr "Середовище сервера"
+
+#: includes/class-webinarsysteemoptions.php:709
+#, fuzzy
+msgid "Server Timezone"
+msgstr "Середовище сервера"
+
+#: includes/class-webinarsysteemoptions.php:719
+msgid "Server Locale"
+msgstr "Локальний Сервер "
+
+#: includes/class-webinarsysteemoptions.php:726
+msgid "N/A"
+msgstr "Н/Д"
+
+#: includes/class-webinarsysteemoptions.php:740
+#, fuzzy
+msgid "Active Plugins ("
+msgstr "Активних плагінів ("
+
+#: includes/class-webinarsysteemoptions.php:758
+msgid "by "
+msgstr " за"
+
+#: includes/class-webinarsysteemoptions.php:768
+msgid "Theme"
+msgstr "Тема"
+
+#: includes/class-webinarsysteemoptions.php:776
+msgid "Version"
+msgstr "Версія"
+
+#: includes/class-webinarsysteemoptions.php:780
+msgid "Author URL"
+msgstr "URL Автора"
+
+#: includes/tmp-closed.php:48
+msgid "Unfortunately, this webinar is closed."
+msgstr "На жаль, цей Вебінар закритий."
+
+#: includes/tmp-closed.php:51
+msgid "Click here"
+msgstr "Натисніть тут"
+
+#: includes/tmp-closed.php:51
+msgid "to go to our homepage."
+msgstr "щоб перейти на нашу домашню сторінку."
+
+#: includes/tmp-countdown.php:65
+msgid "will begin in"
+msgstr "розпочнеться"
+
+#: includes/tmp-countdown.php:66
+msgid "will begin shortly"
+msgstr "почнеться незабаром"
+
+#: includes/tmp-countdown.php:72
+msgid "will start"
+msgstr "починается"
+
+#: includes/tmp-countdown.php:73
+msgid "on"
+msgstr "  "
+
+#: includes/tmp-countdown.php:74
+msgid "at"
+msgstr " в"
+
+#: includes/tmp-countdown.php:81
+msgid "Please come back at this time. Thank you for your patience"
+msgstr "Будь ласка, поверніться в цей час. Дякуємо вам за ваше терпіння! :)"
+
+#: includes/tmp-countdown.php:92
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr ""
+"Всього лише за секунду, стартує трансляція. Ця сторінка оновиться "
+"автоматично..."
+
+#: includes/tmp-live.php:103 includes/tmp-post.php:186
+#: includes/tmp-registration.php:155
+msgid "Host"
+msgid_plural "Hosts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tmp-live.php:111
+msgid "Information"
+msgstr "Інформація"
+
+#: includes/tmp-live.php:120
+msgid "Ask your question!"
+msgstr "Задайте своє питання!"
+
+#: includes/tmp-live.php:125
+msgid "Your name"
+msgstr "Ваше ім'я"
+
+#: includes/tmp-live.php:128
+msgid "Your email"
+msgstr "Ваш Email"
+
+#: includes/tmp-live.php:131
+msgid "Type your question here.."
+msgstr "Введіть своє запитання..."
+
+#: includes/tmp-live.php:133
+msgid "Ask Question!"
+msgstr "Задайте питання!"
+
+#: includes/tmp-live.php:137
+msgid "My Questions"
+msgstr "Мої питання"
+
+#: includes/tmp-live.php:161
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields "
+"are filled correctly"
+msgstr ""
+"Щось не так з питанням доданим до форми. Перевірте усі поля, заповніть "
+"коректно"
+
+#: includes/tmp-live.php:162
+msgid "Please wait.."
+msgstr "Будь ласка, почекайте..."
+
+#: includes/tmp-post.php:158
+msgid "Here is the webinar URL..."
+msgstr "Ось URL Вебінару..."
+
+#: includes/tmp-post.php:164
+msgid ""
+"Save and bookmark this URL so you can get access the live webinar replay..."
+msgstr ""
+"Збережіть у закладці цей URL, так ви зможете отримати доступ до перегляду "
+"Вебінару..."
+
+#: includes/tmp-post.php:174
+msgid "Your Webinar Ticket"
+msgstr "Квиток на Вебінар"
+
+#: includes/tmp-post.php:175
+msgid "The Webinar Event Information..."
+msgstr "Інформація про події на Вебінарі..."
+
+#: includes/tmp-post.php:188 includes/tmp-registration.php:150
+#: includes/templates/template-metabox-generalpage.php:32
+msgid "Date"
+msgstr "Дата"
+
+#: includes/tmp-post.php:201
+#, fuzzy
+msgid "Join Webinar in Progress..."
+msgstr "Вебінар йде..."
+
+#: includes/tmp-post.php:204
+#: includes/templates/template-email-attendee-replay.php:12
+#: includes/templates/template-email-attendee-wbstarted.php:12
+#: includes/templates/template-email-attendee1hr.php:20
+#: includes/templates/template-email-attendee24hr.php:19
+#: includes/templates/template-email-reader.php:16
+msgid "Go to Webinar"
+msgstr "Перейдіть на Вебінар"
+
+#: includes/tmp-post.php:207
+msgid "View Webinar Replay"
+msgstr "Переглянути АвтоВебінар"
+
+#: includes/tmp-post.php:238
+msgid "Add To Your Calendar"
+msgstr "Додати до календаря"
+
+#: includes/tmp-post.php:239
+msgid "Remind Yourself Of The Event"
+msgstr "Нагадайте собі про цю подію"
+
+#: includes/tmp-post.php:248
+msgid "Google Calendar"
+msgstr "Календар Google"
+
+#: includes/tmp-post.php:250
+msgid "iCal / Outlook"
+msgstr "iCal / Outlook"
+
+#: includes/tmp-registration.php:2
+msgid "No script kiddies please!"
+msgstr "Будь ласка, не додавайте спам!"
+
+#: includes/tmp-registration.php:249
+msgid "Of course we will handle your data safely."
+msgstr "Гарантуємо конфіденційність ваших даних!"
+
+#: includes/templates/template-email-admin-email.php:7
+msgid "Howdy"
+msgstr "Привет"
+
+#: includes/templates/template-email-admin-email.php:8
+msgid "just signed up for your webinar"
+msgstr "щойно зареєструвалися до вашого Вебінару"
+
+#: includes/templates/template-email-reader.php:12
+msgid ""
+"Thank you for your registration for the webinar. Below you will find the "
+"details of the webinar."
+msgstr ""
+"Дякуємо вам за реєстрацію на Вебінар! Нижче ви знайдете відомості про "
+"Вебінар."
+
+#: includes/templates/template-metabox-countdownpage.php:7
+#: includes/templates/template-metabox-livepage.php:14
+#: includes/templates/template-metabox-replaypage.php:14
+#: includes/templates/template-metabox-thankyoupage.php:14
+msgid "Title color"
+msgstr "Заголовок"
+
+#: includes/templates/template-metabox-countdownpage.php:13
+msgid "Tagline color"
+msgstr "Підзаголовок"
+
+#: includes/templates/template-metabox-countdownpage.php:19
+msgid "Description color"
+msgstr "Опис"
+
+#: includes/templates/template-metabox-countdownpage.php:31
+#: includes/templates/template-metabox-livepage.php:26
+#: includes/templates/template-metabox-replaypage.php:26
+#: includes/templates/template-metabox-thankyoupage.php:26
+msgid "Background image"
+msgstr "Фонове зображення"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+msgid "Countdown Page Background Image"
+msgstr "Фонове зображення відлику"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-livepage.php:49
+#: includes/templates/template-metabox-registerpage.php:15
+#: includes/templates/template-metabox-registerpage.php:40
+#: includes/templates/template-metabox-replaypage.php:28
+#: includes/templates/template-metabox-replaypage.php:55
+#: includes/templates/template-metabox-thankyoupage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:46
+msgid "Upload Image"
+msgstr "Завантажити зображення"
+
+#: includes/templates/template-metabox-countdownpage.php:38
+msgid "Show countdown timer"
+msgstr "Показати відлік"
+
+#: includes/templates/template-metabox-generalpage.php:22
+msgid "Webinar Type"
+msgstr "Тип Вебінару"
+
+#: includes/templates/template-metabox-generalpage.php:31
+msgid "Webinar starts at"
+msgstr "Вебінар починається в"
+
+#: includes/templates/template-metabox-generalpage.php:102
+msgid "Disable registration"
+msgstr "Вимкнути реєстрацію"
+
+#: includes/templates/template-metabox-livepage.php:7
+#: includes/templates/template-metabox-replaypage.php:7
+#, fuzzy
+msgid "Hide Title"
+msgstr "Назва"
+
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:28
+msgid "Thankyou Page Background Image"
+msgstr "Фонове зображення сторінки Подіки"
+
+#: includes/templates/template-metabox-livepage.php:36
+#: includes/templates/template-metabox-replaypage.php:42
+msgid "Webinar type"
+msgstr "Тип Вебінару"
+
+#: includes/templates/template-metabox-livepage.php:41
+#: includes/templates/template-metabox-registerpage.php:32
+#: includes/templates/template-metabox-replaypage.php:47
+#: includes/templates/template-metabox-thankyoupage.php:38
+msgid "Image"
+msgstr "Зображення"
+
+#: includes/templates/template-metabox-livepage.php:46
+#: includes/templates/template-metabox-registerpage.php:37
+#: includes/templates/template-metabox-replaypage.php:52
+#: includes/templates/template-metabox-thankyoupage.php:43
+msgid "Video or Image URL"
+msgstr "URL Відео чи Зображення (750*315px)"
+
+#: includes/templates/template-metabox-livepage.php:49
+#: includes/templates/template-metabox-replaypage.php:55
+msgid "Registration Page Video Image"
+msgstr "Сторінка Реєстрація відео зображення"
+
+#: includes/templates/template-metabox-livepage.php:51
+#, fuzzy
+msgid ""
+"Paste Youtube/Hangouts URL here (Eg: https://www.youtube.com/watch?"
+"v=3TkeXaMpLe9-XM OR http://youtu.be/CqlB2SiG-ac)"
+msgstr "URL відео на Youtube (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+
+#: includes/templates/template-metabox-livepage.php:52
+#: includes/templates/template-metabox-registerpage.php:44
+#: includes/templates/template-metabox-thankyoupage.php:49
+msgid "Paste Vimeo video ID here (Eg: 129673042)"
+msgstr ""
+
+#: includes/templates/template-metabox-livepage.php:53
+#: includes/templates/template-metabox-registerpage.php:45
+#: includes/templates/template-metabox-replaypage.php:61
+#: includes/templates/template-metabox-thankyoupage.php:50
+msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+msgstr "URL зображення (Eg: https://example.com/images/the_image.jpg)"
+
+#: includes/templates/template-metabox-livepage.php:58
+msgid "Start a Hangout"
+msgstr ""
+
+#: includes/templates/template-metabox-livepage.php:72
+#: includes/templates/template-metabox-registerpage.php:50
+#: includes/templates/template-metabox-replaypage.php:66
+#: includes/templates/template-metabox-thankyoupage.php:55
+msgid "Video autoplay"
+msgstr "АвтоЗапуск Відео"
+
+#: includes/templates/template-metabox-livepage.php:75
+#: includes/templates/template-metabox-livepage.php:83
+#: includes/templates/template-metabox-registerpage.php:61
+#: includes/templates/template-metabox-replaypage.php:77
+#: includes/templates/template-metabox-thankyoupage.php:66
+#, php-format
+msgid "%s only."
+msgstr ""
+
+#: includes/templates/template-metabox-livepage.php:80
+#: includes/templates/template-metabox-registerpage.php:58
+#: includes/templates/template-metabox-replaypage.php:74
+#: includes/templates/template-metabox-thankyoupage.php:63
+#, fuzzy
+msgid "Video Controls"
+msgstr "АвтоЗапуск Відео"
+
+#: includes/templates/template-metabox-registerpage.php:7
+msgid "Page Background color"
+msgstr "Фон сторінки"
+
+#: includes/templates/template-metabox-registerpage.php:13
+msgid "Page Background image"
+msgstr "Фонове зображення"
+
+#: includes/templates/template-metabox-registerpage.php:15
+msgid "Registration Page Background Image"
+msgstr "Фонове зображення сторінки Реєстрації"
+
+#: includes/templates/template-metabox-registerpage.php:20
+#, fuzzy
+msgid "Show Content Section"
+msgstr "Показати відлік"
+
+#: includes/templates/template-metabox-registerpage.php:27
+#: includes/templates/template-metabox-thankyoupage.php:33
+msgid "Content type"
+msgstr "Тип вмісту"
+
+#: includes/templates/template-metabox-registerpage.php:40
+#, fuzzy
+msgid "Registration Page Image"
+msgstr "Сторінка Реєстрація відео зображення"
+
+#: includes/templates/template-metabox-registerpage.php:43
+#: includes/templates/template-metabox-thankyoupage.php:48
+#, fuzzy
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM)"
+msgstr "URL відео на Youtube (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+
+#: includes/templates/template-metabox-registerpage.php:68
+msgid "Title Color"
+msgstr "Назва"
+
+#: includes/templates/template-metabox-registerpage.php:73
+msgid "Date/Time Color"
+msgstr "Дата/Час"
+
+#: includes/templates/template-metabox-registerpage.php:79
+msgid "Form & Tab Layout"
+msgstr ""
+
+#: includes/templates/template-metabox-registerpage.php:87
+#, fuzzy
+msgid "Position"
+msgstr "Опис"
+
+#: includes/templates/template-metabox-registerpage.php:101
+#: includes/templates/template-metabox-thankyoupage.php:139
+#: includes/templates/template-metabox-thankyoupage.php:153
+msgid "Border color"
+msgstr "Рамка"
+
+#: includes/templates/template-metabox-registerpage.php:107
+msgid "Font color"
+msgstr "Шрифт"
+
+#: includes/templates/template-metabox-registerpage.php:113
+#, fuzzy
+msgid "Tab Background color"
+msgstr "Фон"
+
+#: includes/templates/template-metabox-registerpage.php:119
+#, fuzzy
+msgid "Tab Text color"
+msgstr "Текст"
+
+#: includes/templates/template-metabox-registerpage.php:125
+#, fuzzy
+msgid "Register Tab Text"
+msgstr "Дата Регістрації"
+
+#: includes/templates/template-metabox-registerpage.php:131
+#, fuzzy
+msgid "Login Tab Text"
+msgstr "Текст Посилання"
+
+#: includes/templates/template-metabox-registerpage.php:137
+#, fuzzy
+msgid "Register Tab"
+msgstr "Дата Регістрації"
+
+#: includes/templates/template-metabox-registerpage.php:140
+#, fuzzy
+msgid "Register Title"
+msgstr "Дата Регістрації"
+
+#: includes/templates/template-metabox-registerpage.php:146
+#, fuzzy
+msgid "Register Text"
+msgstr "Дата Регістрації"
+
+#: includes/templates/template-metabox-registerpage.php:152
+#: includes/templates/template-metabox-registerpage.php:191
+#: includes/templates/template-metabox-thankyoupage.php:176
+msgid "Button Background color"
+msgstr "фон кнопки"
+
+#: includes/templates/template-metabox-registerpage.php:158
+#: includes/templates/template-metabox-registerpage.php:197
+#: includes/templates/template-metabox-thankyoupage.php:182
+msgid "Button Border color"
+msgstr "Рамка кнопки"
+
+#: includes/templates/template-metabox-registerpage.php:170
+msgid "CTA Button Text"
+msgstr "Текст кнопки CTA"
+
+#: includes/templates/template-metabox-registerpage.php:176
+msgid "Login Tab"
+msgstr ""
+
+#: includes/templates/template-metabox-registerpage.php:179
+#, fuzzy
+msgid "Login Title"
+msgstr "Назва"
+
+#: includes/templates/template-metabox-registerpage.php:185
+msgid "Login Text"
+msgstr ""
+
+#: includes/templates/template-metabox-registerpage.php:209
+#, fuzzy
+msgid "Login Button Text"
+msgstr "Текст кнопки CTA"
+
+#: includes/templates/template-metabox-registerpage.php:216
+msgid "Description"
+msgstr "Опис"
+
+#: includes/templates/template-metabox-registerpage.php:219
+#, fuzzy
+msgid "Show Description Section"
+msgstr "Показать Опис"
+
+#: includes/templates/template-metabox-registerpage.php:225
+msgid "Description text color"
+msgstr "Текст опису"
+
+#: includes/templates/template-metabox-registerpage.php:230
+msgid "Description background color"
+msgstr "Фон опису"
+
+#: includes/templates/template-metabox-registerpage.php:235
+msgid "Description border color"
+msgstr "Рамка опису"
+
+#: includes/templates/template-metabox-replaypage.php:28
+msgid "Replay Page Background Image"
+msgstr "Фонове зображення АвтоВебінару"
+
+#: includes/templates/template-metabox-replaypage.php:35
+msgid "Replay available?"
+msgstr "Повтори доступні?"
+
+#: includes/templates/template-metabox-replaypage.php:59
+#, fuzzy
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM "
+"OR http://youtu.be/CqlB2SiG-ac)"
+msgstr "URL відео на Youtube (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+
+#: includes/templates/template-metabox-replaypage.php:60
+msgid "Paste Vimeo video ID here (Eg: 129673042))"
+msgstr ""
+
+#: includes/templates/template-metabox-thankyoupage.php:7
+msgid "Title text"
+msgstr "Текст заголовку"
+
+#: includes/templates/template-metabox-thankyoupage.php:9
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "Так! Ви зареєстровані на Вебінар!"
+
+#: includes/templates/template-metabox-thankyoupage.php:46
+#, fuzzy
+msgid "Thank you Page Image"
+msgstr "Сторінка подяки"
+
+#: includes/templates/template-metabox-thankyoupage.php:74
+msgid "Link above Text Color"
+msgstr "Текст Посилання"
+
+#: includes/templates/template-metabox-thankyoupage.php:79
+msgid "Link below Text Color"
+msgstr "Текст других посилань"
+
+#: includes/templates/template-metabox-thankyoupage.php:88
+msgid "Border color-1"
+msgstr "Рамка 1"
+
+#: includes/templates/template-metabox-thankyoupage.php:94
+msgid "Border color-2"
+msgstr "Рамка 2"
+
+#: includes/templates/template-metabox-thankyoupage.php:100
+msgid "Body Text color"
+msgstr "Основний текст"
+
+#: includes/templates/template-metabox-thankyoupage.php:106
+msgid "Body Background color"
+msgstr "Основной Фон"
+
+#: includes/templates/template-metabox-thankyoupage.php:112
+msgid "Header Background color"
+msgstr "Фон Шапки"
+
+#: includes/templates/template-metabox-thankyoupage.php:118
+msgid "Header Text color"
+msgstr "Текст Шапки"
+
+#: includes/templates/template-metabox-thankyoupage.php:124
+msgid "Button color"
+msgstr "Кнопка"
+
+#: includes/templates/template-metabox-thankyoupage.php:136
+msgid "Social Sharing"
+msgstr "СоцКнопки"
+
+#: includes/templates/template-metabox-thankyoupage.php:150
+msgid "Calendar"
+msgstr "Календар"
+
+#: includes/templates/template-metabox-thankyoupage.php:165
+msgid "Text color"
+msgstr "Текст"
+
+#~ msgid ""
+#~ "Your license for WebinarSysteem is seems to be Invalid. Please contact "
+#~ "support desk!"
+#~ msgstr ""
+#~ "Ваша ліцензія на WebinarSysteem є здається недійсною. Будь ласка, "
+#~ "зверніться до служби підтримки!"
+
+#~ msgid ""
+#~ "Your WebinarSysteem license key has suspended! Please contact the support."
+#~ msgstr ""
+#~ "Цей Ключ ліцензії WebinarSysteem зупинений! Будь ласка, зверніться до "
+#~ "служби підтримки."
+
+#~ msgid ""
+#~ "Your WebinarSysteem license key has expired! Please renew it again before "
+#~ "using the plugin."
+#~ msgstr ""
+#~ "Термін дії Ключа WebinarSysteem закінчився! Будь ласка, продовжите його "
+#~ "знову, перш ніж використовувати плагін."
+
+#~ msgid "Please enter your license key to activate WebinarSysteem plugin!"
+#~ msgstr ""
+#~ "Будь ласка, введіть свій ліцензійний ключ для активації плагіна "
+#~ "WebinarSysteem!"
+
+#~ msgid ""
+#~ "Invalid MailChimp API key. To fix, please visit <a href=\"%s"
+#~ "\">WebinarSysteem Settings</a>."
+#~ msgstr ""
+#~ "Неприпустимий ключ API MailChimp. Щоб виправити, будь ласка, відвідайте "
+#~ "<a href=\"%s\">WebinarSysteem Settings</a>."
+
+#~ msgid ""
+#~ "Invalid Enormail API key. To fix, please visit <a href=\"%s"
+#~ "\">WebinarSysteem Settings</a>."
+#~ msgstr ""
+#~ "Неприпустимий ключ API Enormail . Щоб виправити, будь ласка, відвідайте "
+#~ "<a href=\"%s\">WebinarSysteem Settings</a>."
+
+#~ msgid "Invalid api key!"
+#~ msgstr "Неприпустимий ключ API!"
+
+#~ msgid "Edit"
+#~ msgstr "Редагувати"
+
+#~ msgid "Remove"
+#~ msgstr "Видалити"
+
+#~ msgid "Default mail provider"
+#~ msgstr "Сервіс за замовчуванням"
+
+#~ msgid "Mailchimp list"
+#~ msgstr "Розсилки"
+
+#~ msgid "You've no mailing list(s) on MailChimp."
+#~ msgstr "У вас немає листів для розсилки MailChimp."
+
+#~ msgid "Mailpoet list"
+#~ msgstr "Список Mailpoet"
+
+#~ msgid "Select a list.."
+#~ msgstr "Виберіть з списока..."
+
+#~ msgid "Enormail list"
+#~ msgstr "Список Enormail"
+
+#~ msgid "You've no mailing list(s) on Enormail."
+#~ msgstr "У вас немає листів для розсилки Enormail."
+
+#~ msgid ""
+#~ "Click Export to download backup of current webinar settings. Upload your "
+#~ "already exported file to Import section to apply settings from other "
+#~ "webinar."
+#~ msgstr ""
+#~ "Виберіть пункт Експорту, для збереження резервної копії поточних "
+#~ "налаштувань Вебінару. Завантажуйте вже експортовані файли в розділі "
+#~ "імпорту, щоб застосувати параметри з інших Вебінарів."
+
+#~ msgid "Import"
+#~ msgstr "Імпорт"
+
+#~ msgid "Mailinglist providers"
+#~ msgstr "Постачальники розсилок"
+
+#~ msgid "License Key"
+#~ msgstr "Ліцензійний ключ"
+
+#~ msgid "Flush data (Recheck)"
+#~ msgstr "Активувати (перевірте!)"
+
+#~ msgid "Your copy of WebinarSysteem is Active."
+#~ msgstr "Ваша копія WebinarSysteem є активною."
+
+#~ msgid ""
+#~ "Your copy of WebinarSysteem is not activated. Plugin will not work as "
+#~ "expected. Please activate your copy."
+#~ msgstr ""
+#~ "Ваша копія WebinarSysteem не активовано. Плагін не буде працювати, як "
+#~ "очікувалося. Будь ласка, активуйте вашу копію."
+
+#~ msgid "MailChimp API Key"
+#~ msgstr "Ключ API MailChimp"
+
+#~ msgid "The API key you have received from MailChimp"
+#~ msgstr "Ключ API котрий ви отримали від MailChimp"
+
+#~ msgid "Enormail API Key"
+#~ msgstr "Ключ API Enormail "
+
+#~ msgid "The API key you have received from Enormail"
+#~ msgstr "Ключ API котрий ви отримали від Enormail"
+
+#~ msgid "Webinar Occurance"
+#~ msgstr "Початок Вебінару"
+
+#~ msgid "One time registration"
+#~ msgstr "Реєстрація Один раз"
+
+#~ msgid "Recurring on every"
+#~ msgstr "Повторювати кожний"
+
+#~ msgid "Recurring Time(s)"
+#~ msgstr "Повторювати момент(ів)"
+
+#~ msgid "Provide an image url or a Youtube Video ID"
+#~ msgstr "Надання URL зображення або ID відео Youtube"
+
+#~ msgid "Registration Form"
+#~ msgstr "Реєстраційна форма"
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Thanking Page Video Image"
+#~ msgstr "Відео зображення сторінки Подяки"
+
+#~ msgid "Presentator"
+#~ msgid_plural "Presentators"
+#~ msgstr[0] "Спікер"
+#~ msgstr[1] "Спікери"
+#~ msgstr[2] "Спікери"
+
+#~ msgid "And, Sign-in"
+#~ msgstr "Вход"

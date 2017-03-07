@@ -1,0 +1,1460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP WebinarSystem Lite\n"
+"POT-Creation-Date: 2016-09-10 18:19+0900\n"
+"PO-Revision-Date: 2016-09-15 05:23+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wpwebinarsystem.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-webinarsysteem-promotional-notices.php:36
+msgid "Yes, download Pro!"
+msgstr "プロ版をダウンロードする！"
+
+#: includes/class-webinarsysteem-promotional-notices.php:47
+#, php-format
+msgid ""
+"If you like <strong>WP WebinarSystem</strong> please leave us a %s rating. A "
+"huge thank you in advance!"
+msgstr ""
+"もしよろしければ、<strong>WP WebinarSystem</strong>に、評価 %s をいただければ"
+"幸いです。ご協力に感謝します！"
+
+#: includes/class-webinarsysteem-questions.php:27
+msgid "WP WebinarSystem Questions"
+msgstr "WP WebinarSystemウェビナー質問"
+
+#: includes/class-webinarsysteem-questions.php:28
+msgid "Select webinar to view questions for active webinars"
+msgstr "ウェビナーの質問を表示するには対象となるウェビナーを選択"
+
+#: includes/class-webinarsysteem-questions.php:48
+msgid "Delete Selected"
+msgstr "選択したものを削除"
+
+#: includes/class-webinarsysteem-questions.php:49
+msgid "Export CSV"
+msgstr "CSV形式でエクスポート"
+
+#: includes/class-webinarsysteem-questions.php:50
+msgid "Export TEXT"
+msgstr "テキスト形式でエクスポート"
+
+#: includes/class-webinarsysteem-questions.php:56
+#: includes/class-webinarsysteemattendees.php:65
+#: includes/class-webinarsysteemattendees.php:101
+#: includes/class-webinarsysteemoptions.php:806
+msgid "Name"
+msgstr "名前"
+
+#: includes/class-webinarsysteem-questions.php:56
+msgid "Question"
+msgstr "質問"
+
+#: includes/class-webinarsysteem-questions.php:56 includes/tmp-post.php:189
+#: includes/tmp-registration.php:151
+msgid "Time"
+msgstr "時間"
+
+#: includes/class-webinarsysteem-shortcodes.php:24
+#: includes/class-webinarsysteem-shortcodes.php:136
+msgid "Error: "
+msgstr "エラー:"
+
+#: includes/class-webinarsysteem-shortcodes.php:24
+#: includes/class-webinarsysteem-shortcodes.php:136
+msgid "Invalid webinar id."
+msgstr "無効なウェビナーIDです。"
+
+#: includes/class-webinarsysteem-shortcodes.php:31
+#, php-format
+msgid "You've successfully registered for %s"
+msgstr "%s の受講登録が完了しました。"
+
+#: includes/class-webinarsysteem-shortcodes.php:39
+#, php-format
+msgid "You're already registered for %s"
+msgstr "すでに%sの受講登録は完了しています。"
+
+#: includes/class-webinarsysteem-shortcodes.php:50
+#: includes/tmp-registration.php:273
+msgid "Registration is closed for this webinar."
+msgstr "このウェビナーの受付は終了しました。"
+
+#: includes/class-webinarsysteem-shortcodes.php:67
+#: includes/tmp-registration.php:206
+msgid "Your Name"
+msgstr "あなたのお名前"
+
+#: includes/class-webinarsysteem-shortcodes.php:69
+#: includes/tmp-registration.php:208
+msgid "Please enter your name."
+msgstr "お名前 を入力してください"
+
+#: includes/class-webinarsysteem-shortcodes.php:71
+#: includes/class-webinarsysteem-shortcodes.php:148
+#: includes/tmp-registration.php:210 includes/tmp-registration.php:262
+msgid "Your Email Address"
+msgstr "メールアドレス"
+
+#: includes/class-webinarsysteem-shortcodes.php:73
+#: includes/class-webinarsysteem-shortcodes.php:150
+#: includes/tmp-registration.php:212 includes/tmp-registration.php:264
+msgid "Please enter your email."
+msgstr "メールアドレスを入力してください。"
+
+#: includes/class-webinarsysteem-shortcodes.php:90
+#: includes/tmp-registration.php:229
+msgid "Select a day to watch."
+msgstr "受講日を選択してください。"
+
+#: includes/class-webinarsysteem-shortcodes.php:112
+#: includes/tmp-registration.php:242
+msgid "Select a time to watch."
+msgstr "時間を選択してください。"
+
+#: includes/class-webinarsysteem-shortcodes.php:153
+msgid "Please register before login."
+msgstr "ログインする前に登録してください。"
+
+#: includes/class-webinarsysteem.php:353
+msgid "WP WebinarSystem"
+msgstr "WP WebinarSystem"
+
+#: includes/class-webinarsysteem.php:353
+msgid "WebinarSystem"
+msgstr "WebinarSystem"
+
+#: includes/class-webinarsysteem.php:354 includes/class-webinarsysteem.php:478
+msgid "Webinars"
+msgstr "ウェビナー"
+
+#: includes/class-webinarsysteem.php:356
+msgid "New webinar"
+msgstr "新しいウェビナー"
+
+#: includes/class-webinarsysteem.php:357
+msgid "Attendee Lists"
+msgstr "参加者リスト"
+
+#: includes/class-webinarsysteem.php:358
+msgid "Webinar Questions"
+msgstr "ウェビナー質問"
+
+#: includes/class-webinarsysteem.php:360
+msgid "Settings"
+msgstr "設定"
+
+#: includes/class-webinarsysteem.php:361
+msgid "Go Pro"
+msgstr "Pro 版ユーザーになる"
+
+#: includes/class-webinarsysteem.php:361
+msgid "More Functionalities"
+msgstr "もっと詳しい機能"
+
+#: includes/class-webinarsysteem.php:397 includes/class-webinarsysteem.php:423
+msgid "Questions"
+msgstr "質問"
+
+#: includes/class-webinarsysteem.php:402
+msgid "Duplicate this Webinar"
+msgstr "このウェビナーを複製する"
+
+#: includes/class-webinarsysteem.php:402
+msgid "Duplicate"
+msgstr "複製する"
+
+#: includes/class-webinarsysteem.php:421
+msgid "Views"
+msgstr "ビュー"
+
+#: includes/class-webinarsysteem.php:422
+msgid "Registrations"
+msgstr "登録数"
+
+#: includes/class-webinarsysteem.php:424
+msgid "Status"
+msgstr "ステータス"
+
+#: includes/class-webinarsysteem.php:479 includes/class-webinarsysteem.php:480
+#: includes/tmp-post.php:185
+msgid "Webinar"
+msgstr "ウェビナー"
+
+#: includes/class-webinarsysteem.php:481 includes/class-webinarsysteem.php:482
+msgid "Add New Webinar"
+msgstr "新しいウェビナーを追加する"
+
+#: includes/class-webinarsysteem.php:483
+msgid "New Webinar"
+msgstr "新しいウェビナー"
+
+#: includes/class-webinarsysteem.php:484
+msgid "Edit Webinar"
+msgstr "ウェビナーを編集する"
+
+#: includes/class-webinarsysteem.php:485
+msgid "View Webinar"
+msgstr "ウェビナーを視聴"
+
+#: includes/class-webinarsysteem.php:969 includes/class-webinarsysteem.php:971
+#: includes/class-webinarsysteem.php:975
+#: includes/templates/template-email-attendee-replay.php:10
+#: includes/templates/template-email-attendee1hr.php:14
+#: includes/templates/template-email-attendee24hr.php:14
+#: includes/templates/template-email-reader.php:11
+msgid "Hi"
+msgstr "こんにちは"
+
+#: includes/class-webinarsysteem.php:969 includes/class-webinarsysteem.php:973
+#: includes/templates/template-email-attendee1hr.php:16
+msgid ""
+"The webinar you signed up for starts in one hour. Below you will find the "
+"link to attend the webinar."
+msgstr ""
+"あなたが受講登録したウェブセミナーは、今から1時間以内に開始します。時間になり"
+"ましたら、以下のリンクをクリックし、ウェビナーにご参加ください。"
+
+#: includes/class-webinarsysteem.php:969 includes/class-webinarsysteem.php:971
+#: includes/templates/template-email-attendee1hr.php:17
+#: includes/templates/template-email-attendee24hr.php:16
+#: includes/templates/template-email-reader.php:13
+msgid "Webinar name:"
+msgstr "ウェブセミナー名："
+
+#: includes/class-webinarsysteem.php:969 includes/class-webinarsysteem.php:971
+#: includes/templates/template-email-attendee1hr.php:18
+#: includes/templates/template-email-attendee24hr.php:17
+#: includes/templates/template-email-reader.php:14
+msgid "Date:"
+msgstr "ウェブセミナー開始日:"
+
+#: includes/class-webinarsysteem.php:969 includes/class-webinarsysteem.php:971
+#: includes/templates/template-email-attendee1hr.php:19
+#: includes/templates/template-email-attendee24hr.php:18
+#: includes/templates/template-email-reader.php:15
+msgid "Time:"
+msgstr "時間:"
+
+#: includes/class-webinarsysteem.php:969 includes/class-webinarsysteem.php:971
+#: includes/templates/template-email-attendee1hr.php:21
+#: includes/templates/template-email-attendee24hr.php:20
+#: includes/templates/template-email-reader.php:17
+msgid "See you then!"
+msgstr "それではウェブセミナーでお会いしましょう​​！"
+
+#: includes/class-webinarsysteem.php:969 includes/class-webinarsysteem.php:971
+#: includes/class-webinarsysteem.php:973 includes/class-webinarsysteem.php:975
+#: includes/templates/template-email-admin-email.php:9
+#: includes/templates/template-email-attendee-replay.php:14
+#: includes/templates/template-email-attendee-wbstarted.php:14
+#: includes/templates/template-email-attendee1hr.php:22
+#: includes/templates/template-email-attendee24hr.php:21
+#: includes/templates/template-email-reader.php:18
+msgid "Regards"
+msgstr "よろしくお願いいたします。"
+
+#: includes/class-webinarsysteem.php:971
+#: includes/templates/template-email-attendee24hr.php:15
+msgid ""
+"This is a reminder for your upcoming webinar tomorrow. Below you will find "
+"the details of the webinar."
+msgstr ""
+"これは、明日のウェブセミナーご参加のためのリマインダーです。以下の、ウェビ"
+"ナー詳細情報を再確認ください。"
+
+#: includes/class-webinarsysteem.php:973
+#: includes/templates/template-email-attendee-wbstarted.php:9
+msgid "We are going live now"
+msgstr "ウェブセミナーが始まりました。"
+
+#: includes/class-webinarsysteem.php:973 includes/class-webinarsysteem.php:975
+#: includes/templates/template-email-attendee-replay.php:13
+#: includes/templates/template-email-attendee-wbstarted.php:13
+msgid "See you later!"
+msgstr "それではウェブセミナーでお会いしましょう​​！"
+
+#: includes/class-webinarsysteem.php:975
+#: includes/templates/template-email-attendee-replay.php:11
+#: includes/templates/template-email-attendee-wbstarted.php:11
+msgid "Make sure to join the webinar via this link:"
+msgstr "必ずこのリンクをクリックしてウェブセミナーにご参加ください："
+
+#: includes/class-webinarsysteemattendees.php:12
+msgid "WP WebinarSystem Attendees"
+msgstr "WP WebinarSystem参加者"
+
+#: includes/class-webinarsysteemattendees.php:13
+msgid "Select webinar to view attendees for active webinars"
+msgstr "アクティブウェビナー参加者の表示をするにはウェビナーを選択"
+
+#: includes/class-webinarsysteemattendees.php:38
+msgid "Please add webinars to listup."
+msgstr "リストアップするウェビナーを追加してください。"
+
+#: includes/class-webinarsysteemattendees.php:66
+#: includes/class-webinarsysteemattendees.php:102
+msgid "E-Mail"
+msgstr "メールアドレス"
+
+#: includes/class-webinarsysteemattendees.php:67
+#: includes/class-webinarsysteemattendees.php:103
+msgid "Registered Date"
+msgstr "登録日"
+
+#: includes/class-webinarsysteemattendees.php:94
+msgid "No Attendees :("
+msgstr "参加者なし:("
+
+#: includes/class-webinarsysteemmessages.php:68
+#: includes/class-webinarsysteemmessages.php:74
+#: includes/class-webinarsysteemoptions.php:55
+msgid "New Registration"
+msgstr "新規登録"
+
+#: includes/class-webinarsysteemmessages.php:82
+#: includes/class-webinarsysteemmessages.php:127
+msgid "Reminder"
+msgstr "リマインダー"
+
+#: includes/class-webinarsysteemmessages.php:89
+msgid "You are registered for the webinar!"
+msgstr "ウェブセミナーの登録が完了しました！"
+
+#: includes/class-webinarsysteemmessages.php:175
+msgid "We are live in one hour!"
+msgstr "1時間以内にウェブセミナーがスタートします！"
+
+#: includes/class-webinarsysteemmessages.php:221
+msgid "We are starting the webinar!"
+msgstr "ウェブセミナーが始まりました！"
+
+#: includes/class-webinarsysteemmessages.php:267
+msgid "Webinar Replay Link"
+msgstr "ウェブセミナーのリプレイリンク"
+
+#: includes/class-webinarsysteemmessages.php:360
+msgid "Once a minute"
+msgstr "1分に1回"
+
+#: includes/class-webinarsysteemmessages.php:382
+msgid "hrs"
+msgstr "時間"
+
+#: includes/class-webinarsysteemmetabox.php:22
+msgid "Webinar Settings"
+msgstr "ウェビナー設定"
+
+#: includes/class-webinarsysteemmetabox.php:26
+msgid "Host Names"
+msgstr "講師名"
+
+#: includes/class-webinarsysteemmetabox.php:27
+msgid "Your Webinar URL"
+msgstr "ウェブセミナーURL"
+
+#: includes/class-webinarsysteemmetabox.php:108
+#: includes/class-webinarsysteemoptions.php:44
+msgid "General Options"
+msgstr "全般的な設定"
+
+#: includes/class-webinarsysteemmetabox.php:109
+msgid "Registration Page"
+msgstr "登録ページ"
+
+#: includes/class-webinarsysteemmetabox.php:110
+msgid "Thank You Page"
+msgstr "登録後サンキューページ"
+
+#: includes/class-webinarsysteemmetabox.php:111
+msgid "Countdown Page"
+msgstr "カウントダウンページ"
+
+#: includes/class-webinarsysteemmetabox.php:112
+msgid "Live Page"
+msgstr "ライブページ"
+
+#: includes/class-webinarsysteemmetabox.php:113
+msgid "Replay Page"
+msgstr "リプレイページ"
+
+#: includes/class-webinarsysteemmetabox.php:115
+#: includes/templates/template-metabox-thankyoupage.php:85
+msgid "Ticket"
+msgstr "チケット"
+
+#: includes/class-webinarsysteemmetabox.php:116
+msgid "Mailinglist"
+msgstr "メーリングリスト"
+
+#: includes/class-webinarsysteemmetabox.php:117
+msgid "Import / Export"
+msgstr "インポート/エクスポート"
+
+#: includes/class-webinarsysteemmetabox.php:494
+msgid "Webinar will be presented by:"
+msgstr "ウェブセミナー主催者："
+
+#: includes/class-webinarsysteemmetabox.php:496
+msgid "Separate each by commas"
+msgstr "カンマでそれぞれを分ける"
+
+#: includes/class-webinarsysteemmetabox.php:511
+msgid "Host & Description Box"
+msgstr "講師と詳細説明の枠"
+
+#: includes/class-webinarsysteemmetabox.php:515
+#: includes/class-webinarsysteemmetabox.php:588
+#: includes/class-webinarsysteemmetabox.php:646
+#: includes/class-webinarsysteemoptions.php:104
+#: includes/templates/template-metabox-countdownpage.php:25
+#: includes/templates/template-metabox-livepage.php:20
+#: includes/templates/template-metabox-registerpage.php:96
+#: includes/templates/template-metabox-replaypage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:144
+#: includes/templates/template-metabox-thankyoupage.php:159
+msgid "Background color"
+msgstr "背景色"
+
+#: includes/class-webinarsysteemmetabox.php:523
+msgid "Show Host Box"
+msgstr "講師の枠を表示する"
+
+#: includes/class-webinarsysteemmetabox.php:530
+msgid "Host Title Background color"
+msgstr "講師のタイトル背景色"
+
+#: includes/class-webinarsysteemmetabox.php:536
+msgid "Host Title Text color"
+msgstr "講師のタイトル文字色"
+
+#: includes/class-webinarsysteemmetabox.php:542
+msgid "Host Text color"
+msgstr "講師の文字色"
+
+#: includes/class-webinarsysteemmetabox.php:550
+msgid "Show Description Box"
+msgstr "詳細説明のボックスを表示する"
+
+#: includes/class-webinarsysteemmetabox.php:557
+msgid "Description Title Background color"
+msgstr "詳細説明タイトルの背景色"
+
+#: includes/class-webinarsysteemmetabox.php:563
+msgid "Description Title Text color"
+msgstr "詳細説明タイトルの文字色"
+
+#: includes/class-webinarsysteemmetabox.php:569
+msgid "Description Text color"
+msgstr "詳細説明の文字色"
+
+#: includes/class-webinarsysteemmetabox.php:577
+#: includes/class-webinarsysteemviews.php:71
+msgid "Question Box"
+msgstr "質問のボックス"
+
+#: includes/class-webinarsysteemmetabox.php:581
+msgid "Show Question box"
+msgstr "質問のボックスを表示する"
+
+#: includes/class-webinarsysteemmetabox.php:594
+msgid "Title Text Color"
+msgstr "タイトルの文字色"
+
+#: includes/class-webinarsysteemmetabox.php:600
+msgid "Border Radius"
+msgstr "境界線の半径"
+
+#: includes/class-webinarsysteemmetabox.php:606
+msgid "Button Background Color"
+msgstr "ボタンの背景色"
+
+#: includes/class-webinarsysteemmetabox.php:612
+msgid "Button Hover Background Color"
+msgstr "ボタンにカーソルを合わせたときの背景色"
+
+#: includes/class-webinarsysteemmetabox.php:618
+msgid "Button Border Color"
+msgstr "ボタンの境界線色"
+
+#: includes/class-webinarsysteemmetabox.php:624
+msgid "Button Hover Border Color"
+msgstr "ボタンにカーソルを合わせたときのボタンの境界線色"
+
+#: includes/class-webinarsysteemmetabox.php:630
+#: includes/templates/template-metabox-registerpage.php:164
+#: includes/templates/template-metabox-registerpage.php:203
+#: includes/templates/template-metabox-thankyoupage.php:130
+#: includes/templates/template-metabox-thankyoupage.php:170
+msgid "Button Text color"
+msgstr "ボタンの文字色:"
+
+#: includes/class-webinarsysteemmetabox.php:636
+msgid "Button Hover Text color"
+msgstr "ボタンにカーソルを合わせたときのボタンの文字色"
+
+#: includes/class-webinarsysteemmetabox.php:642
+#: includes/class-webinarsysteemviews.php:74
+msgid "Incentive Box"
+msgstr "インセンティブ ボックス"
+
+#: includes/class-webinarsysteemmetabox.php:652
+msgid "Show Incentive Box"
+msgstr "インセンティブ ボックスを表示する"
+
+#: includes/class-webinarsysteemmetabox.php:659
+msgid "Incentive Title"
+msgstr "インセンティブタイトル"
+
+#: includes/class-webinarsysteemmetabox.php:665
+msgid "Title Text color"
+msgstr "タイトルの文字色"
+
+#: includes/class-webinarsysteemmetabox.php:671
+msgid "Title Background color"
+msgstr "タイトル背景色"
+
+#: includes/class-webinarsysteemmetabox.php:677
+msgid "Content text color"
+msgstr "コンテンツの文字色"
+
+#: includes/class-webinarsysteemmetabox.php:683
+msgid "Incentive box content"
+msgstr "インセンティブ・ボックスの内容"
+
+#: includes/class-webinarsysteemmetabox.php:697
+msgid "Preview Page"
+msgstr "プレビューページ"
+
+#: includes/class-webinarsysteemmetabox.php:698
+msgid "Only use this generated link for test purposes"
+msgstr "テスト目的のためだけに、この生成されたリンクを使用してください"
+
+#: includes/class-webinarsysteemoptions.php:32
+msgid "WP WebinarSystem Options"
+msgstr "WP WebinarSystemオプション"
+
+#: includes/class-webinarsysteemoptions.php:35
+#: includes/templates/template-metabox-countdownpage.php:4
+#: includes/templates/template-metabox-livepage.php:4
+#: includes/templates/template-metabox-registerpage.php:4
+#: includes/templates/template-metabox-replaypage.php:4
+#: includes/templates/template-metabox-thankyoupage.php:4
+msgid "General"
+msgstr "全般"
+
+#: includes/class-webinarsysteemoptions.php:36
+msgid "Emails"
+msgstr "メール"
+
+#: includes/class-webinarsysteemoptions.php:37
+#: includes/class-webinarsysteemoptions.php:398
+msgid "Advanced"
+msgstr "高度な設定"
+
+#: includes/class-webinarsysteemoptions.php:38
+msgid "System Status"
+msgstr "システムステータス"
+
+#: includes/class-webinarsysteemoptions.php:45
+msgid "No settings to show here at this moment."
+msgstr "現時点で、表示する設定はありません。"
+
+#: includes/class-webinarsysteemoptions.php:54
+msgid "Email options"
+msgstr "メールオプション"
+
+#: includes/class-webinarsysteemoptions.php:56
+msgid "Reminder day before Webinar"
+msgstr "ウェビナー前日のリマインダー"
+
+#: includes/class-webinarsysteemoptions.php:57
+msgid "Reminder one hour before Webinar"
+msgstr "ウェビナー1時間前のリマインダー"
+
+#: includes/class-webinarsysteemoptions.php:58
+msgid "Reminder Webinar Starting"
+msgstr "ウェビナー開始時のリマインダー"
+
+#: includes/class-webinarsysteemoptions.php:59
+msgid "Webinar replay"
+msgstr "ウェビナーリプレイ"
+
+#: includes/class-webinarsysteemoptions.php:64
+msgid "Email Sender Options"
+msgstr "メール送信者オプション"
+
+#: includes/class-webinarsysteemoptions.php:67
+msgid "\"From\" Name"
+msgstr "送信元表示名"
+
+#: includes/class-webinarsysteemoptions.php:67
+msgid "Sender name"
+msgstr "送信者名"
+
+#: includes/class-webinarsysteemoptions.php:70
+msgid "\"From\" Email Address"
+msgstr "送信元メールアドレス"
+
+#: includes/class-webinarsysteemoptions.php:70
+msgid "Sender email"
+msgstr "送信者メールアドレス"
+
+#: includes/class-webinarsysteemoptions.php:74
+msgid "Email Template"
+msgstr "メール テンプレート"
+
+#: includes/class-webinarsysteemoptions.php:78
+msgid "Header Image"
+msgstr "ヘッダーイメージ"
+
+#: includes/class-webinarsysteemoptions.php:82
+msgid "Upload"
+msgstr "アップロード"
+
+#: includes/class-webinarsysteemoptions.php:88
+msgid "Email Footer Text"
+msgstr "メールフッターテキスト"
+
+#: includes/class-webinarsysteemoptions.php:91
+msgid "Footer Text"
+msgstr "フッターテキスト"
+
+#: includes/class-webinarsysteemoptions.php:96
+msgid "Base color"
+msgstr "背景カラー"
+
+#: includes/class-webinarsysteemoptions.php:112
+msgid "Email Body Background color"
+msgstr "メール本文の背景色"
+
+#: includes/class-webinarsysteemoptions.php:120
+msgid "Email Body Text color"
+msgstr "メール本文の文字色"
+
+#: includes/class-webinarsysteemoptions.php:130
+#: includes/class-webinarsysteemoptions.php:204
+#: includes/class-webinarsysteemoptions.php:266
+#: includes/class-webinarsysteemoptions.php:327
+#: includes/class-webinarsysteemoptions.php:388
+msgid "Reset Default Template"
+msgstr "既定のテンプレートにリセット"
+
+#: includes/class-webinarsysteemoptions.php:139
+msgid "New Registration Options"
+msgstr "新規登録オプション"
+
+#: includes/class-webinarsysteemoptions.php:142
+msgid "Admin Email Address"
+msgstr "管理者メールアドレス"
+
+#: includes/class-webinarsysteemoptions.php:142
+msgid "Admin email"
+msgstr "管理者のメールアドレス"
+
+#: includes/class-webinarsysteemoptions.php:148
+msgid "Reminder day before Webinar "
+msgstr "ウェビナー前日のリマインダー"
+
+#: includes/class-webinarsysteemoptions.php:152
+#: includes/class-webinarsysteemoptions.php:217
+#: includes/class-webinarsysteemoptions.php:278
+#: includes/class-webinarsysteemoptions.php:339
+msgid "Enable this reminder?"
+msgstr "このリマインダーを有効にしますか？"
+
+#: includes/class-webinarsysteemoptions.php:160
+#: includes/class-webinarsysteemoptions.php:225
+#: includes/class-webinarsysteemoptions.php:286
+#: includes/class-webinarsysteemoptions.php:347
+msgid "Subject"
+msgstr "件名"
+
+#: includes/class-webinarsysteemoptions.php:163
+#: includes/class-webinarsysteemoptions.php:228
+#: includes/class-webinarsysteemoptions.php:289
+#: includes/class-webinarsysteemoptions.php:350
+msgid "Email Head"
+msgstr "メールの見出し"
+
+#: includes/class-webinarsysteemoptions.php:168
+#: includes/class-webinarsysteemoptions.php:233
+#: includes/class-webinarsysteemoptions.php:294
+#: includes/class-webinarsysteemoptions.php:355
+msgid "Available Shortcodes:"
+msgstr "利用可能なショートコード："
+
+#: includes/class-webinarsysteemoptions.php:176
+#: includes/class-webinarsysteemoptions.php:241
+#: includes/class-webinarsysteemoptions.php:302
+#: includes/class-webinarsysteemoptions.php:363
+#: includes/templates/template-metabox-thankyoupage.php:71
+msgid "Content"
+msgstr "コンテンツ"
+
+#: includes/class-webinarsysteemoptions.php:193
+#: includes/class-webinarsysteemoptions.php:255
+#: includes/class-webinarsysteemoptions.php:316
+#: includes/class-webinarsysteemoptions.php:377
+msgid "Your email address"
+msgstr "あなたのメールアドレス"
+
+#: includes/class-webinarsysteemoptions.php:194
+#: includes/class-webinarsysteemoptions.php:256
+#: includes/class-webinarsysteemoptions.php:317
+#: includes/class-webinarsysteemoptions.php:378
+msgid "Send Preview"
+msgstr "プレビューを送信"
+
+#: includes/class-webinarsysteemoptions.php:198
+#: includes/class-webinarsysteemoptions.php:260
+#: includes/class-webinarsysteemoptions.php:321
+#: includes/class-webinarsysteemoptions.php:382
+msgid "Add a Webinar to send a preview email."
+msgstr "プレビューを送信するウェビナーを選択"
+
+#: includes/class-webinarsysteemoptions.php:212
+msgid "Reminder one hour before Webinar "
+msgstr "ウェビナー1時間前のリマインダー"
+
+#: includes/class-webinarsysteemoptions.php:274
+msgid "Reminder when Webinar starts"
+msgstr "ウェビナー開始時のリマインダー"
+
+#: includes/class-webinarsysteemoptions.php:335
+msgid "Send Webinar Replay Link"
+msgstr "ウェビナーのリプレイリンクを送信"
+
+#: includes/class-webinarsysteemoptions.php:406
+#: includes/class-webinarsysteemoptions.php:455
+msgid "Roles & Permissions"
+msgstr "役割とアクセス権"
+
+#: includes/class-webinarsysteemoptions.php:414
+msgid "Create Webinars"
+msgstr "ウェビナーを作成"
+
+#: includes/class-webinarsysteemoptions.php:427
+msgid "Manage Subscribers"
+msgstr "購読者を管理する"
+
+#: includes/class-webinarsysteemoptions.php:440
+msgid "Change WebinarSystem Settings"
+msgstr "ウェビナーシステム設定を変更"
+
+#: includes/class-webinarsysteemoptions.php:471
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+"サポートデスクにコンタクトする際には、この情報をチケットにコピー＆ペーストし"
+"てください："
+
+#: includes/class-webinarsysteemoptions.php:474
+msgid "Copy for Support"
+msgstr "サポートデスク送信用にコピー"
+
+#: includes/class-webinarsysteemoptions.php:475
+msgid "Copied!"
+msgstr "コピーされました！"
+
+#: includes/class-webinarsysteemoptions.php:477
+msgid "Get System Report"
+msgstr "システムレポートを取得"
+
+#: includes/class-webinarsysteemoptions.php:483
+msgid "WordPress Environment"
+msgstr "WordPress 環境"
+
+#: includes/class-webinarsysteemoptions.php:487
+msgid "Home URL"
+msgstr "ホームのURL"
+
+#: includes/class-webinarsysteemoptions.php:495
+msgid "Site URL"
+msgstr "サイトURL"
+
+#: includes/class-webinarsysteemoptions.php:503
+msgid "WP Version"
+msgstr "WPのバージョン"
+
+#: includes/class-webinarsysteemoptions.php:510
+msgid "WP Multisite"
+msgstr "WP マルチサイト"
+
+#: includes/class-webinarsysteemoptions.php:514
+msgid "WP Debug mode"
+msgstr "WPデバッグモード"
+
+#: includes/class-webinarsysteemoptions.php:523
+msgid "WP Cron status"
+msgstr "WPクーロンのステータス"
+
+#: includes/class-webinarsysteemoptions.php:535
+msgid "Language"
+msgstr "言語"
+
+#: includes/class-webinarsysteemoptions.php:543
+msgid "Plugin Environment"
+msgstr "プラグイン環境"
+
+#: includes/class-webinarsysteemoptions.php:547
+msgid "Webinar System Version"
+msgstr "ウェビナーシステムバージョン"
+
+#: includes/class-webinarsysteemoptions.php:557
+msgid "Server Environment"
+msgstr "サーバー環境"
+
+#: includes/class-webinarsysteemoptions.php:561
+msgid "Server Info"
+msgstr "サーバー情報"
+
+#: includes/class-webinarsysteemoptions.php:569
+msgid "PHP Version"
+msgstr "PHPバージョン"
+
+#: includes/class-webinarsysteemoptions.php:578
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr ""
+"phpversion（）が存在しないため、PHPのバージョンを確認できませんでした。"
+
+#: includes/class-webinarsysteemoptions.php:586
+msgid "PHP Post Max Size"
+msgstr "PHPのPostの最大サイズ"
+
+#: includes/class-webinarsysteemoptions.php:594
+msgid "PHP Time Limit"
+msgstr "PHPタイムリミット"
+
+#: includes/class-webinarsysteemoptions.php:602
+msgid "PHP Max Input Vars"
+msgstr "PHP最大入力バール"
+
+#: includes/class-webinarsysteemoptions.php:610
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN インストール済み"
+
+#: includes/class-webinarsysteemoptions.php:618
+msgid "MySQL Version"
+msgstr "MySQLバージョン"
+
+#: includes/class-webinarsysteemoptions.php:629
+msgid "Max Upload Size"
+msgstr "最大アップロードサイズ"
+
+#: includes/class-webinarsysteemoptions.php:637
+msgid "Default Timezone"
+msgstr "標準のタイムゾーン"
+
+#: includes/class-webinarsysteemoptions.php:649
+msgid "PHP Memory Limit"
+msgstr "PHPメモリ制限"
+
+#: includes/class-webinarsysteemoptions.php:713
+msgid "Server Time"
+msgstr "サーバタイム"
+
+#: includes/class-webinarsysteemoptions.php:733
+msgid "Server Timezone"
+msgstr "サーバーのタイムゾーン"
+
+#: includes/class-webinarsysteemoptions.php:753
+msgid "Server Locale"
+msgstr "サーバーのロケール"
+
+#: includes/class-webinarsysteemoptions.php:760
+msgid "N/A"
+msgstr "該当なし"
+
+#: includes/class-webinarsysteemoptions.php:774
+msgid "Active Plugins ("
+msgstr "有効なプラグイン"
+
+#: includes/class-webinarsysteemoptions.php:792
+msgid "by "
+msgstr "by"
+
+#: includes/class-webinarsysteemoptions.php:802
+msgid "Theme"
+msgstr "テーマ"
+
+#: includes/class-webinarsysteemoptions.php:810
+msgid "Version"
+msgstr "バージョン"
+
+#: includes/class-webinarsysteemoptions.php:814
+msgid "Author URL"
+msgstr "著者のURL"
+
+#: includes/class-webinarsysteemviews.php:77
+msgid "Message Center"
+msgstr "メッセージセンター"
+
+#: includes/templates/template-email-admin-email.php:7
+msgid "Howdy"
+msgstr "こんにちは"
+
+#: includes/templates/template-email-admin-email.php:8
+msgid "just signed up for your webinar"
+msgstr "たった今ウェブセミナーに登録しました"
+
+#: includes/templates/template-email-attendee-replay.php:12
+#: includes/templates/template-email-attendee-wbstarted.php:12
+#: includes/templates/template-email-attendee1hr.php:20
+#: includes/templates/template-email-attendee24hr.php:19
+#: includes/templates/template-email-reader.php:16
+msgid "Go to Webinar"
+msgstr "ウェブセミナーに移動"
+
+#: includes/templates/template-email-reader.php:12
+msgid ""
+"Thank you for your registration for the webinar. Below you will find the "
+"details of the webinar."
+msgstr ""
+"ウェブセミナーにご登録をいただき、ありがとうございます。以下に、ウェブセミ"
+"ナーの詳細を記載しておりますのでご確認ください。"
+
+#: includes/templates/template-metabox-countdownpage.php:7
+#: includes/templates/template-metabox-livepage.php:14
+#: includes/templates/template-metabox-replaypage.php:14
+#: includes/templates/template-metabox-thankyoupage.php:14
+msgid "Title color"
+msgstr "タイトル色"
+
+#: includes/templates/template-metabox-countdownpage.php:13
+msgid "Tagline color"
+msgstr "タグラインテキストの色"
+
+#: includes/templates/template-metabox-countdownpage.php:19
+msgid "Description color"
+msgstr "詳細説明のカラー"
+
+#: includes/templates/template-metabox-countdownpage.php:31
+#: includes/templates/template-metabox-livepage.php:26
+#: includes/templates/template-metabox-replaypage.php:26
+#: includes/templates/template-metabox-thankyoupage.php:26
+msgid "Background image"
+msgstr "背景画像"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+msgid "Countdown Page Background Image"
+msgstr "カウントダウンページの背景画像"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-livepage.php:49
+#: includes/templates/template-metabox-registerpage.php:15
+#: includes/templates/template-metabox-registerpage.php:40
+#: includes/templates/template-metabox-replaypage.php:28
+#: includes/templates/template-metabox-replaypage.php:55
+#: includes/templates/template-metabox-thankyoupage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:46
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+#: includes/templates/template-metabox-countdownpage.php:38
+msgid "Show countdown timer"
+msgstr "カウントダウンタイマーを表示"
+
+#: includes/templates/template-metabox-generalpage.php:25
+msgid "Webinar Type"
+msgstr "ウェビナータイプ"
+
+#: includes/templates/template-metabox-generalpage.php:34
+msgid "Webinar starts at"
+msgstr "ウェブセミナーの開始は"
+
+#: includes/templates/template-metabox-generalpage.php:35
+#: includes/tmp-post.php:188 includes/tmp-registration.php:150
+msgid "Date"
+msgstr "ウェブセミナー日時"
+
+#: includes/templates/template-metabox-generalpage.php:105
+msgid "Disable registration"
+msgstr "登録を無効にします"
+
+#: includes/templates/template-metabox-livepage.php:7
+#: includes/templates/template-metabox-replaypage.php:7
+msgid "Hide Title"
+msgstr "タイトルを非表示"
+
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:28
+msgid "Thankyou Page Background Image"
+msgstr "サンキューページの背景画像"
+
+#: includes/templates/template-metabox-livepage.php:36
+#: includes/templates/template-metabox-replaypage.php:42
+msgid "Webinar type"
+msgstr "ウェビナータイプ"
+
+#: includes/templates/template-metabox-livepage.php:41
+#: includes/templates/template-metabox-registerpage.php:32
+#: includes/templates/template-metabox-replaypage.php:47
+#: includes/templates/template-metabox-thankyoupage.php:38
+msgid "Image"
+msgstr "画像"
+
+#: includes/templates/template-metabox-livepage.php:46
+#: includes/templates/template-metabox-registerpage.php:37
+#: includes/templates/template-metabox-replaypage.php:52
+#: includes/templates/template-metabox-thankyoupage.php:43
+msgid "Video or Image URL"
+msgstr "ビデオまたは画像のURL"
+
+#: includes/templates/template-metabox-livepage.php:49
+#: includes/templates/template-metabox-replaypage.php:55
+msgid "Registration Page Video Image"
+msgstr "登録ページのビデオ画像"
+
+#: includes/templates/template-metabox-livepage.php:51
+msgid ""
+"Paste Youtube/Hangouts URL here (Eg: https://www.youtube.com/watch?"
+"v=3TkeXaMpLe9-XM OR http://youtu.be/CqlB2SiG-ac)"
+msgstr ""
+"ここに、YouTube/ハングアウトのURLを貼り付けます（例：https://www.youtube.com/"
+"watch?v=3TkeXaMpLe9-XM OR http://youtu.be/CqlB2SiG-ac）"
+
+#: includes/templates/template-metabox-livepage.php:52
+#: includes/templates/template-metabox-registerpage.php:44
+#: includes/templates/template-metabox-thankyoupage.php:49
+msgid "Paste Vimeo video ID here (Eg: 129673042)"
+msgstr "ここにVimeoのビデオIDを貼り付けます（例：129673042）"
+
+#: includes/templates/template-metabox-livepage.php:53
+#: includes/templates/template-metabox-registerpage.php:45
+#: includes/templates/template-metabox-replaypage.php:61
+#: includes/templates/template-metabox-thankyoupage.php:50
+msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+msgstr "画像のURL（例：https://example.com/images/the_image.jpg）"
+
+#: includes/templates/template-metabox-livepage.php:58
+msgid "Start a Hangout"
+msgstr "ハングアウトを開始"
+
+#: includes/templates/template-metabox-livepage.php:72
+#: includes/templates/template-metabox-registerpage.php:50
+#: includes/templates/template-metabox-replaypage.php:66
+#: includes/templates/template-metabox-thankyoupage.php:55
+msgid "Video autoplay"
+msgstr "動画の自動再生"
+
+#: includes/templates/template-metabox-livepage.php:75
+#: includes/templates/template-metabox-livepage.php:83
+#: includes/templates/template-metabox-registerpage.php:61
+#: includes/templates/template-metabox-replaypage.php:77
+#: includes/templates/template-metabox-thankyoupage.php:66
+#, php-format
+msgid "%s only."
+msgstr "%s のみ"
+
+#: includes/templates/template-metabox-livepage.php:80
+#: includes/templates/template-metabox-registerpage.php:58
+#: includes/templates/template-metabox-replaypage.php:74
+#: includes/templates/template-metabox-thankyoupage.php:63
+msgid "Video Controls"
+msgstr "ビデオコントロール"
+
+#: includes/templates/template-metabox-registerpage.php:7
+msgid "Page Background color"
+msgstr "ページの背景色"
+
+#: includes/templates/template-metabox-registerpage.php:13
+msgid "Page Background image"
+msgstr "ページの背景画像"
+
+#: includes/templates/template-metabox-registerpage.php:15
+msgid "Registration Page Background Image"
+msgstr "登録ページの背景画像"
+
+#: includes/templates/template-metabox-registerpage.php:20
+msgid "Show Content Section"
+msgstr "コンテンツセクションを表示"
+
+#: includes/templates/template-metabox-registerpage.php:27
+#: includes/templates/template-metabox-thankyoupage.php:33
+msgid "Content type"
+msgstr "コンテンツの種類"
+
+#: includes/templates/template-metabox-registerpage.php:40
+msgid "Registration Page Image"
+msgstr "登録ページ画像"
+
+#: includes/templates/template-metabox-registerpage.php:43
+#: includes/templates/template-metabox-thankyoupage.php:48
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM)"
+msgstr ""
+"YouTubeのURLを貼り付けます（例：https://www.youtube.com/watch?v=3TkeXaMpLe9-"
+"XM）"
+
+#: includes/templates/template-metabox-registerpage.php:68
+msgid "Title Color"
+msgstr "タイトル色"
+
+#: includes/templates/template-metabox-registerpage.php:73
+msgid "Date/Time Color"
+msgstr "日付/時刻の色"
+
+#: includes/templates/template-metabox-registerpage.php:79
+msgid "Form & Tab Layout"
+msgstr "フォーム＆タブのレイアウト"
+
+#: includes/templates/template-metabox-registerpage.php:87
+msgid "Position"
+msgstr "表示位置"
+
+#: includes/templates/template-metabox-registerpage.php:101
+#: includes/templates/template-metabox-thankyoupage.php:139
+#: includes/templates/template-metabox-thankyoupage.php:153
+msgid "Border color"
+msgstr "ボーダーカラー"
+
+#: includes/templates/template-metabox-registerpage.php:107
+msgid "Font color"
+msgstr "フォント色"
+
+#: includes/templates/template-metabox-registerpage.php:113
+msgid "Tab Background color"
+msgstr "タブの背景色"
+
+#: includes/templates/template-metabox-registerpage.php:119
+msgid "Tab Text color"
+msgstr "タブの文字色"
+
+#: includes/templates/template-metabox-registerpage.php:125
+msgid "Register Tab Text"
+msgstr "登録タブのテキスト"
+
+#: includes/templates/template-metabox-registerpage.php:131
+msgid "Login Tab Text"
+msgstr "ログインタブのテキスト"
+
+#: includes/templates/template-metabox-registerpage.php:137
+msgid "Register Tab"
+msgstr "登録タブ"
+
+#: includes/templates/template-metabox-registerpage.php:140
+msgid "Register Title"
+msgstr "登録タイトル"
+
+#: includes/templates/template-metabox-registerpage.php:146
+msgid "Register Text"
+msgstr "登録テキスト"
+
+#: includes/templates/template-metabox-registerpage.php:152
+#: includes/templates/template-metabox-registerpage.php:191
+#: includes/templates/template-metabox-thankyoupage.php:176
+msgid "Button Background color"
+msgstr "ボタンの背景色"
+
+#: includes/templates/template-metabox-registerpage.php:158
+#: includes/templates/template-metabox-registerpage.php:197
+#: includes/templates/template-metabox-thankyoupage.php:182
+msgid "Button Border color"
+msgstr "ボタンの境界線色"
+
+#: includes/templates/template-metabox-registerpage.php:170
+msgid "CTA Button Text"
+msgstr "CTAボタンのテキスト"
+
+#: includes/templates/template-metabox-registerpage.php:176
+msgid "Login Tab"
+msgstr "ログインタブ"
+
+#: includes/templates/template-metabox-registerpage.php:179
+msgid "Login Title"
+msgstr "ログインタイトル"
+
+#: includes/templates/template-metabox-registerpage.php:185
+msgid "Login Text"
+msgstr "ログインテキスト"
+
+#: includes/templates/template-metabox-registerpage.php:209
+msgid "Login Button Text"
+msgstr "ログインボタンのテキスト"
+
+#: includes/templates/template-metabox-registerpage.php:216
+msgid "Description"
+msgstr "詳細説明"
+
+#: includes/templates/template-metabox-registerpage.php:219
+msgid "Show Description Section"
+msgstr "詳細説明セクションを表示"
+
+#: includes/templates/template-metabox-registerpage.php:225
+msgid "Description text color"
+msgstr "詳細説明の文字色"
+
+#: includes/templates/template-metabox-registerpage.php:230
+msgid "Description background color"
+msgstr "詳細説明の背景色"
+
+#: includes/templates/template-metabox-registerpage.php:235
+msgid "Description border color"
+msgstr "詳細説明の境界線色"
+
+#: includes/templates/template-metabox-replaypage.php:28
+msgid "Replay Page Background Image"
+msgstr "リプレイページの背景画像"
+
+#: includes/templates/template-metabox-replaypage.php:35
+msgid "Replay available?"
+msgstr "視聴可能なリプレイ？"
+
+#: includes/templates/template-metabox-replaypage.php:59
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-XM "
+"OR http://youtu.be/CqlB2SiG-ac)"
+msgstr ""
+"ここに、YouTubeのURLを貼り付けます（例：https://www.youtube.com/watch?"
+"v=3TkeXaMpLe9-XM OR http://youtu.be/CqlB2SiG-ac）"
+
+#: includes/templates/template-metabox-replaypage.php:60
+msgid "Paste Vimeo video ID here (Eg: 129673042))"
+msgstr "ここにVimeoのビデオIDを貼り付けます（例：129673042）"
+
+#: includes/templates/template-metabox-thankyoupage.php:7
+msgid "Title text"
+msgstr "タイトルテキスト"
+
+#: includes/templates/template-metabox-thankyoupage.php:9
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "ウェブセミナーの登録が完了しました！"
+
+#: includes/templates/template-metabox-thankyoupage.php:46
+msgid "Thank you Page Image"
+msgstr "登録後サンキューページ画像"
+
+#: includes/templates/template-metabox-thankyoupage.php:74
+msgid "Link above Text Color"
+msgstr "リンク上部の文字色"
+
+#: includes/templates/template-metabox-thankyoupage.php:79
+msgid "Link below Text Color"
+msgstr "リンク下部の文字色"
+
+#: includes/templates/template-metabox-thankyoupage.php:88
+msgid "Border color-1"
+msgstr "ボーダーカラー-1"
+
+#: includes/templates/template-metabox-thankyoupage.php:94
+msgid "Border color-2"
+msgstr "ボーダーカラー-2"
+
+#: includes/templates/template-metabox-thankyoupage.php:100
+msgid "Body Text color"
+msgstr "本文の文字色"
+
+#: includes/templates/template-metabox-thankyoupage.php:106
+msgid "Body Background color"
+msgstr "メール本文の背景色"
+
+#: includes/templates/template-metabox-thankyoupage.php:112
+msgid "Header Background color"
+msgstr "ヘッダーの背景色"
+
+#: includes/templates/template-metabox-thankyoupage.php:118
+msgid "Header Text color"
+msgstr "ヘッダーの文字色"
+
+#: includes/templates/template-metabox-thankyoupage.php:124
+msgid "Button color"
+msgstr "ボタンの色"
+
+#: includes/templates/template-metabox-thankyoupage.php:136
+msgid "Social Sharing"
+msgstr "ソーシャルシェア"
+
+#: includes/templates/template-metabox-thankyoupage.php:150
+msgid "Calendar"
+msgstr "カレンダー"
+
+#: includes/templates/template-metabox-thankyoupage.php:165
+msgid "Text color"
+msgstr "文字色"
+
+#: includes/tmp-closed.php:48
+msgid "Unfortunately, this webinar is closed."
+msgstr "このウェブセミナーの受付は終了しました。"
+
+#: includes/tmp-closed.php:51
+msgid "Click here"
+msgstr "ここをクリックしてください"
+
+#: includes/tmp-closed.php:51
+msgid "to go to our homepage."
+msgstr "ホームページへ移動"
+
+#: includes/tmp-countdown.php:67
+msgid "will begin in"
+msgstr "の開始まであと"
+
+#: includes/tmp-countdown.php:68
+msgid "will begin shortly"
+msgstr "はまもなく開始されます"
+
+#: includes/tmp-countdown.php:74
+msgid "will start"
+msgstr "の開始日時は"
+
+#: includes/tmp-countdown.php:75
+msgid "on"
+msgstr "以下の通りです："
+
+#: includes/tmp-countdown.php:77
+msgid "at"
+msgstr "の"
+
+#: includes/tmp-countdown.php:85
+msgid "Please come back at this time. Thank you for your patience"
+msgstr ""
+"その日時になりましたらまたアクセスしてください。よろしくお願いいたします。"
+
+#: includes/tmp-countdown.php:96
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr ""
+"少しお待ちください。ただいまウェブセミナーが放映されます。このページは自動で"
+"更新されます・・・"
+
+#: includes/tmp-live.php:103 includes/tmp-post.php:186
+#: includes/tmp-registration.php:155
+msgid "Host"
+msgid_plural "Hosts"
+msgstr[0] "講師"
+
+#: includes/tmp-live.php:111
+msgid "Information"
+msgstr "ご案内"
+
+#: includes/tmp-live.php:120
+msgid "Ask your question!"
+msgstr "質問する！"
+
+#: includes/tmp-live.php:125
+msgid "Your name"
+msgstr "お名前"
+
+#: includes/tmp-live.php:128
+msgid "Your email"
+msgstr "あなたのメールアドレス"
+
+#: includes/tmp-live.php:131
+msgid "Type your question here.."
+msgstr "ここに質問を入力してください・・・"
+
+#: includes/tmp-live.php:133
+msgid "Ask Question!"
+msgstr "質問する！"
+
+#: includes/tmp-live.php:137
+msgid "My Questions"
+msgstr "私の質問"
+
+#: includes/tmp-live.php:161
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields "
+"are filled correctly"
+msgstr ""
+"質問フォームへの入力に問題があるようです。もう一度、すべての項目が記入されて"
+"いるかチェックしてみてください。"
+
+#: includes/tmp-live.php:162
+msgid "Please wait.."
+msgstr "しばらくお待ちください"
+
+#: includes/tmp-post.php:158
+msgid "Here is the webinar URL..."
+msgstr "ウェビナー へのアクセスURLです・・・"
+
+#: includes/tmp-post.php:164
+msgid "Save and bookmark this URL so you can get access to the webinar..."
+msgstr ""
+"ウェビナーにすぐに参加できるように、このURLをブックマーク・お気に入りに保存し"
+"ておいてください。"
+
+#: includes/tmp-post.php:174
+msgid "Your Webinar Ticket"
+msgstr "あなたのウェビナーチケット"
+
+#: includes/tmp-post.php:175
+msgid "The Webinar Event Information..."
+msgstr "ウェビナー情報..."
+
+#: includes/tmp-post.php:202
+msgid "Join Webinar in Progress..."
+msgstr "開催中のウェビナーに参加..."
+
+#: includes/tmp-post.php:205
+msgid "Go To Webinar..."
+msgstr "ウェビナーに移動"
+
+#: includes/tmp-post.php:208
+msgid "View Webinar Replay"
+msgstr "ウェビナーのリプレイリを視聴"
+
+#: includes/tmp-post.php:239
+msgid "Add To Your Calendar"
+msgstr "カレンダーに追加"
+
+#: includes/tmp-post.php:240
+msgid "Remind Yourself Of The Event"
+msgstr "このイベントを記憶する"
+
+#: includes/tmp-post.php:249
+msgid "Google Calendar"
+msgstr "グーグルカレンダー"
+
+#: includes/tmp-post.php:251
+msgid "iCal / Outlook"
+msgstr "iCal / Outlook"
+
+#: includes/tmp-registration.php:2
+msgid "No script kiddies please!"
+msgstr "情報は正しくご記入願います。"
+
+#: includes/tmp-registration.php:249
+msgid "Of course we will handle your data safely."
+msgstr ""
+"あなたに確実にウェビナーの開催案内をお送りするために、普段ご利用になっている"
+"メールアドレスを登録してください。"
+
+#. Plugin Name of the plugin/theme
+msgid "WP WebinarSystem Lite"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wpwebinarsystem.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WP WebinarSystem allows you to run webinars within your Wordpress website, "
+"and customize everything around it."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Lucy Eind"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.lucyeind.nl"
+msgstr ""
